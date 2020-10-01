@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uniF710" format="2">
+  <advance width="1200"/>
+  <unicode hex="F710"/>
+  <note>
+uniF710
+</note>
+  <outline>
+    <contour>
+      <point x="612" y="1010" type="line"/>
+      <point x="1038" y="710" type="line"/>
+      <point x="612" y="410" type="line"/>
+      <point x="612" y="1010" type="line"/>
+    </contour>
+    <contour>
+      <point x="162" y="410" type="line"/>
+      <point x="162" y="1010" type="line"/>
+      <point x="588" y="710" type="line"/>
+      <point x="162" y="410" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020/10/01 16:14:27</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

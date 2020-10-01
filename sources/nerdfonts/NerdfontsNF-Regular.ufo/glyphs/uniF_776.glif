@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uniF776" format="2">
+  <advance width="1200"/>
+  <unicode hex="F776"/>
+  <note>
+uniF776
+</note>
+  <outline>
+    <contour>
+      <point x="499" y="1060" type="line"/>
+      <point x="900" y="1060" type="line"/>
+      <point x="900" y="910" type="line"/>
+      <point x="759" y="910" type="line"/>
+      <point x="590" y="509" type="line"/>
+      <point x="700" y="509" type="line"/>
+      <point x="700" y="359" type="line"/>
+      <point x="300" y="359" type="line"/>
+      <point x="300" y="509" type="line"/>
+      <point x="440" y="509" type="line"/>
+      <point x="609" y="910" type="line"/>
+      <point x="499" y="910" type="line"/>
+      <point x="499" y="1060" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020/10/01 16:14:27</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>
