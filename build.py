@@ -106,6 +106,13 @@ def prepare_fonts(
                 NERDFONTS_DIR / "NerdfontsPL-Regular.ufo", source.font
             )
             step_set_font_name(name, source.font)
+        elif "Mono" in name and "NF" in name:
+            step_set_feature_file(FEATURES_DIR / "features_mono_PL.fea", source.font)
+            print(f"[{name} {source.styleName}] Merging NF glyphs")
+            step_merge_glyphs_from_ufo(
+                NERDFONTS_DIR / "NerdfontsNF-Regular.ufo", source.font
+            )
+            step_set_font_name(name, source.font)
         elif "Mono" in name:
             step_set_feature_file(FEATURES_DIR / "features_mono.fea", source.font)
             step_set_font_name(name, source.font)
@@ -114,6 +121,13 @@ def prepare_fonts(
             print(f"[{name} {source.styleName}] Merging PL glyphs")
             step_merge_glyphs_from_ufo(
                 NERDFONTS_DIR / "NerdfontsPL-Regular.ufo", source.font
+            )
+            step_set_font_name(name, source.font)
+        elif "NF" in name:
+            step_set_feature_file(FEATURES_DIR / "features_code_PL.fea", source.font)
+            print(f"[{name} {source.styleName}] Merging NF glyphs")
+            step_merge_glyphs_from_ufo(
+                NERDFONTS_DIR / "NerdfontsNF-Regular.ufo", source.font
             )
             step_set_font_name(name, source.font)
         elif name == "Cascadia Code":
@@ -263,6 +277,7 @@ def ttfautohint(path: str) -> None:
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description="build some fonts")
     parser.add_argument("-P", "--no-powerline", action="store_false", dest="powerline")
+    parser.add_argument("-NF", "--no-nerdfonts", action="store_false", dest="nerdfonts")
     parser.add_argument("-M", "--no-mono", action="store_false", dest="mono")
     parser.add_argument("-S", "--static-fonts", action="store_true")
     parser.add_argument(
@@ -331,6 +346,28 @@ if __name__ == "__main__":
                     ),
                 )
             )
+    if args.nerdfonts:
+        processes.append(
+            pool.apply_async(
+                build_font_variable,
+                (
+                    designspace,
+                    "Cascadia Code NF",
+                    args.vtt_compile,
+                ),
+            )
+        )
+        if args.mono:
+            processes.append(
+                pool.apply_async(
+                    build_font_variable,
+                    (
+                        designspace,
+                        "Cascadia Mono NF",
+                        args.vtt_compile,
+                    ),
+                )
+            )
 
     if args.static_fonts:
         for instance_descriptor in designspace.instances:
@@ -374,6 +411,28 @@ if __name__ == "__main__":
                                 designspace,
                                 instance_descriptor,
                                 "Cascadia Mono PL",
+                            ),
+                        )
+                    )
+            if args.nerdfonts:
+                processes.append(
+                    pool.apply_async(
+                        build_font_static,
+                        (
+                            designspace,
+                            instance_descriptor,
+                            "Cascadia Code NF",
+                        ),
+                    )
+                )
+                if args.mono:
+                    processes.append(
+                        pool.apply_async(
+                            build_font_static,
+                            (
+                                designspace,
+                                instance_descriptor,
+                                "Cascadia Mono NF",
                             ),
                         )
                     )
