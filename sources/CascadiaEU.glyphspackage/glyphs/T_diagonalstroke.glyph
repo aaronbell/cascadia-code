@@ -1,0 +1,96 @@
+{
+glyphname = Tdiagonalstroke;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+position = "{600, -388}";
+},
+{
+name = top;
+position = "{600, 1500}";
+}
+);
+components = (
+{
+name = T;
+}
+);
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"1024 1692 LINE",
+"928 1716 LINE",
+"342 -306 LINE",
+"428 -330 LINE"
+);
+}
+);
+width = 1200;
+},
+{
+anchors = (
+{
+name = bottom;
+position = "{600, -388}";
+},
+{
+name = top;
+position = "{600, 1500}";
+}
+);
+components = (
+{
+name = T;
+}
+);
+layerId = "1F90C004-9C90-48FA-B407-176B3E9F1E65";
+paths = (
+{
+closed = 1;
+nodes = (
+"1114 1672 LINE",
+"993 1716 LINE",
+"237 -306 LINE",
+"358 -350 LINE"
+);
+}
+);
+width = 1200;
+},
+{
+anchors = (
+{
+name = bottom;
+position = "{600, -388}";
+},
+{
+name = top;
+position = "{600, 1500}";
+}
+);
+components = (
+{
+name = T;
+}
+);
+layerId = "8E053A5E-67DA-4970-A6F5-068DBFE5AD21";
+paths = (
+{
+closed = 1;
+nodes = (
+"1101 1672 LINE",
+"908 1716 LINE",
+"232 -286 LINE",
+"405 -350 LINE"
+);
+}
+);
+width = 1200;
+}
+);
+unicode = 023E;
+}

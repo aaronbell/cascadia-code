@@ -1,0 +1,86 @@
+{
+glyphname = "Endescender-cy";
+production = uni04A2;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+position = "{600, -290}";
+}
+);
+components = (
+{
+name = "En-cy";
+}
+);
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"1120 -290 LINE",
+"1120 88 LINE",
+"1026 88 LINE",
+"1026 -290 LINE"
+);
+}
+);
+width = 1200;
+},
+{
+anchors = (
+{
+name = bottom;
+position = "{600, -290}";
+}
+);
+components = (
+{
+name = "En-cy";
+}
+);
+layerId = "1F90C004-9C90-48FA-B407-176B3E9F1E65";
+paths = (
+{
+closed = 1;
+nodes = (
+"1160 -290 LINE",
+"1160 190 LINE",
+"962 190 LINE",
+"962 -290 LINE"
+);
+}
+);
+width = 1200;
+},
+{
+anchors = (
+{
+name = bottom;
+position = "{600, -290}";
+}
+);
+components = (
+{
+alignment = -1;
+name = "En-cy";
+}
+);
+layerId = "8E053A5E-67DA-4970-A6F5-068DBFE5AD21";
+paths = (
+{
+closed = 1;
+nodes = (
+"1177 -290 LINE",
+"1177 243 LINE",
+"915 243 LINE",
+"915 -290 LINE"
+);
+}
+);
+width = 1200;
+}
+);
+unicode = 04A2;
+}

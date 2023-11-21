@@ -1,0 +1,142 @@
+{
+glyphname = liraTurkish;
+production = uni20BA;
+layers = (
+{
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"848 -20 OFFCURVE",
+"963 18 OFFCURVE",
+"1102 107 CURVE",
+"1062 184 LINE",
+"938 104 OFFCURVE",
+"836 70 OFFCURVE",
+"718 70 CURVE SMOOTH",
+"542 70 OFFCURVE",
+"467 151 OFFCURVE",
+"467 340 CURVE SMOOTH",
+"467 1420 LINE",
+"373 1420 LINE",
+"373 330 LINE SMOOTH",
+"373 84 OFFCURVE",
+"476 -20 OFFCURVE",
+"718 -20 CURVE SMOOTH"
+);
+},
+{
+closed = 1;
+nodes = (
+"998 639 LINE",
+"998 733 LINE",
+"144 587 LINE",
+"144 493 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"998 969 LINE",
+"998 1063 LINE",
+"144 917 LINE",
+"144 823 LINE"
+);
+}
+);
+width = 1200;
+},
+{
+layerId = "1F90C004-9C90-48FA-B407-176B3E9F1E65";
+paths = (
+{
+closed = 1;
+nodes = (
+"849 -20 OFFCURVE",
+"979 19 OFFCURVE",
+"1124 112 CURVE",
+"1040 278 LINE",
+"929 206 OFFCURVE",
+"829 170 OFFCURVE",
+"738 170 CURVE SMOOTH",
+"561 170 OFFCURVE",
+"528 242 OFFCURVE",
+"528 410 CURVE SMOOTH",
+"528 1420 LINE",
+"320 1420 LINE",
+"320 400 LINE SMOOTH",
+"320 106 OFFCURVE",
+"428 -20 OFFCURVE",
+"688 -20 CURVE SMOOTH"
+);
+},
+{
+closed = 1;
+nodes = (
+"998 601 LINE",
+"998 759 LINE",
+"120 609 LINE",
+"120 451 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"998 931 LINE",
+"998 1089 LINE",
+"120 939 LINE",
+"120 781 LINE"
+);
+}
+);
+width = 1200;
+},
+{
+layerId = "8E053A5E-67DA-4970-A6F5-068DBFE5AD21";
+paths = (
+{
+closed = 1;
+nodes = (
+"855 -20 OFFCURVE",
+"990 19 OFFCURVE",
+"1141 112 CURVE",
+"1057 341 LINE",
+"940 269 OFFCURVE",
+"834 233 OFFCURVE",
+"738 233 CURVE SMOOTH",
+"593 233 OFFCURVE",
+"567 305 OFFCURVE",
+"567 473 CURVE SMOOTH",
+"567 1420 LINE",
+"303 1420 LINE",
+"303 400 LINE SMOOTH",
+"303 106 OFFCURVE",
+"416 -20 OFFCURVE",
+"688 -20 CURVE SMOOTH"
+);
+},
+{
+closed = 1;
+nodes = (
+"998 553 LINE",
+"998 776 LINE",
+"103 626 LINE",
+"103 403 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"998 933 LINE",
+"998 1156 LINE",
+"103 1006 LINE",
+"103 783 LINE"
+);
+}
+);
+width = 1200;
+}
+);
+unicode = 20BA;
+}

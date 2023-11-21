@@ -1,0 +1,135 @@
+{
+glyphname = "alefdagesh-hb";
+layers = (
+{
+components = (
+{
+name = "alef-hb";
+},
+{
+name = "dagesh-hb";
+transform = "{1, 0, 0, 1, -157, -213}";
+}
+);
+layerId = master01;
+width = 1200;
+},
+{
+components = (
+{
+name = "alef-hb";
+},
+{
+name = "dagesh-hb";
+transform = "{1, 0, 0, 1, -151, -170}";
+}
+);
+layerId = "8E053A5E-67DA-4970-A6F5-068DBFE5AD21";
+width = 1200;
+},
+{
+components = (
+{
+name = "alef-hb";
+},
+{
+name = "dagesh-hb";
+transform = "{1, 0, 0, 1, -153, -188}";
+}
+);
+layerId = "1F90C004-9C90-48FA-B407-176B3E9F1E65";
+width = 1200;
+},
+{
+associatedMasterId = master01;
+components = (
+{
+name = "alef-hb";
+}
+);
+layerId = "E941E052-87FE-424A-9866-4D169A1570DB";
+name = "[500]";
+paths = (
+{
+closed = 1;
+nodes = (
+"493 241 OFFCURVE",
+"534 281 OFFCURVE",
+"534 331 CURVE SMOOTH",
+"534 381 OFFCURVE",
+"493 422 OFFCURVE",
+"443 422 CURVE SMOOTH",
+"393 422 OFFCURVE",
+"352 381 OFFCURVE",
+"352 331 CURVE SMOOTH",
+"352 281 OFFCURVE",
+"393 241 OFFCURVE",
+"443 241 CURVE SMOOTH"
+);
+}
+);
+width = 1200;
+},
+{
+associatedMasterId = "1F90C004-9C90-48FA-B407-176B3E9F1E65";
+components = (
+{
+name = "alef-hb";
+}
+);
+layerId = "E0F64563-CA47-48C5-8CCC-9A2AD4E8A4DE";
+name = "[500]";
+paths = (
+{
+closed = 1;
+nodes = (
+"497 266 OFFCURVE",
+"538 306 OFFCURVE",
+"538 356 CURVE SMOOTH",
+"538 406 OFFCURVE",
+"497 447 OFFCURVE",
+"447 447 CURVE SMOOTH",
+"397 447 OFFCURVE",
+"356 406 OFFCURVE",
+"356 356 CURVE SMOOTH",
+"356 306 OFFCURVE",
+"397 266 OFFCURVE",
+"447 266 CURVE SMOOTH"
+);
+}
+);
+width = 1200;
+},
+{
+associatedMasterId = "8E053A5E-67DA-4970-A6F5-068DBFE5AD21";
+components = (
+{
+name = "alef-hb";
+}
+);
+layerId = "25364285-B084-40EB-9DA5-A6192B0CF476";
+name = "[500]";
+paths = (
+{
+closed = 1;
+nodes = (
+"486.352 306.095 OFFCURVE",
+"517.155 336.147 OFFCURVE",
+"517.155 373.713 CURVE SMOOTH",
+"517.155 411.278 OFFCURVE",
+"486.352 442.082 OFFCURVE",
+"448.786 442.082 CURVE SMOOTH",
+"411.221 442.082 OFFCURVE",
+"380.417 411.278 OFFCURVE",
+"380.417 373.713 CURVE SMOOTH",
+"380.417 336.147 OFFCURVE",
+"411.221 306.095 OFFCURVE",
+"448.786 306.095 CURVE SMOOTH"
+);
+}
+);
+width = 1200;
+}
+);
+unicode = FB30;
+}

@@ -1,0 +1,234 @@
+{
+glyphname = IJ;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+position = "{600, 0}";
+},
+{
+name = top;
+position = "{600, 1420}";
+}
+);
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"915 -20 OFFCURVE",
+"1058 132 OFFCURVE",
+"1058 396 CURVE SMOOTH",
+"1058 1420 LINE",
+"964 1420 LINE",
+"964 396 LINE SMOOTH",
+"964 189 OFFCURVE",
+"856 70 OFFCURVE",
+"670 70 CURVE SMOOTH",
+"482 70 OFFCURVE",
+"374 181 OFFCURVE",
+"374 376 CURVE",
+"278 376 LINE",
+"278 124 OFFCURVE",
+"419 -20 OFFCURVE",
+"665 -20 CURVE SMOOTH"
+);
+},
+{
+closed = 1;
+nodes = (
+"599 517 LINE",
+"599 607 LINE",
+"55 607 LINE",
+"55 517 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"373 517 LINE",
+"373 1420 LINE",
+"279 1420 LINE",
+"279 517 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"579 1330 LINE",
+"579 1420 LINE",
+"55 1420 LINE",
+"55 1330 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"1012 1330 LINE",
+"1012 1420 LINE",
+"690 1420 LINE",
+"690 1330 LINE"
+);
+}
+);
+userData = {
+com.schriftgestaltung.Glyphs.glyph.rightMetricsKey = J;
+};
+width = 1200;
+},
+{
+anchors = (
+{
+name = bottom;
+position = "{600, 0}";
+},
+{
+name = top;
+position = "{600, 1420}";
+}
+);
+layerId = "1F90C004-9C90-48FA-B407-176B3E9F1E65";
+paths = (
+{
+closed = 1;
+nodes = (
+"934 -20 OFFCURVE",
+"1082 131 OFFCURVE",
+"1082 436 CURVE SMOOTH",
+"1082 1420 LINE",
+"874 1420 LINE",
+"874 436 LINE SMOOTH",
+"874 251 OFFCURVE",
+"796 160 OFFCURVE",
+"639 160 CURVE SMOOTH",
+"500 160 OFFCURVE",
+"430 225 OFFCURVE",
+"430 356 CURVE",
+"222 356 LINE",
+"222 105 OFFCURVE",
+"358 -20 OFFCURVE",
+"634 -20 CURVE SMOOTH"
+);
+},
+{
+closed = 1;
+nodes = (
+"599 497 LINE",
+"599 687 LINE",
+"55 687 LINE",
+"55 497 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"425 497 LINE",
+"425 1420 LINE",
+"227 1420 LINE",
+"227 497 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"579 1230 LINE",
+"579 1420 LINE",
+"55 1420 LINE",
+"55 1230 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"976 1230 LINE",
+"976 1420 LINE",
+"690 1420 LINE",
+"690 1230 LINE"
+);
+}
+);
+userData = {
+com.schriftgestaltung.Glyphs.glyph.rightMetricsKey = J;
+};
+width = 1200;
+},
+{
+anchors = (
+{
+name = bottom;
+position = "{600, 0}";
+},
+{
+name = top;
+position = "{600, 1420}";
+}
+);
+layerId = "8E053A5E-67DA-4970-A6F5-068DBFE5AD21";
+paths = (
+{
+closed = 1;
+nodes = (
+"940 -20 OFFCURVE",
+"1094 154 OFFCURVE",
+"1094 507 CURVE SMOOTH",
+"1094 1420 LINE",
+"832 1420 LINE",
+"832 507 LINE SMOOTH",
+"832 314 OFFCURVE",
+"771 231 OFFCURVE",
+"632 231 CURVE SMOOTH",
+"508 231 OFFCURVE",
+"453 291 OFFCURVE",
+"453 427 CURVE",
+"181 427 LINE",
+"181 128 OFFCURVE",
+"329 -20 OFFCURVE",
+"627 -20 CURVE SMOOTH"
+);
+},
+{
+closed = 1;
+nodes = (
+"619 568 LINE",
+"619 811 LINE",
+"33 811 LINE",
+"33 568 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"449 568 LINE",
+"449 1420 LINE",
+"187 1420 LINE",
+"187 568 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"599 1177 LINE",
+"599 1420 LINE",
+"33 1420 LINE",
+"33 1177 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"926 1177 LINE",
+"926 1420 LINE",
+"685 1420 LINE",
+"685 1177 LINE"
+);
+}
+);
+userData = {
+com.schriftgestaltung.Glyphs.glyph.rightMetricsKey = J;
+};
+width = 1200;
+}
+);
+unicode = 0132;
+}

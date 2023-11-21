@@ -1,0 +1,45 @@
+{
+glyphname = "veh-ar.medi";
+layers = (
+{
+components = (
+{
+name = "fehDotless-ar.medi";
+},
+{
+name = "threedotsupabove-ar";
+transform = "{1, 0, 0, 1, 10, 357}";
+}
+);
+layerId = master01;
+width = 1200;
+},
+{
+components = (
+{
+name = "fehDotless-ar.medi";
+},
+{
+anchor = top.dot;
+name = "threedotsupabove-ar";
+transform = "{1, 0, 0, 1, 1, 317}";
+}
+);
+layerId = "1F90C004-9C90-48FA-B407-176B3E9F1E65";
+width = 1200;
+},
+{
+components = (
+{
+name = "fehDotless-ar.medi";
+},
+{
+name = "threedotsupabove-ar";
+transform = "{1, 0, 0, 1, -2, 357}";
+}
+);
+layerId = "8E053A5E-67DA-4970-A6F5-068DBFE5AD21";
+width = 1200;
+}
+);
+}

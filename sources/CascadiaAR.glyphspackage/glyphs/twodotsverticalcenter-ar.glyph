@@ -1,0 +1,65 @@
+{
+glyphname = "twodotsverticalcenter-ar";
+layers = (
+{
+anchors = (
+{
+name = _center;
+position = "{599, 320}";
+}
+);
+components = (
+{
+name = "dotbelow-ar";
+transform = "{0.96, 0, 0, 0.96, 21, 698}";
+},
+{
+name = "dotbelow-ar";
+transform = "{0.96, 0, 0, 0.96, 18, 413}";
+}
+);
+layerId = master01;
+width = 1200;
+},
+{
+anchors = (
+{
+name = _center;
+position = "{599, 320}";
+}
+);
+components = (
+{
+name = "dotbelow-ar";
+transform = "{0.96, 0, 0, 0.96, 21, 698}";
+},
+{
+name = "dotbelow-ar";
+transform = "{0.96, 0, 0, 0.96, 18, 413}";
+}
+);
+layerId = "1F90C004-9C90-48FA-B407-176B3E9F1E65";
+width = 1200;
+},
+{
+anchors = (
+{
+name = _center;
+position = "{599, 320}";
+}
+);
+components = (
+{
+name = "dotbelow-ar";
+transform = "{0.96, 0, 0, 0.96, 21, 698}";
+},
+{
+name = "dotbelow-ar";
+transform = "{0.96, 0, 0, 0.96, 18, 413}";
+}
+);
+layerId = "8E053A5E-67DA-4970-A6F5-068DBFE5AD21";
+width = 1200;
+}
+);
+}

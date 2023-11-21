@@ -1,0 +1,155 @@
+{
+color = 10;
+glyphname = N;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+position = "{600, 0}";
+},
+{
+name = top;
+position = "{600, 1420}";
+}
+);
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"969 0 LINE",
+"969 88 LINE",
+"927 88 LINE",
+"333 1420 LINE",
+"215 1420 LINE",
+"215 1332 LINE",
+"274 1332 LINE",
+"868 0 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"266 0 LINE",
+"266 1420 LINE",
+"172 1420 LINE",
+"172 0 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"1028 0 LINE",
+"1028 1420 LINE",
+"934 1420 LINE",
+"934 0 LINE"
+);
+}
+);
+width = 1200;
+},
+{
+anchors = (
+{
+name = bottom;
+position = "{600, 0}";
+},
+{
+name = top;
+position = "{600, 1420}";
+}
+);
+annotations = (
+{
+position = "{603.456, 1706.061}";
+text = "vertical stems feel light. Maybe need a little boost? (see D)";
+type = Text;
+}
+);
+layerId = "1F90C004-9C90-48FA-B407-176B3E9F1E65";
+paths = (
+{
+closed = 1;
+nodes = (
+"874 0 LINE",
+"874 340 LINE",
+"824 340 LINE",
+"416 1420 LINE",
+"284 1420 LINE",
+"284 1080 LINE",
+"376 1080 LINE",
+"784 0 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"356 0 LINE",
+"356 1420 LINE",
+"148 1420 LINE",
+"148 0 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"1052 0 LINE",
+"1052 1420 LINE",
+"844 1420 LINE",
+"844 0 LINE"
+);
+}
+);
+width = 1200;
+},
+{
+anchors = (
+{
+name = bottom;
+position = "{600, 0}";
+},
+{
+name = top;
+position = "{600, 1420}";
+}
+);
+layerId = "8E053A5E-67DA-4970-A6F5-068DBFE5AD21";
+paths = (
+{
+closed = 1;
+nodes = (
+"845 0 LINE",
+"845 310 LINE",
+"778 310 LINE",
+"528 1420 LINE",
+"313 1420 LINE",
+"313 1110 LINE",
+"422 1110 LINE",
+"672 0 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"385 0 LINE",
+"385 1420 LINE",
+"131 1420 LINE",
+"131 0 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"1069 0 LINE",
+"1069 1420 LINE",
+"815 1420 LINE",
+"815 0 LINE"
+);
+}
+);
+width = 1200;
+}
+);
+unicode = 004E;
+}

@@ -1,0 +1,96 @@
+{
+glyphname = Cstroke;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+position = "{665, -388}";
+},
+{
+name = top;
+position = "{695, 1500}";
+}
+);
+components = (
+{
+name = C;
+}
+);
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"924 1692 LINE",
+"827 1708 LINE",
+"441 -314 LINE",
+"528 -330 LINE"
+);
+}
+);
+width = 1200;
+},
+{
+anchors = (
+{
+name = bottom;
+position = "{665, -388}";
+},
+{
+name = top;
+position = "{695, 1500}";
+}
+);
+components = (
+{
+name = C;
+}
+);
+layerId = "1F90C004-9C90-48FA-B407-176B3E9F1E65";
+paths = (
+{
+closed = 1;
+nodes = (
+"929 1692 LINE",
+"793 1716 LINE",
+"437 -306 LINE",
+"573 -330 LINE"
+);
+}
+);
+width = 1200;
+},
+{
+anchors = (
+{
+name = bottom;
+position = "{665, -388}";
+},
+{
+name = top;
+position = "{695, 1500}";
+}
+);
+components = (
+{
+name = C;
+}
+);
+layerId = "8E053A5E-67DA-4970-A6F5-068DBFE5AD21";
+paths = (
+{
+closed = 1;
+nodes = (
+"951 1692 LINE",
+"748 1716 LINE",
+"392 -306 LINE",
+"595 -330 LINE"
+);
+}
+);
+width = 1200;
+}
+);
+unicode = 023B;
+}

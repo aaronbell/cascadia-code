@@ -1,0 +1,140 @@
+{
+glyphname = _hehgoalcomma;
+layers = (
+{
+anchors = (
+{
+name = _bottom;
+position = "{602, -117}";
+},
+{
+name = _bottom.dot;
+position = "{590, -5}";
+},
+{
+name = bottom;
+position = "{592, -424}";
+}
+);
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"653 -392 OFFCURVE",
+"683 -356 OFFCURVE",
+"683 -308 CURVE SMOOTH",
+"683 -260 OFFCURVE",
+"657 -238 OFFCURVE",
+"606 -238 CURVE SMOOTH",
+"584 -238 OFFCURVE",
+"564 -239 OFFCURVE",
+"545 -242 CURVE",
+"556 -276 LINE",
+"561 -190 OFFCURVE",
+"602 -130 OFFCURVE",
+"667 -75 CURVE",
+"620 -39 LINE",
+"514 -104 OFFCURVE",
+"474 -205 OFFCURVE",
+"474 -277 CURVE SMOOTH",
+"474 -349 OFFCURVE",
+"512 -392 OFFCURVE",
+"587 -392 CURVE SMOOTH"
+);
+}
+);
+width = 1200;
+},
+{
+anchors = (
+{
+name = _bottom;
+position = "{602, -117}";
+},
+{
+name = _bottom.dot;
+position = "{590, -5}";
+},
+{
+name = bottom;
+position = "{592, -424}";
+}
+);
+layerId = "1F90C004-9C90-48FA-B407-176B3E9F1E65";
+paths = (
+{
+closed = 1;
+nodes = (
+"671 -402 OFFCURVE",
+"709 -356 OFFCURVE",
+"709 -298 CURVE SMOOTH",
+"709 -250 OFFCURVE",
+"680 -211 OFFCURVE",
+"609 -211 CURVE SMOOTH",
+"587 -211 OFFCURVE",
+"567 -213 OFFCURVE",
+"548 -216 CURVE",
+"591 -256 LINE",
+"596 -190 OFFCURVE",
+"621 -141 OFFCURVE",
+"681 -83 CURVE",
+"620 -29 LINE",
+"512 -94 OFFCURVE",
+"460 -196 OFFCURVE",
+"460 -277 CURVE SMOOTH",
+"460 -368 OFFCURVE",
+"512 -402 OFFCURVE",
+"587 -402 CURVE SMOOTH"
+);
+}
+);
+width = 1200;
+},
+{
+anchors = (
+{
+name = _bottom;
+position = "{602, -117}";
+},
+{
+name = _bottom.dot;
+position = "{590, -5}";
+},
+{
+name = bottom;
+position = "{592, -424}";
+}
+);
+layerId = "8E053A5E-67DA-4970-A6F5-068DBFE5AD21";
+paths = (
+{
+closed = 1;
+nodes = (
+"665 -412 OFFCURVE",
+"715 -370 OFFCURVE",
+"715 -292 CURVE SMOOTH",
+"715 -239 OFFCURVE",
+"690 -191 OFFCURVE",
+"609 -191 CURVE SMOOTH",
+"587 -191 OFFCURVE",
+"567 -193 OFFCURVE",
+"548 -196 CURVE",
+"611 -236 LINE",
+"616 -170 OFFCURVE",
+"636 -139 OFFCURVE",
+"691 -83 CURVE",
+"610 -29 LINE",
+"502 -86 OFFCURVE",
+"454 -183 OFFCURVE",
+"454 -274 CURVE SMOOTH",
+"454 -365 OFFCURVE",
+"505 -412 OFFCURVE",
+"587 -412 CURVE SMOOTH"
+);
+}
+);
+width = 1200;
+}
+);
+}

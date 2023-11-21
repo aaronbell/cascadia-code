@@ -1,0 +1,263 @@
+{
+glyphname = shadelight.stypo;
+layers = (
+{
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"1200 1500 LINE",
+"1200 1540 LINE",
+"0 340 LINE",
+"0 300 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"420 -480 LINE",
+"1200 300 LINE",
+"1200 340 LINE",
+"380 -480 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"820 -480 LINE",
+"1200 -100 LINE",
+"1200 -60 LINE",
+"780 -480 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"1200 -480 LINE",
+"1200 -460 LINE",
+"1180 -480 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"1200 700 LINE",
+"1200 740 LINE",
+"0 -460 LINE",
+"20 -480 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"1200 1100 LINE",
+"1200 1140 LINE",
+"0 -60 LINE",
+"0 -100 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"400 1900 LINE",
+"360 1900 LINE",
+"0 1540 LINE",
+"0 1500 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"800 1900 LINE",
+"760 1900 LINE",
+"0 1140 LINE",
+"0 1100 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"1200 1900 LINE",
+"1160 1900 LINE",
+"0 740 LINE",
+"0 700 LINE"
+);
+}
+);
+width = 1200;
+},
+{
+layerId = "1F90C004-9C90-48FA-B407-176B3E9F1E65";
+paths = (
+{
+closed = 1;
+nodes = (
+"1200 1500 LINE",
+"1200 1540 LINE",
+"0 340 LINE",
+"0 300 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"420 -480 LINE",
+"1200 300 LINE",
+"1200 340 LINE",
+"380 -480 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"820 -480 LINE",
+"1200 -100 LINE",
+"1200 -60 LINE",
+"780 -480 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"1200 -480 LINE",
+"1200 -460 LINE",
+"1180 -480 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"1200 700 LINE",
+"1200 740 LINE",
+"0 -460 LINE",
+"20 -480 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"1200 1100 LINE",
+"1200 1140 LINE",
+"0 -60 LINE",
+"0 -100 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"400 1900 LINE",
+"360 1900 LINE",
+"0 1540 LINE",
+"0 1500 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"800 1900 LINE",
+"760 1900 LINE",
+"0 1140 LINE",
+"0 1100 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"1200 1900 LINE",
+"1160 1900 LINE",
+"0 740 LINE",
+"0 700 LINE"
+);
+}
+);
+width = 1200;
+},
+{
+layerId = "8E053A5E-67DA-4970-A6F5-068DBFE5AD21";
+paths = (
+{
+closed = 1;
+nodes = (
+"1200 1500 LINE",
+"1200 1540 LINE",
+"0 340 LINE",
+"0 300 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"420 -480 LINE",
+"1200 300 LINE",
+"1200 340 LINE",
+"380 -480 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"820 -480 LINE",
+"1200 -100 LINE",
+"1200 -60 LINE",
+"780 -480 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"1200 -480 LINE",
+"1200 -460 LINE",
+"1180 -480 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"1200 700 LINE",
+"1200 740 LINE",
+"0 -460 LINE",
+"20 -480 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"1200 1100 LINE",
+"1200 1140 LINE",
+"0 -60 LINE",
+"0 -100 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"400 1900 LINE",
+"360 1900 LINE",
+"0 1540 LINE",
+"0 1500 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"800 1900 LINE",
+"760 1900 LINE",
+"0 1140 LINE",
+"0 1100 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"1200 1900 LINE",
+"1160 1900 LINE",
+"0 740 LINE",
+"0 700 LINE"
+);
+}
+);
+width = 1200;
+}
+);
+}

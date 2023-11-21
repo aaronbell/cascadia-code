@@ -1,0 +1,177 @@
+{
+glyphname = less;
+layers = (
+{
+layerId = m004;
+paths = (
+{
+closed = 1;
+nodes = (
+"523 334 LINE",
+"127 705 LINE",
+"127 713 LINE",
+"523 1084 LINE",
+"523 1204 LINE",
+"53 765 LINE",
+"53 653 LINE",
+"523 214 LINE"
+);
+}
+);
+width = 600;
+},
+{
+layerId = m005;
+paths = (
+{
+closed = 1;
+nodes = (
+"528 424 LINE",
+"193 700 LINE",
+"193 718 LINE",
+"528 994 LINE",
+"528 1204 LINE",
+"50 800 LINE",
+"50 618 LINE",
+"528 214 LINE"
+);
+}
+);
+width = 600;
+},
+{
+layerId = m006;
+paths = (
+{
+closed = 1;
+nodes = (
+"560 467 LINE",
+"209 700 LINE",
+"209 718 LINE",
+"560 951 LINE",
+"560 1216 LINE",
+"16 838 LINE",
+"16 580 LINE",
+"560 202 LINE"
+);
+}
+);
+width = 600;
+},
+{
+layerId = m007;
+paths = (
+{
+closed = 1;
+nodes = (
+"1030 314 LINE",
+"198 705 LINE",
+"198 713 LINE",
+"1030 1104 LINE",
+"1030 1204 LINE",
+"120 765 LINE",
+"120 653 LINE",
+"1030 214 LINE"
+);
+}
+);
+width = 1200;
+},
+{
+layerId = m008;
+paths = (
+{
+closed = 1;
+nodes = (
+"1054 434 LINE",
+"314 700 LINE",
+"314 718 LINE",
+"1054 984 LINE",
+"1054 1204 LINE",
+"96 810 LINE",
+"96 608 LINE",
+"1054 214 LINE"
+);
+}
+);
+width = 1200;
+},
+{
+layerId = m009;
+paths = (
+{
+closed = 1;
+nodes = (
+"1087 467 LINE",
+"331 700 LINE",
+"331 718 LINE",
+"1087 951 LINE",
+"1087 1221 LINE",
+"63 843 LINE",
+"63 575 LINE",
+"1087 197 LINE"
+);
+}
+);
+width = 1200;
+},
+{
+layerId = "8A5928CE-31B2-4F56-BC21-FB6F481DC46A";
+paths = (
+{
+closed = 1;
+nodes = (
+"791 429 LINE",
+"254 700 LINE",
+"254 718 LINE",
+"791 989 LINE",
+"791 1204 LINE",
+"73 805 LINE",
+"73 613 LINE",
+"791 214 LINE"
+);
+}
+);
+width = 900;
+},
+{
+layerId = "A3FCBCC7-55DF-4604-8A77-DC78C4EF6076";
+paths = (
+{
+closed = 1;
+nodes = (
+"824 467 LINE",
+"270 700 LINE",
+"270 718 LINE",
+"824 951 LINE",
+"824 1219 LINE",
+"40 841 LINE",
+"40 578 LINE",
+"824 200 LINE"
+);
+}
+);
+width = 900;
+},
+{
+layerId = "4AED55CC-054D-4448-879E-1FE49A52CF83";
+paths = (
+{
+closed = 1;
+nodes = (
+"777 324 LINE",
+"163 705 LINE",
+"163 713 LINE",
+"777 1094 LINE",
+"777 1204 LINE",
+"87 765 LINE",
+"87 653 LINE",
+"777 214 LINE"
+);
+}
+);
+width = 900;
+}
+);
+unicode = 003C;
+}

@@ -1,0 +1,47 @@
+{
+glyphname = uni08B3.fina;
+layers = (
+{
+components = (
+{
+name = "ain-ar.fina";
+},
+{
+name = "threedotsdowncenter-ar";
+transform = "{0.9, 0, 0, 0.9, 94, -502}";
+}
+);
+layerId = master01;
+width = 1200;
+},
+{
+components = (
+{
+name = "ain-ar.fina";
+},
+{
+name = "threedotsdowncenter-ar";
+transform = "{0.6, 0, 0, 0.6, 269, -325}";
+}
+);
+layerId = "8E053A5E-67DA-4970-A6F5-068DBFE5AD21";
+width = 1200;
+},
+{
+components = (
+{
+name = "ain-ar.fina";
+},
+{
+name = "threedotsdowncenter-ar";
+transform = "{0.75, 0, 0, 0.75, 205, -416}";
+}
+);
+layerId = "1F90C004-9C90-48FA-B407-176B3E9F1E65";
+width = 1200;
+}
+);
+script = arabic;
+category = Letter;
+subCategory = Other;
+}

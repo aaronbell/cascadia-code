@@ -1,0 +1,90 @@
+{
+glyphname = shiftInControl.ss20;
+layers = (
+{
+components = (
+{
+name = whiteCircle;
+}
+);
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"684 570 OFFCURVE",
+"740 626 OFFCURVE",
+"740 710 CURVE SMOOTH",
+"740 794 OFFCURVE",
+"684 850 OFFCURVE",
+"600 850 CURVE SMOOTH",
+"516 850 OFFCURVE",
+"460 794 OFFCURVE",
+"460 710 CURVE SMOOTH",
+"460 626 OFFCURVE",
+"516 570 OFFCURVE",
+"600 570 CURVE SMOOTH"
+);
+}
+);
+width = 1200;
+},
+{
+components = (
+{
+name = whiteCircle;
+}
+);
+layerId = "1F90C004-9C90-48FA-B407-176B3E9F1E65";
+paths = (
+{
+closed = 1;
+nodes = (
+"696 550 OFFCURVE",
+"760 614 OFFCURVE",
+"760 710 CURVE SMOOTH",
+"760 806 OFFCURVE",
+"696 870 OFFCURVE",
+"600 870 CURVE SMOOTH",
+"504 870 OFFCURVE",
+"440 806 OFFCURVE",
+"440 710 CURVE SMOOTH",
+"440 614 OFFCURVE",
+"504 550 OFFCURVE",
+"600 550 CURVE SMOOTH"
+);
+}
+);
+width = 1200;
+},
+{
+components = (
+{
+name = whiteCircle;
+}
+);
+layerId = "8E053A5E-67DA-4970-A6F5-068DBFE5AD21";
+paths = (
+{
+closed = 1;
+nodes = (
+"684 570 OFFCURVE",
+"740 626 OFFCURVE",
+"740 710 CURVE SMOOTH",
+"740 794 OFFCURVE",
+"684 850 OFFCURVE",
+"600 850 CURVE SMOOTH",
+"516 850 OFFCURVE",
+"460 794 OFFCURVE",
+"460 710 CURVE SMOOTH",
+"460 626 OFFCURVE",
+"516 570 OFFCURVE",
+"600 570 CURVE SMOOTH"
+);
+}
+);
+width = 1200;
+}
+);
+widthMetricsKey = space;
+}

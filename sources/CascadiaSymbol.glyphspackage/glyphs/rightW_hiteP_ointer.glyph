@@ -1,0 +1,83 @@
+{
+glyphname = rightWhitePointer;
+production = uni25BB;
+layers = (
+{
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"1140 710 LINE",
+"120 1070 LINE",
+"120 350 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"210 959 LINE",
+"192 936 LINE",
+"904 701 LINE",
+"904 719 LINE",
+"192 484 LINE",
+"210 461 LINE"
+);
+}
+);
+width = 1200;
+},
+{
+layerId = "1F90C004-9C90-48FA-B407-176B3E9F1E65";
+paths = (
+{
+closed = 1;
+nodes = (
+"1140 710 LINE",
+"120 1070 LINE",
+"120 350 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"270 939 LINE",
+"192 891 LINE",
+"847 677 LINE",
+"847 743 LINE",
+"192 529 LINE",
+"270 481 LINE"
+);
+}
+);
+width = 1200;
+},
+{
+layerId = "8E053A5E-67DA-4970-A6F5-068DBFE5AD21";
+paths = (
+{
+closed = 1;
+nodes = (
+"1140 710 LINE",
+"120 1070 LINE",
+"120 350 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"320 939 LINE",
+"192 849 LINE",
+"847 635 LINE",
+"847 785 LINE",
+"192 571 LINE",
+"320 481 LINE"
+);
+}
+);
+width = 1200;
+}
+);
+note = uni25BB;
+unicode = 25BB;
+}

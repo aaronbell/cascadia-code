@@ -1,0 +1,147 @@
+{
+export = 0;
+glyphname = R.half;
+layers = (
+{
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"516 247 LINE SMOOTH",
+"667 247 OFFCURVE",
+"753 320 OFFCURVE",
+"753 447 CURVE SMOOTH",
+"753 569 OFFCURVE",
+"667 639 OFFCURVE",
+"516 639 CURVE SMOOTH",
+"178 639 LINE",
+"195 551 LINE",
+"516 551 LINE SMOOTH",
+"604 551 OFFCURVE",
+"655 510 OFFCURVE",
+"655 438 CURVE SMOOTH",
+"655 372 OFFCURVE",
+"604 335 OFFCURVE",
+"516 335 CURVE SMOOTH",
+"192 335 LINE",
+"192 247 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"202 0 LINE",
+"202 639 LINE",
+"108 639 LINE",
+"108 0 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"789 0 LINE",
+"546 301 LINE",
+"442 301 LINE",
+"676 0 LINE"
+);
+}
+);
+width = 1200;
+},
+{
+layerId = "1F90C004-9C90-48FA-B407-176B3E9F1E65";
+paths = (
+{
+closed = 1;
+nodes = (
+"524 241 LINE SMOOTH",
+"665 241 OFFCURVE",
+"758 325 OFFCURVE",
+"758 452 CURVE SMOOTH",
+"758 565 OFFCURVE",
+"665 639 OFFCURVE",
+"524 639 CURVE SMOOTH",
+"199 639 LINE",
+"216 531 LINE",
+"524 531 LINE SMOOTH",
+"587 531 OFFCURVE",
+"628 496 OFFCURVE",
+"628 443 CURVE SMOOTH",
+"628 387 OFFCURVE",
+"587 350 OFFCURVE",
+"524 350 CURVE SMOOTH",
+"213 350 LINE",
+"213 241 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"223 0 LINE",
+"223 639 LINE",
+"102 639 LINE",
+"102 0 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"794 0 LINE",
+"573 301 LINE",
+"447 301 LINE",
+"651 0 LINE"
+);
+}
+);
+width = 1200;
+},
+{
+layerId = "8E053A5E-67DA-4970-A6F5-068DBFE5AD21";
+paths = (
+{
+closed = 1;
+nodes = (
+"517 201 LINE SMOOTH",
+"675 201 OFFCURVE",
+"765 284 OFFCURVE",
+"765 427 CURVE SMOOTH",
+"765 561 OFFCURVE",
+"675 639 OFFCURVE",
+"517 639 CURVE SMOOTH",
+"223 639 LINE",
+"239 504 LINE",
+"517 504 LINE SMOOTH",
+"574 504 OFFCURVE",
+"606 473 OFFCURVE",
+"606 418 CURVE SMOOTH",
+"606 366 OFFCURVE",
+"574 336 OFFCURVE",
+"517 336 CURVE SMOOTH",
+"237 336 LINE",
+"237 201 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"246 0 LINE",
+"246 639 LINE",
+"95 639 LINE",
+"95 0 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"802 0 LINE",
+"568 301 LINE",
+"403 301 LINE",
+"620 0 LINE"
+);
+}
+);
+width = 1200;
+}
+);
+}

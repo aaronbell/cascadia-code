@@ -1,0 +1,66 @@
+{
+glyphname = "kafRing-ar.init";
+layers = (
+{
+anchors = (
+{
+name = bottom;
+position = "{569, -141}";
+}
+);
+components = (
+{
+alignment = -1;
+name = "kaf-ar.init";
+},
+{
+alignment = -1;
+name = ringArabic;
+transform = "{1, 0, 0, 1, 206, 1126}";
+}
+);
+layerId = master01;
+width = 1200;
+},
+{
+anchors = (
+{
+name = bottom;
+position = "{569, -141}";
+}
+);
+components = (
+{
+name = "kaf-ar.init";
+},
+{
+alignment = -1;
+name = ringArabic;
+transform = "{1, 0, 0, 1, 234, 978}";
+}
+);
+layerId = "8E053A5E-67DA-4970-A6F5-068DBFE5AD21";
+width = 1200;
+},
+{
+anchors = (
+{
+name = bottom;
+position = "{569, -141}";
+}
+);
+components = (
+{
+name = "kaf-ar.init";
+},
+{
+alignment = -1;
+name = ringArabic;
+transform = "{1, 0, 0, 1, 241, 1066}";
+}
+);
+layerId = "1F90C004-9C90-48FA-B407-176B3E9F1E65";
+width = 1200;
+}
+);
+}

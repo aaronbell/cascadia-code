@@ -1,0 +1,95 @@
+{
+glyphname = tugrik;
+production = uni20AE;
+layers = (
+{
+components = (
+{
+name = T;
+}
+);
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"1039 848 LINE",
+"1039 942 LINE",
+"161 792 LINE",
+"161 698 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"1039 518 LINE",
+"1039 612 LINE",
+"161 462 LINE",
+"161 368 LINE"
+);
+}
+);
+width = 1200;
+},
+{
+components = (
+{
+name = T;
+}
+);
+layerId = "1F90C004-9C90-48FA-B407-176B3E9F1E65";
+paths = (
+{
+closed = 1;
+nodes = (
+"1039 821 LINE",
+"1039 969 LINE",
+"161 819 LINE",
+"161 671 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"1039 491 LINE",
+"1039 639 LINE",
+"161 489 LINE",
+"161 341 LINE"
+);
+}
+);
+width = 1200;
+},
+{
+components = (
+{
+alignment = -1;
+name = T;
+}
+);
+layerId = "8E053A5E-67DA-4970-A6F5-068DBFE5AD21";
+paths = (
+{
+closed = 1;
+nodes = (
+"1056 779 LINE",
+"1056 1011 LINE",
+"144 861 LINE",
+"144 629 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"1056 424 LINE",
+"1056 656 LINE",
+"144 506 LINE",
+"144 274 LINE"
+);
+}
+);
+width = 1200;
+}
+);
+unicode = 20AE;
+}

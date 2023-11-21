@@ -1,0 +1,53 @@
+{
+glyphname = "zero-arinferior";
+layers = (
+{
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"709 165 LINE",
+"593 278 LINE",
+"492 170 LINE",
+"605 60 LINE"
+);
+}
+);
+width = 1200;
+},
+{
+layerId = "8E053A5E-67DA-4970-A6F5-068DBFE5AD21";
+paths = (
+{
+closed = 1;
+nodes = (
+"771 172 LINE",
+"589 350 LINE",
+"430 180 LINE",
+"608 8 LINE"
+);
+}
+);
+width = 1200;
+},
+{
+layerId = "1F90C004-9C90-48FA-B407-176B3E9F1E65";
+paths = (
+{
+closed = 1;
+nodes = (
+"756 173 LINE",
+"590 335 LINE",
+"445 180 LINE",
+"607 23 LINE"
+);
+}
+);
+width = 1200;
+}
+);
+script = arabic;
+category = Number;
+subCategory = Small;
+}

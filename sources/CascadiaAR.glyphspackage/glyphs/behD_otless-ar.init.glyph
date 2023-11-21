@@ -1,0 +1,152 @@
+{
+glyphname = "behDotless-ar.init";
+layers = (
+{
+anchors = (
+{
+name = bottom;
+position = "{812, -141}";
+},
+{
+name = bottom.dot;
+position = "{812, -26}";
+},
+{
+name = top;
+position = "{872, 1067}";
+},
+{
+name = top.dot;
+position = "{875, 817}";
+}
+);
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"877 -3 OFFCURVE",
+"976 101 OFFCURVE",
+"976 380 CURVE SMOOTH",
+"976 475 OFFCURVE",
+"958 608 OFFCURVE",
+"934 723 CURVE",
+"844 716 LINE",
+"865 604 OFFCURVE",
+"884 478 OFFCURVE",
+"884 378 CURVE SMOOTH",
+"884 176 OFFCURVE",
+"840 91 OFFCURVE",
+"0 91 CURVE SMOOTH",
+"-21 91 OFFCURVE",
+"-35 76 OFFCURVE",
+"-35 49 CURVE SMOOTH",
+"-35 13 OFFCURVE",
+"-28 -3 OFFCURVE",
+"-12 -3 CURVE SMOOTH"
+);
+}
+);
+userData = {
+com.schriftgestaltung.Glyphs.lastChange = "2020-11-20 22:28:06 +0000";
+};
+width = 1200;
+},
+{
+anchors = (
+{
+name = bottom;
+position = "{772, -141}";
+},
+{
+name = bottom.dot;
+position = "{772, -26}";
+},
+{
+name = top;
+position = "{832, 1117}";
+},
+{
+name = top.dot;
+position = "{835, 867}";
+}
+);
+layerId = "8E053A5E-67DA-4970-A6F5-068DBFE5AD21";
+paths = (
+{
+closed = 1;
+nodes = (
+"869 -10 OFFCURVE",
+"1018 138 OFFCURVE",
+"1018 433 CURVE SMOOTH",
+"1018 558 OFFCURVE",
+"994 670 OFFCURVE",
+"953 833 CURVE",
+"707 801 LINE",
+"741 641 OFFCURVE",
+"759 527 OFFCURVE",
+"759 447 CURVE SMOOTH",
+"759 325 OFFCURVE",
+"712 285 OFFCURVE",
+"0 285 CURVE SMOOTH",
+"-34 285 OFFCURVE",
+"-70 263 OFFCURVE",
+"-70 155 CURVE SMOOTH",
+"-70 33 OFFCURVE",
+"-51 -10 OFFCURVE",
+"-12 -10 CURVE SMOOTH"
+);
+}
+);
+width = 1200;
+},
+{
+anchors = (
+{
+name = bottom;
+position = "{772, -141}";
+},
+{
+name = bottom.dot;
+position = "{772, -26}";
+},
+{
+name = top;
+position = "{832, 1127}";
+},
+{
+name = top.dot;
+position = "{835, 877}";
+}
+);
+layerId = "1F90C004-9C90-48FA-B407-176B3E9F1E65";
+paths = (
+{
+closed = 1;
+nodes = (
+"869 -6 OFFCURVE",
+"1005 102 OFFCURVE",
+"1005 417 CURVE SMOOTH",
+"1005 532 OFFCURVE",
+"980 665 OFFCURVE",
+"935 821 CURVE",
+"746 786 LINE",
+"779 647 OFFCURVE",
+"805 525 OFFCURVE",
+"805 426 CURVE SMOOTH",
+"805 244 OFFCURVE",
+"722 206 OFFCURVE",
+"0 206 CURVE SMOOTH",
+"-23 206 OFFCURVE",
+"-45 179 OFFCURVE",
+"-45 108 CURVE SMOOTH",
+"-45 34 OFFCURVE",
+"-38 -6 OFFCURVE",
+"-12 -6 CURVE SMOOTH"
+);
+}
+);
+width = 1200;
+}
+);
+}

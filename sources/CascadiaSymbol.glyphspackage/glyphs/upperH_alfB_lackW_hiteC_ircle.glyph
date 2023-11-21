@@ -1,0 +1,75 @@
+{
+glyphname = upperHalfBlackWhiteCircle;
+production = uni25D3;
+layers = (
+{
+components = (
+{
+name = whiteCircle;
+transform = "{1, 0, 0, -1, 0, 1420}";
+}
+);
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"1065 710 LINE",
+"984 1051 LINE",
+"594 1198 LINE",
+"241 1051 LINE",
+"135 710 LINE"
+);
+}
+);
+width = 1200;
+},
+{
+components = (
+{
+name = whiteCircle;
+transform = "{-1, 0, 0, -1, 1200, 1420}";
+}
+);
+layerId = "1F90C004-9C90-48FA-B407-176B3E9F1E65";
+paths = (
+{
+closed = 1;
+nodes = (
+"1015 710 LINE",
+"1015 1008 LINE",
+"594 1168 LINE",
+"181 961 LINE",
+"181 710 LINE"
+);
+}
+);
+width = 1200;
+},
+{
+components = (
+{
+alignment = -1;
+name = whiteCircle;
+transform = "{-1, 0, 0, -1, 1200, 1420}";
+}
+);
+layerId = "8E053A5E-67DA-4970-A6F5-068DBFE5AD21";
+paths = (
+{
+closed = 1;
+nodes = (
+"1015 710 LINE",
+"1015 1008 LINE",
+"594 1168 LINE",
+"181 961 LINE",
+"181 710 LINE"
+);
+}
+);
+width = 1200;
+}
+);
+note = uni25D3;
+unicode = 25D3;
+}

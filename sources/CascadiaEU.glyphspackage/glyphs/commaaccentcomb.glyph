@@ -1,0 +1,67 @@
+{
+glyphname = commaaccentcomb;
+production = uni0326;
+layers = (
+{
+anchors = (
+{
+name = _bottom;
+position = "{600, 0}";
+},
+{
+name = bottom;
+position = "{600, -338}";
+}
+);
+components = (
+{
+name = commaabovecomb;
+transform = "{1, 0, 0, 1, -10, -1730}";
+}
+);
+layerId = master01;
+width = 1200;
+},
+{
+anchors = (
+{
+name = _bottom;
+position = "{600, 0}";
+},
+{
+name = bottom;
+position = "{600, -378}";
+}
+);
+components = (
+{
+name = commaabovecomb;
+transform = "{1, 0, 0, 1, -55, -1730}";
+}
+);
+layerId = "1F90C004-9C90-48FA-B407-176B3E9F1E65";
+width = 1200;
+},
+{
+anchors = (
+{
+name = _bottom;
+position = "{600, 0}";
+},
+{
+name = bottom;
+position = "{600, -418}";
+}
+);
+components = (
+{
+name = commaabovecomb;
+transform = "{1, 0, 0, 1, -60, -1730}";
+}
+);
+layerId = "8E053A5E-67DA-4970-A6F5-068DBFE5AD21";
+width = 1200;
+}
+);
+unicode = 0326;
+}

@@ -1,0 +1,80 @@
+{
+glyphname = guarani;
+production = uni20B2;
+layers = (
+{
+components = (
+{
+name = G;
+}
+);
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"680 -320 LINE",
+"680 3 LINE",
+"680 33 LINE",
+"680 591 LINE",
+"680 632 LINE",
+"680 1740 LINE",
+"586 1740 LINE",
+"586 -320 LINE"
+);
+}
+);
+width = 1200;
+},
+{
+components = (
+{
+name = G;
+}
+);
+layerId = "1F90C004-9C90-48FA-B407-176B3E9F1E65";
+paths = (
+{
+closed = 1;
+nodes = (
+"722 -320 LINE",
+"722 15 LINE",
+"722 93 LINE",
+"722 603 LINE",
+"722 665 LINE",
+"722 1740 LINE",
+"584 1740 LINE",
+"584 -320 LINE"
+);
+}
+);
+width = 1200;
+},
+{
+components = (
+{
+alignment = -1;
+name = G;
+}
+);
+layerId = "8E053A5E-67DA-4970-A6F5-068DBFE5AD21";
+paths = (
+{
+closed = 1;
+nodes = (
+"771 -320 LINE",
+"771 54 LINE",
+"721 121 LINE",
+"721 578 LINE",
+"771 648 LINE",
+"771 1740 LINE",
+"518 1740 LINE",
+"518 -320 LINE"
+);
+}
+);
+width = 1200;
+}
+);
+unicode = 20B2;
+}

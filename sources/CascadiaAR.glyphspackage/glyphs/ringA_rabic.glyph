@@ -1,0 +1,86 @@
+{
+glyphname = ringArabic;
+layers = (
+{
+anchors = (
+{
+name = _bottom;
+position = "{602, -47}";
+},
+{
+name = _bottom.dot;
+position = "{601, 95}";
+},
+{
+name = _center;
+position = "{831, 58}";
+},
+{
+name = bottom;
+position = "{601, -209}";
+}
+);
+components = (
+{
+name = _ringArabic;
+}
+);
+layerId = master01;
+width = 1200;
+},
+{
+anchors = (
+{
+name = _bottom;
+position = "{602, -47}";
+},
+{
+name = _bottom.dot;
+position = "{601, 95}";
+},
+{
+name = _center;
+position = "{831, 58}";
+},
+{
+name = bottom;
+position = "{601, -209}";
+}
+);
+components = (
+{
+name = _ringArabic;
+}
+);
+layerId = "1F90C004-9C90-48FA-B407-176B3E9F1E65";
+width = 1200;
+},
+{
+anchors = (
+{
+name = _bottom;
+position = "{602, -47}";
+},
+{
+name = _bottom.dot;
+position = "{601, 85}";
+},
+{
+name = _center;
+position = "{831, 58}";
+},
+{
+name = bottom;
+position = "{601, -209}";
+}
+);
+components = (
+{
+name = _ringArabic;
+}
+);
+layerId = "8E053A5E-67DA-4970-A6F5-068DBFE5AD21";
+width = 1200;
+}
+);
+}

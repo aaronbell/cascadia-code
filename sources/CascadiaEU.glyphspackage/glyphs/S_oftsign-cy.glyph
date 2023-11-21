@@ -1,0 +1,151 @@
+{
+glyphname = "Softsign-cy";
+production = uni042C;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+position = "{600, 0}";
+},
+{
+name = top;
+position = "{600, 1420}";
+}
+);
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"644 0 LINE SMOOTH",
+"928 0 OFFCURVE",
+"1090 158 OFFCURVE",
+"1090 433 CURVE SMOOTH",
+"1090 709 OFFCURVE",
+"928 867 OFFCURVE",
+"644 867 CURVE SMOOTH",
+"220 867 LINE",
+"220 777 LINE",
+"636 777 LINE SMOOTH",
+"863 777 OFFCURVE",
+"994 651 OFFCURVE",
+"994 433 CURVE SMOOTH",
+"994 215 OFFCURVE",
+"863 90 OFFCURVE",
+"636 90 CURVE SMOOTH",
+"244 90 LINE",
+"244 0 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"258 0 LINE",
+"258 1420 LINE",
+"164 1420 LINE",
+"164 0 LINE"
+);
+}
+);
+width = 1200;
+},
+{
+anchors = (
+{
+name = bottom;
+position = "{600, 0}";
+},
+{
+name = top;
+position = "{600, 1420}";
+}
+);
+layerId = "1F90C004-9C90-48FA-B407-176B3E9F1E65";
+paths = (
+{
+closed = 1;
+nodes = (
+"684 0 LINE SMOOTH",
+"943 0 OFFCURVE",
+"1114 182 OFFCURVE",
+"1114 458 CURVE SMOOTH",
+"1114 734 OFFCURVE",
+"943 916 OFFCURVE",
+"684 916 CURVE SMOOTH",
+"314 916 LINE",
+"314 726 LINE",
+"626 726 LINE SMOOTH",
+"794 726 OFFCURVE",
+"904 620 OFFCURVE",
+"904 458 CURVE SMOOTH",
+"904 296 OFFCURVE",
+"794 190 OFFCURVE",
+"626 190 CURVE SMOOTH",
+"334 190 LINE",
+"334 0 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"348 0 LINE",
+"348 1420 LINE",
+"140 1420 LINE",
+"140 0 LINE"
+);
+}
+);
+width = 1200;
+},
+{
+anchors = (
+{
+name = bottom;
+position = "{600, 0}";
+},
+{
+name = top;
+position = "{600, 1420}";
+}
+);
+layerId = "8E053A5E-67DA-4970-A6F5-068DBFE5AD21";
+paths = (
+{
+closed = 1;
+nodes = (
+"667 0 LINE SMOOTH",
+"946 0 OFFCURVE",
+"1131 187 OFFCURVE",
+"1131 471 CURVE SMOOTH",
+"1131 756 OFFCURVE",
+"946 943 OFFCURVE",
+"667 943 CURVE SMOOTH",
+"353 943 LINE",
+"353 699 LINE",
+"601 699 LINE SMOOTH",
+"767 699 OFFCURVE",
+"854 621 OFFCURVE",
+"854 471 CURVE SMOOTH",
+"854 322 OFFCURVE",
+"767 243 OFFCURVE",
+"601 243 CURVE SMOOTH",
+"373 243 LINE",
+"373 0 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"387 0 LINE",
+"387 1420 LINE",
+"123 1420 LINE",
+"123 0 LINE"
+);
+}
+);
+width = 1200;
+}
+);
+unicode = 042C;
+}

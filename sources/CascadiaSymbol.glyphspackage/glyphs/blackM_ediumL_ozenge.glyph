@@ -1,0 +1,53 @@
+{
+glyphname = blackMediumLozenge;
+production = uni2B27;
+layers = (
+{
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"873 710 LINE",
+"600 1164 LINE",
+"328 710 LINE",
+"600 256 LINE"
+);
+}
+);
+width = 1200;
+},
+{
+layerId = "1F90C004-9C90-48FA-B407-176B3E9F1E65";
+paths = (
+{
+closed = 1;
+nodes = (
+"873 710 LINE",
+"600 1164 LINE",
+"328 710 LINE",
+"600 256 LINE"
+);
+}
+);
+width = 1200;
+},
+{
+layerId = "8E053A5E-67DA-4970-A6F5-068DBFE5AD21";
+paths = (
+{
+closed = 1;
+nodes = (
+"873 710 LINE",
+"600 1164 LINE",
+"328 710 LINE",
+"600 256 LINE"
+);
+}
+);
+width = 1200;
+}
+);
+note = uni2B27;
+unicode = 2B27;
+}

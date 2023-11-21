@@ -1,0 +1,96 @@
+{
+glyphname = "qamats-hb";
+layers = (
+{
+anchors = (
+{
+name = _bottom;
+position = "{599, 0}";
+}
+);
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"428 -222 LINE",
+"428 -321 LINE",
+"772 -321 LINE",
+"772 -222 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"652 -265 LINE",
+"550 -265 LINE",
+"550 -448 LINE",
+"652 -448 LINE"
+);
+}
+);
+width = 1200;
+},
+{
+anchors = (
+{
+name = _bottom;
+position = "{599, 0}";
+}
+);
+layerId = "8E053A5E-67DA-4970-A6F5-068DBFE5AD21";
+paths = (
+{
+closed = 1;
+nodes = (
+"383 -142 LINE",
+"383 -321 LINE",
+"817 -321 LINE",
+"817 -142 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"682 -195 LINE",
+"520 -195 LINE",
+"520 -478 LINE",
+"682 -478 LINE"
+);
+}
+);
+width = 1200;
+},
+{
+anchors = (
+{
+name = _bottom;
+position = "{599, 0}";
+}
+);
+layerId = "1F90C004-9C90-48FA-B407-176B3E9F1E65";
+paths = (
+{
+closed = 1;
+nodes = (
+"401 -175 LINE",
+"401 -321 LINE",
+"799 -321 LINE",
+"799 -175 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"670 -224 LINE",
+"532 -224 LINE",
+"532 -466 LINE",
+"670 -466 LINE"
+);
+}
+);
+width = 1200;
+}
+);
+unicode = 05B8;
+}

@@ -1,0 +1,451 @@
+{
+glyphname = dollar;
+layers = (
+{
+components = (
+{
+name = S;
+}
+);
+layerId = m004;
+paths = (
+{
+closed = 1;
+nodes = (
+"355 -320 LINE",
+"355 1740 LINE",
+"261 1740 LINE",
+"261 -320 LINE"
+);
+}
+);
+userData = {
+com.schriftgestaltung.Glyphs.glyph.leftMetricsKey = "=S";
+com.schriftgestaltung.Glyphs.glyph.rightMetricsKey = "=S";
+};
+width = 600;
+},
+{
+associatedMasterId = m004;
+components = (
+{
+name = S;
+}
+);
+layerId = "D1888E45-1D9F-493D-BC41-D121D43F6103";
+name = "[600]";
+paths = (
+{
+closed = 1;
+nodes = (
+"355 1379 LINE",
+"355 1740 LINE",
+"261 1740 LINE",
+"261 1379 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"355 -320 LINE",
+"355 33 LINE",
+"261 33 LINE",
+"261 -320 LINE"
+);
+}
+);
+userData = {
+com.schriftgestaltung.Glyphs.glyph.leftMetricsKey = "=S";
+com.schriftgestaltung.Glyphs.glyph.rightMetricsKey = "=S";
+};
+width = 600;
+},
+{
+components = (
+{
+name = S;
+}
+);
+layerId = m005;
+paths = (
+{
+closed = 1;
+nodes = (
+"363 -320 LINE",
+"363 1740 LINE",
+"225 1740 LINE",
+"225 -320 LINE"
+);
+}
+);
+userData = {
+com.schriftgestaltung.Glyphs.glyph.leftMetricsKey = "=S";
+com.schriftgestaltung.Glyphs.glyph.rightMetricsKey = "=S";
+};
+width = 600;
+},
+{
+associatedMasterId = m005;
+components = (
+{
+name = S;
+}
+);
+layerId = "2598C637-2535-44F6-B589-A441973E7DC9";
+name = "[600]";
+paths = (
+{
+closed = 1;
+nodes = (
+"363 1340 LINE",
+"363 1740 LINE",
+"225 1740 LINE",
+"225 1340 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"363 -320 LINE",
+"363 80 LINE",
+"225 80 LINE",
+"225 -320 LINE"
+);
+}
+);
+userData = {
+com.schriftgestaltung.Glyphs.glyph.leftMetricsKey = "=S";
+com.schriftgestaltung.Glyphs.glyph.rightMetricsKey = "=S";
+};
+width = 600;
+},
+{
+components = (
+{
+alignment = -1;
+name = S;
+}
+);
+layerId = m006;
+paths = (
+{
+closed = 1;
+nodes = (
+"397 -320 LINE",
+"397 1740 LINE",
+"192 1740 LINE",
+"192 -320 LINE"
+);
+}
+);
+userData = {
+com.schriftgestaltung.Glyphs.glyph.leftMetricsKey = "=S";
+com.schriftgestaltung.Glyphs.glyph.rightMetricsKey = "=S";
+};
+width = 600;
+},
+{
+associatedMasterId = m006;
+components = (
+{
+alignment = -1;
+name = S;
+}
+);
+layerId = "F95ACA5E-3DBB-4F61-9EC2-F02682C1F14F";
+name = "[600]";
+paths = (
+{
+closed = 1;
+nodes = (
+"398 1303 LINE",
+"398 1740 LINE",
+"193 1740 LINE",
+"193 1303 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"398 -320 LINE",
+"398 88 LINE",
+"193 88 LINE",
+"193 -320 LINE"
+);
+}
+);
+userData = {
+com.schriftgestaltung.Glyphs.glyph.leftMetricsKey = "=S";
+com.schriftgestaltung.Glyphs.glyph.rightMetricsKey = "=S";
+};
+width = 600;
+},
+{
+components = (
+{
+name = S;
+}
+);
+layerId = m007;
+paths = (
+{
+closed = 1;
+nodes = (
+"660 -320 LINE",
+"660 1740 LINE",
+"566 1740 LINE",
+"566 -320 LINE"
+);
+}
+);
+userData = {
+com.schriftgestaltung.Glyphs.glyph.leftMetricsKey = "=S";
+com.schriftgestaltung.Glyphs.glyph.rightMetricsKey = "=S";
+};
+width = 1200;
+},
+{
+associatedMasterId = m007;
+components = (
+{
+name = S;
+}
+);
+layerId = "35569CB8-E4C6-4B27-BC4C-0E111EC7C62B";
+name = "[600]";
+paths = (
+{
+closed = 1;
+nodes = (
+"660 1393 LINE",
+"660 1740 LINE",
+"566 1740 LINE",
+"566 1393 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"660 -320 LINE",
+"660 38 LINE",
+"566 38 LINE",
+"566 -320 LINE"
+);
+}
+);
+userData = {
+com.schriftgestaltung.Glyphs.glyph.leftMetricsKey = "=S";
+com.schriftgestaltung.Glyphs.glyph.rightMetricsKey = "=S";
+};
+width = 1200;
+},
+{
+components = (
+{
+name = S;
+}
+);
+layerId = m008;
+paths = (
+{
+closed = 1;
+nodes = (
+"682 -320 LINE",
+"682 1740 LINE",
+"544 1740 LINE",
+"544 -320 LINE"
+);
+}
+);
+userData = {
+com.schriftgestaltung.Glyphs.glyph.leftMetricsKey = "=S";
+com.schriftgestaltung.Glyphs.glyph.rightMetricsKey = "=S";
+};
+width = 1200;
+},
+{
+associatedMasterId = m008;
+components = (
+{
+name = S;
+}
+);
+layerId = "9431FDC0-34ED-4F90-97DB-4F56408A0056";
+name = "[600]";
+paths = (
+{
+closed = 1;
+nodes = (
+"682 1336 LINE",
+"682 1740 LINE",
+"544 1740 LINE",
+"544 1336 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"682 -320 LINE",
+"682 82 LINE",
+"544 82 LINE",
+"544 -320 LINE"
+);
+}
+);
+userData = {
+com.schriftgestaltung.Glyphs.glyph.leftMetricsKey = "=S";
+com.schriftgestaltung.Glyphs.glyph.rightMetricsKey = "=S";
+};
+width = 1200;
+},
+{
+components = (
+{
+alignment = -1;
+name = S;
+}
+);
+layerId = m009;
+paths = (
+{
+closed = 1;
+nodes = (
+"740 -320 LINE",
+"740 1740 LINE",
+"487 1740 LINE",
+"487 -320 LINE"
+);
+}
+);
+userData = {
+com.schriftgestaltung.Glyphs.glyph.leftMetricsKey = "=S";
+com.schriftgestaltung.Glyphs.glyph.rightMetricsKey = "=S";
+};
+width = 1200;
+},
+{
+associatedMasterId = m009;
+components = (
+{
+alignment = -1;
+name = S;
+}
+);
+layerId = "A42F9FF7-7ACE-4966-879F-57F25E1420DB";
+name = "[600]";
+paths = (
+{
+closed = 1;
+nodes = (
+"740 1288 LINE",
+"740 1740 LINE",
+"487 1740 LINE",
+"487 1288 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"740 -320 LINE",
+"740 131 LINE",
+"487 131 LINE",
+"487 -320 LINE"
+);
+}
+);
+userData = {
+com.schriftgestaltung.Glyphs.glyph.leftMetricsKey = "=S";
+com.schriftgestaltung.Glyphs.glyph.rightMetricsKey = "=S";
+};
+width = 1200;
+},
+{
+components = (
+{
+alignment = -1;
+name = S;
+}
+);
+layerId = "8A5928CE-31B2-4F56-BC21-FB6F481DC46A";
+paths = (
+{
+closed = 1;
+nodes = (
+"523 -320 LINE",
+"523 1740 LINE",
+"385 1740 LINE",
+"385 -320 LINE"
+);
+}
+);
+userData = {
+com.schriftgestaltung.Glyphs.glyph.leftMetricsKey = "=S";
+com.schriftgestaltung.Glyphs.glyph.rightMetricsKey = "=S";
+};
+width = 900;
+},
+{
+components = (
+{
+alignment = -1;
+name = S;
+}
+);
+layerId = "A3FCBCC7-55DF-4604-8A77-DC78C4EF6076";
+name = "[600]";
+paths = (
+{
+closed = 1;
+nodes = (
+"569 1296 LINE",
+"569 1740 LINE",
+"340 1740 LINE",
+"340 1296 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"569 -320 LINE",
+"569 110 LINE",
+"340 110 LINE",
+"340 -320 LINE"
+);
+}
+);
+userData = {
+com.schriftgestaltung.Glyphs.glyph.leftMetricsKey = "=S";
+com.schriftgestaltung.Glyphs.glyph.rightMetricsKey = "=S";
+};
+width = 900;
+},
+{
+components = (
+{
+alignment = -1;
+name = S;
+}
+);
+layerId = "4AED55CC-054D-4448-879E-1FE49A52CF83";
+paths = (
+{
+closed = 1;
+nodes = (
+"508 -320 LINE",
+"508 1740 LINE",
+"414 1740 LINE",
+"414 -320 LINE"
+);
+}
+);
+userData = {
+com.schriftgestaltung.Glyphs.glyph.leftMetricsKey = "=S";
+com.schriftgestaltung.Glyphs.glyph.rightMetricsKey = "=S";
+};
+width = 900;
+}
+);
+leftMetricsKey = "=S";
+rightMetricsKey = "=S";
+unicode = 0024;
+}

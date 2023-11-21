@@ -1,0 +1,133 @@
+{
+glyphname = "Shha-cy";
+production = uni04BA;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+position = "{600, 0}";
+},
+{
+name = top;
+position = "{211, 1420}";
+}
+);
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"1036 0 LINE",
+"1036 395 LINE SMOOTH",
+"1036 697 OFFCURVE",
+"912 825 OFFCURVE",
+"620 825 CURVE SMOOTH",
+"240 825 LINE",
+"240 735 LINE",
+"620 735 LINE SMOOTH",
+"845 735 OFFCURVE",
+"942 633 OFFCURVE",
+"942 395 CURVE SMOOTH",
+"942 0 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"258 0 LINE",
+"258 1420 LINE",
+"164 1420 LINE",
+"164 0 LINE"
+);
+}
+);
+width = 1200;
+},
+{
+anchors = (
+{
+name = bottom;
+position = "{600, 0}";
+},
+{
+name = top;
+position = "{209, 1420}";
+}
+);
+layerId = "1F90C004-9C90-48FA-B407-176B3E9F1E65";
+paths = (
+{
+closed = 1;
+nodes = (
+"1060 0 LINE",
+"1060 445 LINE SMOOTH",
+"1060 747 OFFCURVE",
+"929 875 OFFCURVE",
+"620 875 CURVE SMOOTH",
+"330 875 LINE",
+"330 685 LINE",
+"620 685 LINE SMOOTH",
+"782 685 OFFCURVE",
+"852 613 OFFCURVE",
+"852 445 CURVE SMOOTH",
+"852 0 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"348 0 LINE",
+"348 1420 LINE",
+"140 1420 LINE",
+"140 0 LINE"
+);
+}
+);
+width = 1200;
+},
+{
+anchors = (
+{
+name = bottom;
+position = "{600, 0}";
+},
+{
+name = top;
+position = "{209, 1420}";
+}
+);
+layerId = "8E053A5E-67DA-4970-A6F5-068DBFE5AD21";
+paths = (
+{
+closed = 1;
+nodes = (
+"1077 0 LINE",
+"1077 487 LINE SMOOTH",
+"1077 778 OFFCURVE",
+"956 902 OFFCURVE",
+"670 902 CURVE SMOOTH",
+"369 902 LINE",
+"369 658 LINE",
+"653 658 LINE SMOOTH",
+"766 658 OFFCURVE",
+"813 602 OFFCURVE",
+"813 470 CURVE SMOOTH",
+"813 0 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"387 0 LINE",
+"387 1420 LINE",
+"123 1420 LINE",
+"123 0 LINE"
+);
+}
+);
+width = 1200;
+}
+);
+unicode = 04BA;
+}

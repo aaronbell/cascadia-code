@@ -1,0 +1,77 @@
+{
+glyphname = boxHeavyDoubleDashVertical.stypo;
+layers = (
+{
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"694 972 LINE",
+"694 1503 LINE",
+"506 1503 LINE",
+"506 972 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"694 -90 LINE",
+"694 441 LINE",
+"506 441 LINE",
+"506 -90 LINE"
+);
+}
+);
+width = 1200;
+},
+{
+layerId = "1F90C004-9C90-48FA-B407-176B3E9F1E65";
+paths = (
+{
+closed = 1;
+nodes = (
+"808 972 LINE",
+"808 1503 LINE",
+"392 1503 LINE",
+"392 972 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"808 -90 LINE",
+"808 441 LINE",
+"392 441 LINE",
+"392 -90 LINE"
+);
+}
+);
+width = 1200;
+},
+{
+layerId = "8E053A5E-67DA-4970-A6F5-068DBFE5AD21";
+paths = (
+{
+closed = 1;
+nodes = (
+"864 972 LINE",
+"864 1503 LINE",
+"336 1503 LINE",
+"336 972 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"864 -90 LINE",
+"864 441 LINE",
+"336 441 LINE",
+"336 -90 LINE"
+);
+}
+);
+width = 1200;
+}
+);
+}

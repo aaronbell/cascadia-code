@@ -1,0 +1,111 @@
+{
+glyphname = "brevecomb-cy";
+production = brevecombcy;
+layers = (
+{
+anchors = (
+{
+name = _top;
+position = "{600, 1060}";
+},
+{
+name = top;
+position = "{600, 1540}";
+}
+);
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"821 1238 OFFCURVE",
+"923 1356 OFFCURVE",
+"923 1603 CURVE",
+"829 1603 LINE",
+"829 1412 OFFCURVE",
+"770 1324 OFFCURVE",
+"600 1324 CURVE SMOOTH",
+"433 1324 OFFCURVE",
+"371 1408 OFFCURVE",
+"371 1603 CURVE",
+"277 1603 LINE",
+"277 1358 OFFCURVE",
+"378 1238 OFFCURVE",
+"600 1238 CURVE SMOOTH"
+);
+}
+);
+width = 1200;
+},
+{
+anchors = (
+{
+name = _top;
+position = "{600, 1060}";
+},
+{
+name = top;
+position = "{600, 1540}";
+}
+);
+layerId = "1F90C004-9C90-48FA-B407-176B3E9F1E65";
+paths = (
+{
+closed = 1;
+nodes = (
+"837 1238 OFFCURVE",
+"947 1356 OFFCURVE",
+"947 1603 CURVE",
+"759 1603 LINE",
+"759 1453 OFFCURVE",
+"718 1384 OFFCURVE",
+"600 1384 CURVE SMOOTH",
+"484 1384 OFFCURVE",
+"441 1450 OFFCURVE",
+"441 1603 CURVE",
+"253 1603 LINE",
+"253 1358 OFFCURVE",
+"361 1238 OFFCURVE",
+"600 1238 CURVE SMOOTH"
+);
+}
+);
+width = 1200;
+},
+{
+anchors = (
+{
+name = _top;
+position = "{600, 1060}";
+},
+{
+name = top;
+position = "{600, 1540}";
+}
+);
+layerId = "8E053A5E-67DA-4970-A6F5-068DBFE5AD21";
+paths = (
+{
+closed = 1;
+nodes = (
+"871 1238 OFFCURVE",
+"997 1356 OFFCURVE",
+"997 1603 CURVE",
+"730 1603 LINE",
+"730 1486 OFFCURVE",
+"696 1432 OFFCURVE",
+"600 1432 CURVE SMOOTH",
+"506 1432 OFFCURVE",
+"470 1484 OFFCURVE",
+"470 1603 CURVE",
+"203 1603 LINE",
+"203 1358 OFFCURVE",
+"327 1238 OFFCURVE",
+"600 1238 CURVE SMOOTH"
+);
+}
+);
+width = 1200;
+}
+);
+}

@@ -1,0 +1,51 @@
+{
+glyphname = "yehKashmiri-ar";
+layers = (
+{
+components = (
+{
+name = "alefMaksura-ar";
+},
+{
+alignment = -1;
+name = ringArabic;
+transform = "{1, 0, 0, 1, 20, -532}";
+}
+);
+layerId = master01;
+width = 1200;
+},
+{
+components = (
+{
+alignment = -1;
+name = "alefMaksura-ar";
+},
+{
+alignment = -1;
+name = ringArabic;
+transform = "{1, 0, 0, 1, 16, -561}";
+}
+);
+layerId = "8E053A5E-67DA-4970-A6F5-068DBFE5AD21";
+width = 1200;
+},
+{
+components = (
+{
+name = "alefMaksura-ar";
+},
+{
+alignment = -1;
+name = ringArabic;
+transform = "{1, 0, 0, 1, 19, -559}";
+}
+);
+layerId = "1F90C004-9C90-48FA-B407-176B3E9F1E65";
+width = 1200;
+}
+);
+leftMetricsKey = "alefMaksura-ar";
+rightMetricsKey = "alefMaksura-ar";
+unicode = 0620;
+}

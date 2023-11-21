@@ -1,0 +1,160 @@
+{
+glyphname = "Tshe-cy";
+production = uni040B;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+position = "{600, 0}";
+},
+{
+name = top;
+position = "{340, 1420}";
+}
+);
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"1038 0 LINE",
+"1038 390 LINE SMOOTH",
+"1038 695 OFFCURVE",
+"922 825 OFFCURVE",
+"650 825 CURVE SMOOTH",
+"371 825 LINE",
+"371 735 LINE",
+"650 735 LINE SMOOTH",
+"856 735 OFFCURVE",
+"944 632 OFFCURVE",
+"944 390 CURVE SMOOTH",
+"944 0 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"389 0 LINE",
+"389 1420 LINE",
+"295 1420 LINE",
+"295 0 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"816 1326 LINE",
+"816 1420 LINE",
+"44 1420 LINE",
+"44 1326 LINE"
+);
+}
+);
+width = 1200;
+},
+{
+anchors = (
+{
+name = bottom;
+position = "{600, 0}";
+},
+{
+name = top;
+position = "{340, 1420}";
+}
+);
+layerId = "1F90C004-9C90-48FA-B407-176B3E9F1E65";
+paths = (
+{
+closed = 1;
+nodes = (
+"1062 0 LINE",
+"1062 450 LINE SMOOTH",
+"1062 745 OFFCURVE",
+"939 870 OFFCURVE",
+"650 870 CURVE SMOOTH",
+"430 870 LINE",
+"430 680 LINE",
+"650 680 LINE SMOOTH",
+"793 680 OFFCURVE",
+"854 611 OFFCURVE",
+"854 450 CURVE SMOOTH",
+"854 0 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"448 0 LINE",
+"448 1420 LINE",
+"240 1420 LINE",
+"240 0 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"840 1230 LINE",
+"840 1420 LINE",
+"20 1420 LINE",
+"20 1230 LINE"
+);
+}
+);
+width = 1200;
+},
+{
+anchors = (
+{
+name = bottom;
+position = "{600, 0}";
+},
+{
+name = top;
+position = "{340, 1420}";
+}
+);
+layerId = "8E053A5E-67DA-4970-A6F5-068DBFE5AD21";
+paths = (
+{
+closed = 1;
+nodes = (
+"1079 0 LINE",
+"1079 484 LINE SMOOTH",
+"1079 780 OFFCURVE",
+"951 906 OFFCURVE",
+"650 906 CURVE SMOOTH",
+"460 906 LINE",
+"460 644 LINE",
+"650 644 LINE SMOOTH",
+"766 644 OFFCURVE",
+"815 587 OFFCURVE",
+"815 454 CURVE SMOOTH",
+"815 0 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"478 0 LINE",
+"478 1420 LINE",
+"215 1420 LINE",
+"215 0 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"857 1158 LINE",
+"857 1420 LINE",
+"3 1420 LINE",
+"3 1158 LINE"
+);
+}
+);
+width = 1200;
+}
+);
+unicode = 040B;
+}

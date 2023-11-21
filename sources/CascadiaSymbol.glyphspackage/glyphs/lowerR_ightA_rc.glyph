@@ -1,0 +1,65 @@
+{
+glyphname = lowerRightArc;
+production = uni25DE;
+layers = (
+{
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"916 185 OFFCURVE",
+"1125 394 OFFCURVE",
+"1125 710 CURVE",
+"1029 710 LINE",
+"1029 449 OFFCURVE",
+"859 277 OFFCURVE",
+"600 277 CURVE",
+"600 185 LINE"
+);
+}
+);
+width = 1200;
+},
+{
+layerId = "1F90C004-9C90-48FA-B407-176B3E9F1E65";
+paths = (
+{
+closed = 1;
+nodes = (
+"916 185 OFFCURVE",
+"1125 394 OFFCURVE",
+"1125 710 CURVE",
+"975 710 LINE",
+"975 484 OFFCURVE",
+"826 335 OFFCURVE",
+"600 335 CURVE",
+"600 185 LINE"
+);
+}
+);
+width = 1200;
+},
+{
+layerId = "8E053A5E-67DA-4970-A6F5-068DBFE5AD21";
+paths = (
+{
+closed = 1;
+nodes = (
+"916 185 OFFCURVE",
+"1125 394 OFFCURVE",
+"1125 710 CURVE",
+"917 710 LINE",
+"917 519 OFFCURVE",
+"791 393 OFFCURVE",
+"600 393 CURVE",
+"600 185 LINE"
+);
+}
+);
+width = 1200;
+}
+);
+note = uni25DE;
+unicode = 25DE;
+}

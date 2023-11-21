@@ -1,0 +1,120 @@
+{
+glyphname = Astroke;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+position = "{600, -388}";
+},
+{
+name = top;
+position = "{600, 1500}";
+}
+);
+components = (
+{
+name = A;
+}
+);
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"629 422 LINE",
+"636 456 LINE",
+"744 1009 LINE",
+"755 1064 LINE",
+"878 1692 LINE",
+"781 1708 LINE",
+"687 1214 LINE",
+"680 1178 LINE",
+"544 467 LINE",
+"537 429 LINE",
+"395 -314 LINE",
+"482 -330 LINE"
+);
+}
+);
+width = 1200;
+},
+{
+anchors = (
+{
+name = bottom;
+position = "{600, -388}";
+},
+{
+name = top;
+position = "{600, 1500}";
+}
+);
+components = (
+{
+name = A;
+}
+);
+layerId = "1F90C004-9C90-48FA-B407-176B3E9F1E65";
+paths = (
+{
+closed = 1;
+nodes = (
+"651 452 LINE",
+"658 492 LINE",
+"750 1014 LINE",
+"770 1131 LINE",
+"869 1692 LINE",
+"733 1716 LINE",
+"661 1307 LINE",
+"653 1263 LINE",
+"519 496 LINE",
+"509 441 LINE",
+"377 -306 LINE",
+"513 -330 LINE"
+);
+}
+);
+width = 1200;
+},
+{
+anchors = (
+{
+name = bottom;
+position = "{600, -388}";
+},
+{
+name = top;
+position = "{600, 1500}";
+}
+);
+components = (
+{
+name = A;
+}
+);
+layerId = "8E053A5E-67DA-4970-A6F5-068DBFE5AD21";
+paths = (
+{
+closed = 1;
+nodes = (
+"662 318 LINE",
+"632 433 LINE",
+"729 985 LINE",
+"802 1114 LINE",
+"904 1692 LINE",
+"701 1716 LINE",
+"628 1299 LINE",
+"649 1192 LINE",
+"514 427 LINE",
+"457 329 LINE",
+"345 -306 LINE",
+"548 -330 LINE"
+);
+}
+);
+width = 1200;
+}
+);
+unicode = 023A;
+}

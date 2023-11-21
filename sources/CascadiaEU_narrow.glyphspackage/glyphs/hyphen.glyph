@@ -1,0 +1,92 @@
+{
+glyphname = hyphen;
+layers = (
+{
+components = (
+{
+name = minus;
+}
+);
+layerId = m004;
+width = 600;
+},
+{
+components = (
+{
+name = minus;
+}
+);
+layerId = m005;
+width = 600;
+},
+{
+components = (
+{
+alignment = -1;
+name = minus;
+}
+);
+layerId = m006;
+width = 600;
+},
+{
+components = (
+{
+name = minus;
+}
+);
+layerId = m007;
+width = 1200;
+},
+{
+components = (
+{
+name = minus;
+}
+);
+layerId = m008;
+width = 1200;
+},
+{
+components = (
+{
+alignment = -1;
+name = minus;
+}
+);
+layerId = m009;
+width = 1200;
+},
+{
+components = (
+{
+alignment = -1;
+name = minus;
+}
+);
+layerId = "8A5928CE-31B2-4F56-BC21-FB6F481DC46A";
+width = 900;
+},
+{
+components = (
+{
+alignment = -1;
+name = minus;
+}
+);
+layerId = "A3FCBCC7-55DF-4604-8A77-DC78C4EF6076";
+width = 900;
+},
+{
+components = (
+{
+alignment = -1;
+name = minus;
+}
+);
+layerId = "4AED55CC-054D-4448-879E-1FE49A52CF83";
+width = 900;
+}
+);
+unicode = 002D;
+}

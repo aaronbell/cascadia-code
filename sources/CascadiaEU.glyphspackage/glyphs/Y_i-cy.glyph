@@ -1,0 +1,43 @@
+{
+glyphname = "Yi-cy";
+production = uni0407;
+layers = (
+{
+components = (
+{
+name = I;
+},
+{
+name = dieresiscomb.case;
+}
+);
+layerId = master01;
+width = 1200;
+},
+{
+components = (
+{
+name = I;
+},
+{
+name = dieresiscomb.case;
+}
+);
+layerId = "1F90C004-9C90-48FA-B407-176B3E9F1E65";
+width = 1200;
+},
+{
+components = (
+{
+name = I;
+},
+{
+name = dieresiscomb.case;
+}
+);
+layerId = "8E053A5E-67DA-4970-A6F5-068DBFE5AD21";
+width = 1200;
+}
+);
+unicode = 0407;
+}

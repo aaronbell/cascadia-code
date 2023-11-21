@@ -1,0 +1,78 @@
+{
+glyphname = startOfHeadingControl.ss20;
+layers = (
+{
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"75 1236 LINE",
+"75 186 LINE",
+"169 186 LINE",
+"169 1236 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"141 1236 LINE",
+"141 1146 LINE",
+"1125 1146 LINE",
+"1125 1236 LINE"
+);
+}
+);
+width = 1200;
+},
+{
+layerId = "1F90C004-9C90-48FA-B407-176B3E9F1E65";
+paths = (
+{
+closed = 1;
+nodes = (
+"75 1236 LINE",
+"75 186 LINE",
+"225 186 LINE",
+"225 1236 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"197 1236 LINE",
+"197 1085 LINE",
+"1125 1085 LINE",
+"1125 1236 LINE"
+);
+}
+);
+width = 1200;
+},
+{
+layerId = "8E053A5E-67DA-4970-A6F5-068DBFE5AD21";
+paths = (
+{
+closed = 1;
+nodes = (
+"75 1236 LINE",
+"75 186 LINE",
+"317 186 LINE",
+"317 1236 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"197 1236 LINE",
+"197 993 LINE",
+"1125 993 LINE",
+"1125 1236 LINE"
+);
+}
+);
+width = 1200;
+}
+);
+widthMetricsKey = space;
+}

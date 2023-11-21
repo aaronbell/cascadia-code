@@ -1,0 +1,51 @@
+{
+glyphname = comma;
+layers = (
+{
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"574 -436 LINE",
+"659 254 LINE",
+"562 254 LINE",
+"482 -436 LINE"
+);
+}
+);
+width = 1200;
+},
+{
+layerId = "1F90C004-9C90-48FA-B407-176B3E9F1E65";
+paths = (
+{
+closed = 1;
+nodes = (
+"604 -436 LINE",
+"724 254 LINE",
+"492 254 LINE",
+"412 -436 LINE"
+);
+}
+);
+width = 1200;
+},
+{
+layerId = "8E053A5E-67DA-4970-A6F5-068DBFE5AD21";
+paths = (
+{
+closed = 1;
+nodes = (
+"637 -436 LINE",
+"757 254 LINE",
+"459 254 LINE",
+"379 -436 LINE"
+);
+}
+);
+width = 1200;
+}
+);
+unicode = 002C;
+}

@@ -1,0 +1,67 @@
+{
+glyphname = tbar;
+layers = (
+{
+components = (
+{
+name = t;
+}
+);
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"1006 538 LINE",
+"1006 628 LINE",
+"94 628 LINE",
+"94 538 LINE"
+);
+}
+);
+width = 1200;
+},
+{
+components = (
+{
+name = t;
+}
+);
+layerId = "1F90C004-9C90-48FA-B407-176B3E9F1E65";
+paths = (
+{
+closed = 1;
+nodes = (
+"1030 496 LINE",
+"1030 670 LINE",
+"70 670 LINE",
+"70 496 LINE"
+);
+}
+);
+width = 1200;
+},
+{
+components = (
+{
+alignment = -1;
+name = t;
+}
+);
+layerId = "8E053A5E-67DA-4970-A6F5-068DBFE5AD21";
+paths = (
+{
+closed = 1;
+nodes = (
+"1047 421 LINE",
+"1047 670 LINE",
+"53 670 LINE",
+"53 421 LINE"
+);
+}
+);
+width = 1200;
+}
+);
+unicode = 0167;
+}

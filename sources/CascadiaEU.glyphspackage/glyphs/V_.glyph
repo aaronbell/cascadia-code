@@ -1,0 +1,93 @@
+{
+glyphname = V;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+position = "{600, 0}";
+},
+{
+name = top;
+position = "{600, 1420}";
+}
+);
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"677 0 LINE",
+"1131 1420 LINE",
+"1030 1420 LINE",
+"605 77 LINE",
+"595 77 LINE",
+"170 1420 LINE",
+"69 1420 LINE",
+"523 0 LINE"
+);
+}
+);
+width = 1200;
+},
+{
+anchors = (
+{
+name = bottom;
+position = "{600, 0}";
+},
+{
+name = top;
+position = "{600, 1420}";
+}
+);
+layerId = "1F90C004-9C90-48FA-B407-176B3E9F1E65";
+paths = (
+{
+closed = 1;
+nodes = (
+"755 0 LINE",
+"1155 1420 LINE",
+"941 1420 LINE",
+"609 170 LINE",
+"591 170 LINE",
+"259 1420 LINE",
+"45 1420 LINE",
+"445 0 LINE"
+);
+}
+);
+width = 1200;
+},
+{
+anchors = (
+{
+name = bottom;
+position = "{600, 0}";
+},
+{
+name = top;
+position = "{600, 1420}";
+}
+);
+layerId = "8E053A5E-67DA-4970-A6F5-068DBFE5AD21";
+paths = (
+{
+closed = 1;
+nodes = (
+"805 0 LINE",
+"1172 1420 LINE",
+"899 1420 LINE",
+"609 237 LINE",
+"591 237 LINE",
+"301 1420 LINE",
+"28 1420 LINE",
+"395 0 LINE"
+);
+}
+);
+width = 1200;
+}
+);
+unicode = 0056;
+}

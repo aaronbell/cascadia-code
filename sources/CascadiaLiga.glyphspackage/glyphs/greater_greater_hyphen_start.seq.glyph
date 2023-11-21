@@ -1,0 +1,80 @@
+{
+glyphname = greater_greater_hyphen_start.seq;
+layers = (
+{
+components = (
+{
+name = greater.alt;
+transform = "{1, 0, 0, 1, 139, 0}";
+},
+{
+name = greater.alt;
+transform = "{1, 0, 0, 1, 773, 0}";
+}
+);
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"2420 664 LINE",
+"2420 754 LINE",
+"1664 754 LINE",
+"1664 664 LINE"
+);
+}
+);
+width = 1200;
+},
+{
+components = (
+{
+name = greater.alt;
+transform = "{1, 0, 0, 1, 139, 0}";
+},
+{
+name = greater.alt;
+transform = "{1, 0, 0, 1, 773, 0}";
+}
+);
+layerId = "1F90C004-9C90-48FA-B407-176B3E9F1E65";
+paths = (
+{
+closed = 1;
+nodes = (
+"2420 616 LINE",
+"2420 802 LINE",
+"1550 802 LINE",
+"1550 616 LINE"
+);
+}
+);
+width = 1200;
+},
+{
+components = (
+{
+name = greater.alt;
+transform = "{1, 0, 0, 1, 139, 0}";
+},
+{
+name = greater.alt;
+transform = "{1, 0, 0, 1, 778, 0}";
+}
+);
+layerId = "8E053A5E-67DA-4970-A6F5-068DBFE5AD21";
+paths = (
+{
+closed = 1;
+nodes = (
+"2420 584 LINE",
+"2420 834 LINE",
+"1583 834 LINE",
+"1583 584 LINE"
+);
+}
+);
+width = 1200;
+}
+);
+}

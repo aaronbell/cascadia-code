@@ -1,0 +1,85 @@
+{
+glyphname = Uhorn;
+layers = (
+{
+components = (
+{
+name = U;
+}
+);
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"1028 1345 LINE SMOOTH",
+"1202 1375 OFFCURVE",
+"1278 1460 OFFCURVE",
+"1278 1653 CURVE",
+"1186 1653 LINE",
+"1186 1512 OFFCURVE",
+"1132 1451 OFFCURVE",
+"1008 1430 CURVE SMOOTH",
+"948 1420 LINE",
+"968 1335 LINE"
+);
+}
+);
+width = 1200;
+},
+{
+components = (
+{
+name = U;
+}
+);
+layerId = "1F90C004-9C90-48FA-B407-176B3E9F1E65";
+paths = (
+{
+closed = 1;
+nodes = (
+"971 1265 LINE SMOOTH",
+"1189 1301 OFFCURVE",
+"1298 1428 OFFCURVE",
+"1298 1653 CURVE",
+"1106 1653 LINE",
+"1106 1523 OFFCURVE",
+"1045 1450 OFFCURVE",
+"921 1430 CURVE SMOOTH",
+"860 1420 LINE",
+"911 1255 LINE"
+);
+}
+);
+width = 1200;
+},
+{
+components = (
+{
+alignment = -1;
+name = U;
+}
+);
+layerId = "8E053A5E-67DA-4970-A6F5-068DBFE5AD21";
+paths = (
+{
+closed = 1;
+nodes = (
+"971 1215 LINE SMOOTH",
+"1190 1252 OFFCURVE",
+"1298 1399 OFFCURVE",
+"1298 1653 CURVE",
+"1039 1653 LINE",
+"1039 1518 OFFCURVE",
+"987 1425 OFFCURVE",
+"877 1422 CURVE SMOOTH",
+"827 1420 LINE",
+"911 1205 LINE"
+);
+}
+);
+width = 1200;
+}
+);
+unicode = 01AF;
+}

@@ -1,0 +1,546 @@
+{
+glyphname = E;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+position = "{314, 0}";
+},
+{
+name = ogonek;
+position = "{517, 10}";
+},
+{
+name = top;
+position = "{314, 1420}";
+},
+{
+name = topleft;
+position = "{39, 1420}";
+}
+);
+layerId = m004;
+paths = (
+{
+closed = 1;
+nodes = (
+"192 0 LINE",
+"192 1420 LINE",
+"98 1420 LINE",
+"98 0 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"530 0 LINE",
+"530 90 LINE",
+"98 90 LINE",
+"98 0 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"449 666 LINE",
+"449 756 LINE",
+"98 756 LINE",
+"98 666 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"530 1330 LINE",
+"530 1420 LINE",
+"98 1420 LINE",
+"98 1330 LINE"
+);
+}
+);
+width = 600;
+},
+{
+anchors = (
+{
+name = bottom;
+position = "{314, 0}";
+},
+{
+name = ogonek;
+position = "{519, 10}";
+},
+{
+name = top;
+position = "{314, 1420}";
+},
+{
+name = topleft;
+position = "{36, 1420}";
+}
+);
+layerId = m005;
+paths = (
+{
+closed = 1;
+nodes = (
+"228 0 LINE",
+"228 1420 LINE",
+"70 1420 LINE",
+"70 0 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"550 0 LINE",
+"550 160 LINE",
+"70 160 LINE",
+"70 0 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"468 631 LINE",
+"468 791 LINE",
+"70 791 LINE",
+"70 631 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"550 1260 LINE",
+"550 1420 LINE",
+"70 1420 LINE",
+"70 1260 LINE"
+);
+}
+);
+width = 600;
+},
+{
+anchors = (
+{
+name = bottom;
+position = "{314, 0}";
+},
+{
+name = ogonek;
+position = "{530, 10}";
+},
+{
+name = top;
+position = "{314, 1420}";
+},
+{
+name = topleft;
+position = "{21, 1420}";
+}
+);
+layerId = m006;
+paths = (
+{
+closed = 1;
+nodes = (
+"243 0 LINE",
+"243 1420 LINE",
+"33 1420 LINE",
+"33 0 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"561 0 LINE",
+"561 205 LINE",
+"33 205 LINE",
+"33 0 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"475 606 LINE",
+"475 816 LINE",
+"33 816 LINE",
+"33 606 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"561 1215 LINE",
+"561 1420 LINE",
+"33 1420 LINE",
+"33 1215 LINE"
+);
+}
+);
+width = 600;
+},
+{
+anchors = (
+{
+name = bottom;
+position = "{630, 0}";
+},
+{
+name = ogonek;
+position = "{1080, 10}";
+},
+{
+name = top;
+position = "{630, 1420}";
+},
+{
+name = topleft;
+position = "{20, 1420}";
+}
+);
+layerId = m007;
+paths = (
+{
+closed = 1;
+nodes = (
+"278 0 LINE",
+"278 1420 LINE",
+"184 1420 LINE",
+"184 0 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"1076 0 LINE",
+"1076 90 LINE",
+"184 90 LINE",
+"184 0 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"896 666 LINE",
+"896 756 LINE",
+"184 756 LINE",
+"184 666 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"1076 1330 LINE",
+"1076 1420 LINE",
+"184 1420 LINE",
+"184 1330 LINE"
+);
+}
+);
+width = 1200;
+},
+{
+anchors = (
+{
+name = bottom;
+position = "{630, 0}";
+},
+{
+name = ogonek;
+position = "{1080, 10}";
+},
+{
+name = top;
+position = "{630, 1420}";
+},
+{
+name = topleft;
+position = "{20, 1420}";
+}
+);
+layerId = m008;
+paths = (
+{
+closed = 1;
+nodes = (
+"368 0 LINE",
+"368 1420 LINE",
+"160 1420 LINE",
+"160 0 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"1100 0 LINE",
+"1100 190 LINE",
+"160 190 LINE",
+"160 0 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"920 616 LINE",
+"920 806 LINE",
+"160 806 LINE",
+"160 616 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"1100 1230 LINE",
+"1100 1420 LINE",
+"160 1420 LINE",
+"160 1230 LINE"
+);
+}
+);
+width = 1200;
+},
+{
+anchors = (
+{
+name = bottom;
+position = "{630, 0}";
+},
+{
+name = ogonek;
+position = "{1080, 10}";
+},
+{
+name = top;
+position = "{630, 1420}";
+},
+{
+name = topleft;
+position = "{20, 1420}";
+}
+);
+layerId = m009;
+paths = (
+{
+closed = 1;
+nodes = (
+"407 0 LINE",
+"407 1420 LINE",
+"143 1420 LINE",
+"143 0 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"1117 0 LINE",
+"1117 243 LINE",
+"143 243 LINE",
+"143 0 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"937 589 LINE",
+"937 833 LINE",
+"143 833 LINE",
+"143 589 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"1117 1177 LINE",
+"1117 1420 LINE",
+"143 1420 LINE",
+"143 1177 LINE"
+);
+}
+);
+width = 1200;
+},
+{
+anchors = (
+{
+name = bottom;
+position = "{472, 0}";
+},
+{
+name = ogonek;
+position = "{800, 10}";
+},
+{
+name = top;
+position = "{472, 1420}";
+},
+{
+name = topleft;
+position = "{28, 1420}";
+}
+);
+layerId = "8A5928CE-31B2-4F56-BC21-FB6F481DC46A";
+paths = (
+{
+closed = 1;
+nodes = (
+"298 0 LINE",
+"298 1420 LINE",
+"115 1420 LINE",
+"115 0 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"825 0 LINE",
+"825 175 LINE",
+"115 175 LINE",
+"115 0 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"694 624 LINE",
+"694 799 LINE",
+"115 799 LINE",
+"115 624 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"825 1245 LINE",
+"825 1420 LINE",
+"115 1420 LINE",
+"115 1245 LINE"
+);
+}
+);
+width = 900;
+},
+{
+anchors = (
+{
+name = bottom;
+position = "{472, 0}";
+},
+{
+name = ogonek;
+position = "{805, 10}";
+},
+{
+name = top;
+position = "{472, 1420}";
+},
+{
+name = topleft;
+position = "{21, 1420}";
+}
+);
+layerId = "A3FCBCC7-55DF-4604-8A77-DC78C4EF6076";
+paths = (
+{
+closed = 1;
+nodes = (
+"325 0 LINE",
+"325 1420 LINE",
+"88 1420 LINE",
+"88 0 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"839 0 LINE",
+"839 224 LINE",
+"88 224 LINE",
+"88 0 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"706 598 LINE",
+"706 825 LINE",
+"88 825 LINE",
+"88 598 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"839 1196 LINE",
+"839 1420 LINE",
+"88 1420 LINE",
+"88 1196 LINE"
+);
+}
+);
+width = 900;
+},
+{
+anchors = (
+{
+name = bottom;
+position = "{472, 0}";
+},
+{
+name = ogonek;
+position = "{799, 10}";
+},
+{
+name = top;
+position = "{472, 1420}";
+},
+{
+name = topleft;
+position = "{30, 1420}";
+}
+);
+layerId = "4AED55CC-054D-4448-879E-1FE49A52CF83";
+paths = (
+{
+closed = 1;
+nodes = (
+"235 0 LINE",
+"235 1420 LINE",
+"141 1420 LINE",
+"141 0 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"803 0 LINE",
+"803 90 LINE",
+"141 90 LINE",
+"141 0 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"673 666 LINE",
+"673 756 LINE",
+"141 756 LINE",
+"141 666 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"803 1330 LINE",
+"803 1420 LINE",
+"141 1420 LINE",
+"141 1330 LINE"
+);
+}
+);
+width = 900;
+}
+);
+unicode = 0045;
+}

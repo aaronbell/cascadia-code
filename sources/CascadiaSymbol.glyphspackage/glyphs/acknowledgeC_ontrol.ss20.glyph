@@ -1,0 +1,63 @@
+{
+glyphname = acknowledgeControl.ss20;
+layers = (
+{
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"516 185 LINE",
+"1062 1236 LINE",
+"965 1236 LINE",
+"459 285 LINE",
+"441 285 LINE",
+"227 786 LINE",
+"130 786 LINE",
+"389 185 LINE"
+);
+}
+);
+width = 1200;
+},
+{
+layerId = "1F90C004-9C90-48FA-B407-176B3E9F1E65";
+paths = (
+{
+closed = 1;
+nodes = (
+"600 185 LINE",
+"1126 1236 LINE",
+"920 1236 LINE",
+"479 365 LINE",
+"461 365 LINE",
+"282 786 LINE",
+"76 786 LINE",
+"324 185 LINE"
+);
+}
+);
+width = 1200;
+},
+{
+layerId = "8E053A5E-67DA-4970-A6F5-068DBFE5AD21";
+paths = (
+{
+closed = 1;
+nodes = (
+"617 185 LINE",
+"1143 1235 LINE",
+"878 1235 LINE",
+"489 465 LINE",
+"471 465 LINE",
+"365 786 LINE",
+"109 786 LINE",
+"299 185 LINE"
+);
+}
+);
+width = 1200;
+}
+);
+widthMetricsKey = space;
+}

@@ -1,0 +1,56 @@
+{
+glyphname = "lamDotabove-ar";
+layers = (
+{
+components = (
+{
+name = "lam-ar";
+},
+{
+name = "dotabove-ar";
+transform = "{1, 0, 0, 1, 334, 763}";
+}
+);
+guideLines = (
+{
+position = "{166, 592}";
+}
+);
+layerId = master01;
+width = 1200;
+},
+{
+components = (
+{
+name = "lam-ar";
+},
+{
+name = "dotabove-ar";
+transform = "{1, 0, 0, 1, 304, 763}";
+}
+);
+guideLines = (
+{
+position = "{166, 551}";
+}
+);
+layerId = "8E053A5E-67DA-4970-A6F5-068DBFE5AD21";
+width = 1200;
+},
+{
+components = (
+{
+name = "lam-ar";
+},
+{
+anchor = top.dot;
+name = "dotabove-ar";
+transform = "{1, 0, 0, 1, 357, 925}";
+}
+);
+layerId = "1F90C004-9C90-48FA-B407-176B3E9F1E65";
+width = 1200;
+}
+);
+unicode = 06B6;
+}

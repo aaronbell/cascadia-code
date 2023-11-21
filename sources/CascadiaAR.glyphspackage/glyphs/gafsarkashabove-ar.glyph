@@ -1,0 +1,104 @@
+{
+glyphname = "gafsarkashabove-ar";
+layers = (
+{
+anchors = (
+{
+name = _top;
+position = "{489, 1080}";
+},
+{
+name = _top.dot;
+position = "{410, 1196}";
+},
+{
+name = top;
+position = "{563, 1559}";
+},
+{
+name = top.dot;
+position = "{464, 1421}";
+}
+);
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"948 1591 LINE",
+"949 1685 LINE",
+"285 1241 LINE",
+"284 1148 LINE"
+);
+}
+);
+width = 1200;
+},
+{
+anchors = (
+{
+name = _top;
+position = "{489, 1080}";
+},
+{
+name = _top.dot;
+position = "{410, 1216}";
+},
+{
+name = top;
+position = "{563, 1559}";
+},
+{
+name = top.dot;
+position = "{464, 1451}";
+}
+);
+layerId = "1F90C004-9C90-48FA-B407-176B3E9F1E65";
+paths = (
+{
+closed = 1;
+nodes = (
+"948 1571 LINE",
+"949 1733 LINE",
+"286 1302 LINE",
+"285 1145 LINE"
+);
+}
+);
+width = 1200;
+},
+{
+anchors = (
+{
+name = _top;
+position = "{489, 1080}";
+},
+{
+name = _top.dot;
+position = "{410, 1216}";
+},
+{
+name = top;
+position = "{563, 1559}";
+},
+{
+name = top.dot;
+position = "{464, 1451}";
+}
+);
+layerId = "8E053A5E-67DA-4970-A6F5-068DBFE5AD21";
+paths = (
+{
+closed = 1;
+nodes = (
+"953 1567 LINE",
+"954 1749 LINE",
+"230 1308 LINE",
+"229 1131 LINE"
+);
+}
+);
+width = 1200;
+}
+);
+}

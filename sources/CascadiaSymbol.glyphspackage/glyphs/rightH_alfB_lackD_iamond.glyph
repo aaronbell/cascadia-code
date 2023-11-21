@@ -1,0 +1,65 @@
+{
+glyphname = rightHalfBlackDiamond;
+production = uni2B17;
+layers = (
+{
+components = (
+{
+name = whiteDiamond;
+}
+);
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"1133 710 LINE",
+"600 1228 LINE",
+"600 192 LINE"
+);
+}
+);
+width = 1200;
+},
+{
+components = (
+{
+name = whiteDiamond;
+}
+);
+layerId = "1F90C004-9C90-48FA-B407-176B3E9F1E65";
+paths = (
+{
+closed = 1;
+nodes = (
+"1133 710 LINE",
+"600 1228 LINE",
+"600 192 LINE"
+);
+}
+);
+width = 1200;
+},
+{
+components = (
+{
+name = whiteDiamond;
+}
+);
+layerId = "8E053A5E-67DA-4970-A6F5-068DBFE5AD21";
+paths = (
+{
+closed = 1;
+nodes = (
+"1133 710 LINE",
+"600 1228 LINE",
+"600 192 LINE"
+);
+}
+);
+width = 1200;
+}
+);
+note = uni2B17;
+unicode = 2B17;
+}

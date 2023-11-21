@@ -1,0 +1,160 @@
+{
+glyphname = jdotless;
+production = uni0237;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+position = "{558, -480}";
+},
+{
+name = top;
+position = "{817, 1060}";
+}
+);
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"350 -468 LINE SMOOTH",
+"712 -439 OFFCURVE",
+"873 -284 OFFCURVE",
+"868 94 CURVE SMOOTH",
+"864 384 LINE",
+"770 384 LINE",
+"774 62 LINE SMOOTH",
+"778 -227 OFFCURVE",
+"652 -352 OFFCURVE",
+"370 -378 CURVE SMOOTH",
+"194 -394 LINE",
+"198 -480 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"786 970 LINE",
+"786 1060 LINE",
+"282 1060 LINE",
+"282 970 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"864 350 LINE",
+"864 1060 LINE",
+"770 1060 LINE",
+"770 350 LINE"
+);
+}
+);
+width = 1200;
+},
+{
+anchors = (
+{
+name = bottom;
+position = "{558, -480}";
+},
+{
+name = top;
+position = "{782, 1060}";
+}
+);
+layerId = "1F90C004-9C90-48FA-B407-176B3E9F1E65";
+paths = (
+{
+closed = 1;
+nodes = (
+"350 -468 LINE SMOOTH",
+"726 -441 OFFCURVE",
+"888 -284 OFFCURVE",
+"888 94 CURVE SMOOTH",
+"888 384 LINE",
+"676 384 LINE",
+"676 62 LINE SMOOTH",
+"676 -156 OFFCURVE",
+"584 -255 OFFCURVE",
+"370 -274 CURVE SMOOTH",
+"170 -292 LINE",
+"180 -480 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"692 886 LINE",
+"692 1060 LINE",
+"264 1060 LINE",
+"264 886 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"888 350 LINE",
+"888 1060 LINE",
+"676 1060 LINE",
+"676 350 LINE"
+);
+}
+);
+width = 1200;
+},
+{
+anchors = (
+{
+name = bottom;
+position = "{558, -480}";
+},
+{
+name = top;
+position = "{767, 1060}";
+}
+);
+layerId = "8E053A5E-67DA-4970-A6F5-068DBFE5AD21";
+paths = (
+{
+closed = 1;
+nodes = (
+"350 -468 LINE SMOOTH",
+"738 -441 OFFCURVE",
+"905 -284 OFFCURVE",
+"905 94 CURVE SMOOTH",
+"905 384 LINE",
+"634 384 LINE",
+"634 62 LINE SMOOTH",
+"634 -113 OFFCURVE",
+"555 -195 OFFCURVE",
+"370 -207 CURVE SMOOTH",
+"170 -220 LINE",
+"180 -480 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"650 811 LINE",
+"650 1060 LINE",
+"264 1060 LINE",
+"264 811 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"905 350 LINE",
+"905 1060 LINE",
+"634 1060 LINE",
+"634 350 LINE"
+);
+}
+);
+width = 1200;
+}
+);
+unicode = 0237;
+}

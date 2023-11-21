@@ -1,0 +1,84 @@
+{
+glyphname = macronbelowcomb;
+layers = (
+{
+anchors = (
+{
+name = _bottom;
+position = "{600, 0}";
+},
+{
+name = bottom;
+position = "{600, -338}";
+}
+);
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"1004 -298 LINE",
+"1004 -208 LINE",
+"196 -208 LINE",
+"196 -298 LINE"
+);
+}
+);
+userData = {
+com.schriftgestaltung.Glyphs.originalWidth = 1200;
+};
+width = 1200;
+},
+{
+anchors = (
+{
+name = _bottom;
+position = "{600, 0}";
+},
+{
+name = bottom;
+position = "{600, -378}";
+}
+);
+layerId = "1F90C004-9C90-48FA-B407-176B3E9F1E65";
+paths = (
+{
+closed = 1;
+nodes = (
+"1030 -396 LINE",
+"1030 -208 LINE",
+"170 -208 LINE",
+"170 -396 LINE"
+);
+}
+);
+width = 1200;
+},
+{
+anchors = (
+{
+name = _bottom;
+position = "{600, 0}";
+},
+{
+name = bottom;
+position = "{600, -418}";
+}
+);
+layerId = "8E053A5E-67DA-4970-A6F5-068DBFE5AD21";
+paths = (
+{
+closed = 1;
+nodes = (
+"1030 -459 LINE",
+"1030 -208 LINE",
+"170 -208 LINE",
+"170 -459 LINE"
+);
+}
+);
+width = 1200;
+}
+);
+unicode = 0331;
+}

@@ -1,0 +1,74 @@
+{
+glyphname = "twodotsverticalabove-ar";
+layers = (
+{
+anchors = (
+{
+name = _top;
+position = "{600, 752}";
+},
+{
+name = _top.dot;
+position = "{600, 562}";
+},
+{
+name = top;
+position = "{601, 1152}";
+}
+);
+components = (
+{
+name = "_twodotsverticalabove-ar";
+}
+);
+layerId = master01;
+width = 1200;
+},
+{
+anchors = (
+{
+name = _top;
+position = "{600, 752}";
+},
+{
+name = _top.dot;
+position = "{600, 562}";
+},
+{
+name = top;
+position = "{601, 1172}";
+}
+);
+components = (
+{
+name = "_twodotsverticalabove-ar";
+}
+);
+layerId = "1F90C004-9C90-48FA-B407-176B3E9F1E65";
+width = 1200;
+},
+{
+anchors = (
+{
+name = _top;
+position = "{600, 752}";
+},
+{
+name = _top.dot;
+position = "{600, 562}";
+},
+{
+name = top;
+position = "{601, 1172}";
+}
+);
+components = (
+{
+name = "_twodotsverticalabove-ar";
+}
+);
+layerId = "8E053A5E-67DA-4970-A6F5-068DBFE5AD21";
+width = 1200;
+}
+);
+}

@@ -1,0 +1,67 @@
+{
+glyphname = lslash;
+layers = (
+{
+components = (
+{
+name = l;
+}
+);
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"934 954 LINE",
+"934 1060 LINE",
+"128 561 LINE",
+"128 455 LINE"
+);
+}
+);
+width = 1200;
+},
+{
+components = (
+{
+name = l;
+}
+);
+layerId = "1F90C004-9C90-48FA-B407-176B3E9F1E65";
+paths = (
+{
+closed = 1;
+nodes = (
+"934 875 LINE",
+"934 1060 LINE",
+"128 640 LINE",
+"128 455 LINE"
+);
+}
+);
+width = 1200;
+},
+{
+components = (
+{
+alignment = -1;
+name = l;
+}
+);
+layerId = "8E053A5E-67DA-4970-A6F5-068DBFE5AD21";
+paths = (
+{
+closed = 1;
+nodes = (
+"934 808 LINE",
+"934 1077 LINE",
+"128 707 LINE",
+"128 438 LINE"
+);
+}
+);
+width = 1200;
+}
+);
+unicode = 0142;
+}

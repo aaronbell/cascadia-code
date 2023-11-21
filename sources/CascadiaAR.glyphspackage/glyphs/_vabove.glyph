@@ -1,0 +1,68 @@
+{
+glyphname = _vabove;
+layers = (
+{
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"657 600 LINE",
+"792 896 LINE",
+"710 911 LINE",
+"590 631 LINE",
+"641 631 LINE",
+"624 677 LINE",
+"596 677 LINE",
+"490 911 LINE",
+"408 891 LINE",
+"550 600 LINE"
+);
+}
+);
+width = 1200;
+},
+{
+layerId = "1F90C004-9C90-48FA-B407-176B3E9F1E65";
+paths = (
+{
+closed = 1;
+nodes = (
+"667 590 LINE",
+"802 896 LINE",
+"680 911 LINE",
+"583 651 LINE",
+"641 651 LINE",
+"614 717 LINE",
+"598 717 LINE",
+"522 911 LINE",
+"398 891 LINE",
+"540 590 LINE"
+);
+}
+);
+width = 1200;
+},
+{
+layerId = "8E053A5E-67DA-4970-A6F5-068DBFE5AD21";
+paths = (
+{
+closed = 1;
+nodes = (
+"677 580 LINE",
+"812 896 LINE",
+"660 911 LINE",
+"587 671 LINE",
+"641 671 LINE",
+"614 737 LINE",
+"598 737 LINE",
+"542 911 LINE",
+"388 891 LINE",
+"530 580 LINE"
+);
+}
+);
+width = 1200;
+}
+);
+}

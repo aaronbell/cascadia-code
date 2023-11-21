@@ -1,0 +1,93 @@
+{
+glyphname = acutecomb;
+layers = (
+{
+anchors = (
+{
+name = _top;
+position = "{510, 1060}";
+},
+{
+name = _top_viet;
+position = "{510, 1060}";
+},
+{
+name = top;
+position = "{510, 1540}";
+}
+);
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"555 1248 LINE",
+"805 1628 LINE",
+"694 1628 LINE",
+"454 1248 LINE"
+);
+}
+);
+width = 1200;
+},
+{
+anchors = (
+{
+name = _top;
+position = "{540, 1060}";
+},
+{
+name = _top_viet;
+position = "{540, 1060}";
+},
+{
+name = top;
+position = "{540, 1540}";
+}
+);
+layerId = "1F90C004-9C90-48FA-B407-176B3E9F1E65";
+paths = (
+{
+closed = 1;
+nodes = (
+"631 1248 LINE",
+"821 1628 LINE",
+"609 1628 LINE",
+"439 1248 LINE"
+);
+}
+);
+width = 1200;
+},
+{
+anchors = (
+{
+name = _top;
+position = "{539, 1060}";
+},
+{
+name = _top_viet;
+position = "{539, 1060}";
+},
+{
+name = top;
+position = "{539, 1540}";
+}
+);
+layerId = "8E053A5E-67DA-4970-A6F5-068DBFE5AD21";
+paths = (
+{
+closed = 1;
+nodes = (
+"668 1248 LINE",
+"874 1628 LINE",
+"587 1628 LINE",
+"401 1248 LINE"
+);
+}
+);
+width = 1200;
+}
+);
+unicode = 0301;
+}

@@ -1,0 +1,77 @@
+{
+glyphname = hyphen_hyphen.liga;
+layers = (
+{
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"2120 664 LINE",
+"2120 754 LINE",
+"1330 754 LINE",
+"1330 664 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"1070 664 LINE",
+"1070 754 LINE",
+"280 754 LINE",
+"280 664 LINE"
+);
+}
+);
+width = 1200;
+},
+{
+layerId = "1F90C004-9C90-48FA-B407-176B3E9F1E65";
+paths = (
+{
+closed = 1;
+nodes = (
+"2120 616 LINE",
+"2120 802 LINE",
+"1330 802 LINE",
+"1330 616 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"1070 616 LINE",
+"1070 802 LINE",
+"280 802 LINE",
+"280 616 LINE"
+);
+}
+);
+width = 1200;
+},
+{
+layerId = "8E053A5E-67DA-4970-A6F5-068DBFE5AD21";
+paths = (
+{
+closed = 1;
+nodes = (
+"2120 584 LINE",
+"2120 834 LINE",
+"1330 834 LINE",
+"1330 584 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"1070 584 LINE",
+"1070 834 LINE",
+"280 834 LINE",
+"280 584 LINE"
+);
+}
+);
+width = 1200;
+}
+);
+}

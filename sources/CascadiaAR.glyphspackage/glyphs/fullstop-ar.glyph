@@ -1,0 +1,51 @@
+{
+glyphname = "fullstop-ar";
+layers = (
+{
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"810 0 LINE",
+"828 94 LINE",
+"391 94 LINE",
+"372 0 LINE"
+);
+}
+);
+width = 1200;
+},
+{
+layerId = "1F90C004-9C90-48FA-B407-176B3E9F1E65";
+paths = (
+{
+closed = 1;
+nodes = (
+"820 0 LINE",
+"838 165 LINE",
+"381 165 LINE",
+"362 0 LINE"
+);
+}
+);
+width = 1200;
+},
+{
+layerId = "8E053A5E-67DA-4970-A6F5-068DBFE5AD21";
+paths = (
+{
+closed = 1;
+nodes = (
+"830 0 LINE",
+"848 225 LINE",
+"371 225 LINE",
+"352 0 LINE"
+);
+}
+);
+width = 1200;
+}
+);
+unicode = 06D4;
+}

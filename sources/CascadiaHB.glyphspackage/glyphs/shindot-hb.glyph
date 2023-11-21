@@ -1,0 +1,93 @@
+{
+glyphname = "shindot-hb";
+layers = (
+{
+anchors = (
+{
+name = _topright;
+position = "{600, 1200}";
+}
+);
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"650 1379 OFFCURVE",
+"691 1419 OFFCURVE",
+"691 1469 CURVE SMOOTH",
+"691 1519 OFFCURVE",
+"650 1560 OFFCURVE",
+"600 1560 CURVE SMOOTH",
+"550 1560 OFFCURVE",
+"509 1519 OFFCURVE",
+"509 1469 CURVE SMOOTH",
+"509 1419 OFFCURVE",
+"550 1379 OFFCURVE",
+"600 1379 CURVE SMOOTH"
+);
+}
+);
+width = 1200;
+},
+{
+anchors = (
+{
+name = _topright;
+position = "{600, 1200}";
+}
+);
+layerId = "8E053A5E-67DA-4970-A6F5-068DBFE5AD21";
+paths = (
+{
+closed = 1;
+nodes = (
+"650 1379 OFFCURVE",
+"691 1419 OFFCURVE",
+"691 1469 CURVE SMOOTH",
+"691 1519 OFFCURVE",
+"650 1560 OFFCURVE",
+"600 1560 CURVE SMOOTH",
+"550 1560 OFFCURVE",
+"509 1519 OFFCURVE",
+"509 1469 CURVE SMOOTH",
+"509 1419 OFFCURVE",
+"550 1379 OFFCURVE",
+"600 1379 CURVE SMOOTH"
+);
+}
+);
+width = 1200;
+},
+{
+anchors = (
+{
+name = _topright;
+position = "{600, 1200}";
+}
+);
+layerId = "1F90C004-9C90-48FA-B407-176B3E9F1E65";
+paths = (
+{
+closed = 1;
+nodes = (
+"650 1379 OFFCURVE",
+"691 1419 OFFCURVE",
+"691 1469 CURVE SMOOTH",
+"691 1519 OFFCURVE",
+"650 1560 OFFCURVE",
+"600 1560 CURVE SMOOTH",
+"550 1560 OFFCURVE",
+"509 1519 OFFCURVE",
+"509 1469 CURVE SMOOTH",
+"509 1419 OFFCURVE",
+"550 1379 OFFCURVE",
+"600 1379 CURVE SMOOTH"
+);
+}
+);
+width = 1200;
+}
+);
+unicode = 05C1;
+}

@@ -1,0 +1,50 @@
+{
+glyphname = underscore_underscore.liga;
+layers = (
+{
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"2120 -90 LINE",
+"2120 0 LINE",
+"280 0 LINE",
+"280 -90 LINE"
+);
+}
+);
+width = 1200;
+},
+{
+layerId = "1F90C004-9C90-48FA-B407-176B3E9F1E65";
+paths = (
+{
+closed = 1;
+nodes = (
+"2120 -186 LINE",
+"2120 0 LINE",
+"280 0 LINE",
+"280 -186 LINE"
+);
+}
+);
+width = 1200;
+},
+{
+layerId = "8E053A5E-67DA-4970-A6F5-068DBFE5AD21";
+paths = (
+{
+closed = 1;
+nodes = (
+"2120 -250 LINE",
+"2120 0 LINE",
+"280 0 LINE",
+"280 -250 LINE"
+);
+}
+);
+width = 1200;
+}
+);
+}

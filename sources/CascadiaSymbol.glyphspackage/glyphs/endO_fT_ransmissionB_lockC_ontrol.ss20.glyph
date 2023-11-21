@@ -1,0 +1,78 @@
+{
+glyphname = endOfTransmissionBlockControl.ss20;
+layers = (
+{
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"1125 186 LINE",
+"1125 1236 LINE",
+"1031 1236 LINE",
+"1031 186 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"1056 664 LINE",
+"1056 758 LINE",
+"75 758 LINE",
+"75 664 LINE"
+);
+}
+);
+width = 1200;
+},
+{
+layerId = "1F90C004-9C90-48FA-B407-176B3E9F1E65";
+paths = (
+{
+closed = 1;
+nodes = (
+"1125 186 LINE",
+"1125 1236 LINE",
+"975 1236 LINE",
+"975 186 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"1003 636 LINE",
+"1003 787 LINE",
+"75 787 LINE",
+"75 636 LINE"
+);
+}
+);
+width = 1200;
+},
+{
+layerId = "8E053A5E-67DA-4970-A6F5-068DBFE5AD21";
+paths = (
+{
+closed = 1;
+nodes = (
+"1125 186 LINE",
+"1125 1236 LINE",
+"883 1236 LINE",
+"883 186 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"1003 590 LINE",
+"1003 833 LINE",
+"75 833 LINE",
+"75 590 LINE"
+);
+}
+);
+width = 1200;
+}
+);
+widthMetricsKey = space;
+}

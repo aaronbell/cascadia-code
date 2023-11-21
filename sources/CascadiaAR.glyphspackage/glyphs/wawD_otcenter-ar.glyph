@@ -1,0 +1,49 @@
+{
+glyphname = "wawDotcenter-ar";
+layers = (
+{
+components = (
+{
+name = "waw-ar";
+},
+{
+alignment = -1;
+name = "dotcenter-ar";
+transform = "{0.96, 0, 0, 0.96, -243, -395}";
+}
+);
+layerId = master01;
+width = 1200;
+},
+{
+components = (
+{
+name = "waw-ar";
+},
+{
+alignment = -1;
+name = "dotcenter-ar";
+transform = "{0.84, 0, 0, 0.84, -214, -306}";
+}
+);
+layerId = "8E053A5E-67DA-4970-A6F5-068DBFE5AD21";
+width = 1200;
+},
+{
+components = (
+{
+name = "waw-ar";
+},
+{
+alignment = -1;
+name = "dotcenter-ar";
+transform = "{0.96, 0, 0, 0.96, -243, -385}";
+}
+);
+layerId = "1F90C004-9C90-48FA-B407-176B3E9F1E65";
+width = 1200;
+}
+);
+rightMetricsKey = "waw-ar";
+unicode = 08AB;
+}

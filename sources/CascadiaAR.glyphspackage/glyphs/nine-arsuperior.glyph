@@ -1,0 +1,40 @@
+{
+glyphname = "nine-arsuperior";
+layers = (
+{
+components = (
+{
+name = "nine-arinferior";
+transform = "{1, 0, 0, 1, 0, 790}";
+}
+);
+layerId = master01;
+width = 1200;
+},
+{
+components = (
+{
+name = "nine-arinferior";
+transform = "{1, 0, 0, 1, 0, 790}";
+}
+);
+layerId = "8E053A5E-67DA-4970-A6F5-068DBFE5AD21";
+width = 1200;
+},
+{
+components = (
+{
+alignment = -1;
+name = "nine-arinferior";
+transform = "{1, 0, 0, 1, 0, 801}";
+}
+);
+layerId = "1F90C004-9C90-48FA-B407-176B3E9F1E65";
+width = 1200;
+}
+);
+leftKerningGroup = "nine-ar.inferior";
+script = arabic;
+category = Number;
+subCategory = Small;
+}

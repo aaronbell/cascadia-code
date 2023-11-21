@@ -1,0 +1,96 @@
+{
+glyphname = horizontalFillSquare;
+production = uni25A4;
+layers = (
+{
+components = (
+{
+name = whiteSquare;
+}
+);
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"1051 815 LINE",
+"1051 905 LINE",
+"149 905 LINE",
+"149 815 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"1051 515 LINE",
+"1051 605 LINE",
+"149 605 LINE",
+"149 515 LINE"
+);
+}
+);
+width = 1200;
+},
+{
+components = (
+{
+name = whiteSquare;
+}
+);
+layerId = "1F90C004-9C90-48FA-B407-176B3E9F1E65";
+paths = (
+{
+closed = 1;
+nodes = (
+"1051 785 LINE",
+"1051 935 LINE",
+"149 935 LINE",
+"149 785 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"1051 485 LINE",
+"1051 635 LINE",
+"149 635 LINE",
+"149 485 LINE"
+);
+}
+);
+width = 1200;
+},
+{
+components = (
+{
+alignment = -1;
+name = whiteSquare;
+}
+);
+layerId = "8E053A5E-67DA-4970-A6F5-068DBFE5AD21";
+paths = (
+{
+closed = 1;
+nodes = (
+"1051 743 LINE",
+"1051 927 LINE",
+"149 927 LINE",
+"149 743 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"1051 493 LINE",
+"1051 677 LINE",
+"149 677 LINE",
+"149 493 LINE"
+);
+}
+);
+width = 1200;
+}
+);
+note = uni25A4;
+unicode = 25A4;
+}

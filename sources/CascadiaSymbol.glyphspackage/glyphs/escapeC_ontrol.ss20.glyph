@@ -1,0 +1,66 @@
+{
+glyphname = escapeControl.ss20;
+layers = (
+{
+components = (
+{
+name = whiteCircle;
+}
+);
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"1091 665 LINE",
+"1091 755 LINE",
+"109 755 LINE",
+"109 665 LINE"
+);
+}
+);
+width = 1200;
+},
+{
+components = (
+{
+name = whiteCircle;
+}
+);
+layerId = "1F90C004-9C90-48FA-B407-176B3E9F1E65";
+paths = (
+{
+closed = 1;
+nodes = (
+"1091 635 LINE",
+"1091 785 LINE",
+"109 785 LINE",
+"109 635 LINE"
+);
+}
+);
+width = 1200;
+},
+{
+components = (
+{
+name = whiteCircle;
+}
+);
+layerId = "8E053A5E-67DA-4970-A6F5-068DBFE5AD21";
+paths = (
+{
+closed = 1;
+nodes = (
+"1091 635 LINE",
+"1091 785 LINE",
+"109 785 LINE",
+"109 635 LINE"
+);
+}
+);
+width = 1200;
+}
+);
+widthMetricsKey = space;
+}

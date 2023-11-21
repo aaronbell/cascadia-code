@@ -1,0 +1,68 @@
+{
+glyphname = "Ghestroke-cy";
+production = uni0492;
+layers = (
+{
+components = (
+{
+name = "Ge-cy";
+}
+);
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"708 635 LINE",
+"708 725 LINE",
+"20 725 LINE",
+"20 635 LINE"
+);
+}
+);
+width = 1200;
+},
+{
+components = (
+{
+name = "Ge-cy";
+}
+);
+layerId = "1F90C004-9C90-48FA-B407-176B3E9F1E65";
+paths = (
+{
+closed = 1;
+nodes = (
+"708 585 LINE",
+"708 775 LINE",
+"-4 775 LINE",
+"-4 585 LINE"
+);
+}
+);
+width = 1200;
+},
+{
+components = (
+{
+alignment = -1;
+name = "Ge-cy";
+}
+);
+layerId = "8E053A5E-67DA-4970-A6F5-068DBFE5AD21";
+paths = (
+{
+closed = 1;
+nodes = (
+"725 549 LINE",
+"725 811 LINE",
+"-4 811 LINE",
+"-4 549 LINE"
+);
+}
+);
+width = 1200;
+}
+);
+unicode = 0492;
+}

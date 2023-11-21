@@ -1,0 +1,45 @@
+{
+glyphname = "lameddagesh-hb";
+layers = (
+{
+components = (
+{
+name = "lamed-hb";
+},
+{
+name = "dagesh-hb";
+transform = "{1, 0, 0, 1, -181, 46}";
+}
+);
+layerId = master01;
+width = 1200;
+},
+{
+components = (
+{
+name = "lamed-hb";
+},
+{
+name = "dagesh-hb";
+transform = "{1, 0, 0, 1, -228, 63}";
+}
+);
+layerId = "8E053A5E-67DA-4970-A6F5-068DBFE5AD21";
+width = 1200;
+},
+{
+components = (
+{
+name = "lamed-hb";
+},
+{
+name = "dagesh-hb";
+transform = "{1, 0, 0, 1, -209, 56}";
+}
+);
+layerId = "1F90C004-9C90-48FA-B407-176B3E9F1E65";
+width = 1200;
+}
+);
+unicode = FB3C;
+}

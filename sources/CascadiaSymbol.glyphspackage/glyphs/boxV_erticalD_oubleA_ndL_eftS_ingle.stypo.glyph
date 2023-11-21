@@ -1,0 +1,89 @@
+{
+glyphname = boxVerticalDoubleAndLeftSingle.stypo;
+layers = (
+{
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"553 -508 LINE",
+"553 1922 LINE",
+"459 1922 LINE",
+"459 754 LINE",
+"-47 754 LINE",
+"-47 660 LINE",
+"459 660 LINE",
+"459 -508 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"741 -508 LINE",
+"741 1922 LINE",
+"647 1922 LINE",
+"647 -508 LINE"
+);
+}
+);
+width = 1200;
+},
+{
+layerId = "1F90C004-9C90-48FA-B407-176B3E9F1E65";
+paths = (
+{
+closed = 1;
+nodes = (
+"496 -508 LINE",
+"496 1922 LINE",
+"288 1922 LINE",
+"288 811 LINE",
+"-104 811 LINE",
+"-104 603 LINE",
+"288 603 LINE",
+"288 -508 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"912 -508 LINE",
+"912 1922 LINE",
+"704 1922 LINE",
+"704 -508 LINE"
+);
+}
+);
+width = 1200;
+},
+{
+layerId = "8E053A5E-67DA-4970-A6F5-068DBFE5AD21";
+paths = (
+{
+closed = 1;
+nodes = (
+"468 -508 LINE",
+"468 1922 LINE",
+"204 1922 LINE",
+"204 839 LINE",
+"-132 839 LINE",
+"-132 575 LINE",
+"204 575 LINE",
+"204 -508 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"996 -508 LINE",
+"996 1922 LINE",
+"732 1922 LINE",
+"732 -508 LINE"
+);
+}
+);
+width = 1200;
+}
+);
+}

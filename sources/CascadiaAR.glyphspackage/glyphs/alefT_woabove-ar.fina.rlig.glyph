@@ -1,0 +1,97 @@
+{
+glyphname = "alefTwoabove-ar.fina.rlig";
+layers = (
+{
+anchors = (
+{
+name = _overlap;
+position = "{0, 0}";
+},
+{
+name = bottom;
+position = "{283, -141}";
+},
+{
+name = top;
+position = "{-12, 1490}";
+}
+);
+components = (
+{
+alignment = -1;
+name = "two-persian.small01";
+transform = "{1, 0, 0, 1, -651, -151}";
+},
+{
+alignment = -1;
+name = "alef-ar.fina.short.rlig";
+}
+);
+guideLines = (
+{
+position = "{234, 578}";
+}
+);
+layerId = master01;
+width = 1200;
+},
+{
+anchors = (
+{
+name = _overlap;
+position = "{0, 0}";
+},
+{
+name = bottom;
+position = "{283, -141}";
+},
+{
+name = top;
+position = "{-12, 1490}";
+}
+);
+components = (
+{
+alignment = -1;
+name = "two-persian.small01";
+transform = "{1, 0, 0, 1, -651, -151}";
+},
+{
+alignment = -1;
+name = "alef-ar.fina.short.rlig";
+}
+);
+layerId = "8E053A5E-67DA-4970-A6F5-068DBFE5AD21";
+width = 1200;
+},
+{
+anchors = (
+{
+name = _overlap;
+position = "{0, 0}";
+},
+{
+name = bottom;
+position = "{283, -141}";
+},
+{
+name = top;
+position = "{-12, 1490}";
+}
+);
+components = (
+{
+alignment = -1;
+name = "two-persian.small01";
+transform = "{1, 0, 0, 1, -651, -151}";
+},
+{
+alignment = -1;
+name = "alef-ar.fina.short.rlig";
+}
+);
+layerId = "1F90C004-9C90-48FA-B407-176B3E9F1E65";
+width = 1200;
+}
+);
+}

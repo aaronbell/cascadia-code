@@ -1,0 +1,189 @@
+{
+glyphname = Epsilontonos;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+position = "{700, 0}";
+},
+{
+name = top;
+position = "{700, 1420}";
+}
+);
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"454 0 LINE",
+"454 1420 LINE",
+"360 1420 LINE",
+"360 0 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"1077 0 LINE",
+"1077 90 LINE",
+"360 90 LINE",
+"360 0 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"897 666 LINE",
+"897 756 LINE",
+"360 756 LINE",
+"360 666 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"95 1040 LINE",
+"215 1420 LINE",
+"113 1420 LINE",
+"23 1040 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"1077 1330 LINE",
+"1077 1420 LINE",
+"360 1420 LINE",
+"360 1330 LINE"
+);
+}
+);
+width = 1200;
+},
+{
+anchors = (
+{
+name = bottom;
+position = "{700, 0}";
+},
+{
+name = top;
+position = "{700, 1420}";
+}
+);
+layerId = "1F90C004-9C90-48FA-B407-176B3E9F1E65";
+paths = (
+{
+closed = 1;
+nodes = (
+"568 0 LINE",
+"568 1420 LINE",
+"360 1420 LINE",
+"360 0 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"1100 0 LINE",
+"1100 190 LINE",
+"360 190 LINE",
+"360 0 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"920 616 LINE",
+"920 806 LINE",
+"360 806 LINE",
+"360 616 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"191 1040 LINE",
+"301 1420 LINE",
+"89 1420 LINE",
+"-1 1040 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"1100 1230 LINE",
+"1100 1420 LINE",
+"360 1420 LINE",
+"360 1230 LINE"
+);
+}
+);
+width = 1200;
+},
+{
+anchors = (
+{
+name = bottom;
+position = "{700, 0}";
+},
+{
+name = top;
+position = "{700, 1420}";
+}
+);
+layerId = "8E053A5E-67DA-4970-A6F5-068DBFE5AD21";
+paths = (
+{
+closed = 1;
+nodes = (
+"607 0 LINE",
+"607 1420 LINE",
+"343 1420 LINE",
+"343 0 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"1117 0 LINE",
+"1117 243 LINE",
+"343 243 LINE",
+"343 0 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"937 589 LINE",
+"937 833 LINE",
+"343 833 LINE",
+"343 589 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"224 1040 LINE",
+"301 1420 LINE",
+"31 1420 LINE",
+"-18 1040 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"1117 1177 LINE",
+"1117 1420 LINE",
+"343 1420 LINE",
+"343 1177 LINE"
+);
+}
+);
+width = 1200;
+}
+);
+unicode = 0388;
+}

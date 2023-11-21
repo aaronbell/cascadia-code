@@ -1,0 +1,152 @@
+{
+glyphname = "lam-ar.init.rlig";
+layers = (
+{
+anchors = (
+{
+name = bottom;
+position = "{911, -141}";
+},
+{
+name = bottom.dot;
+position = "{911, -26}";
+},
+{
+name = overlap;
+position = "{0, 0}";
+},
+{
+name = top;
+position = "{940, 1545}";
+},
+{
+name = top.dot;
+position = "{942, 1467}";
+}
+);
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"462 233 OFFCURVE",
+"706 428 OFFCURVE",
+"870 582 CURVE SMOOTH",
+"975 680 OFFCURVE",
+"1005 789 OFFCURVE",
+"997 1091 CURVE SMOOTH",
+"988 1420 LINE",
+"896 1420 LINE",
+"902 1037 LINE SMOOTH",
+"906 803 OFFCURVE",
+"883 728 OFFCURVE",
+"781 630 CURVE SMOOTH",
+"645 499 OFFCURVE",
+"428 329 OFFCURVE",
+"207 139 CURVE",
+"264 69 LINE"
+);
+}
+);
+width = 1200;
+},
+{
+anchors = (
+{
+name = bottom;
+position = "{893, -141}";
+},
+{
+name = bottom.dot;
+position = "{893, -26}";
+},
+{
+name = overlap;
+position = "{0, 0}";
+},
+{
+name = top;
+position = "{922, 1545}";
+},
+{
+name = top.dot;
+position = "{924, 1467}";
+}
+);
+layerId = "1F90C004-9C90-48FA-B407-176B3E9F1E65";
+paths = (
+{
+closed = 1;
+nodes = (
+"509 309 OFFCURVE",
+"727 456 OFFCURVE",
+"890 616 CURVE SMOOTH",
+"1017 741 OFFCURVE",
+"1042 879 OFFCURVE",
+"1036 1113 CURVE SMOOTH",
+"1028 1420 LINE",
+"822 1420 LINE",
+"837 1067 LINE SMOOTH",
+"844 913 OFFCURVE",
+"827 812 OFFCURVE",
+"746 734 CURVE SMOOTH",
+"608 602 OFFCURVE",
+"402 436 OFFCURVE",
+"190 263 CURVE",
+"338 170 LINE"
+);
+}
+);
+width = 1200;
+},
+{
+anchors = (
+{
+name = bottom;
+position = "{893, -141}";
+},
+{
+name = bottom.dot;
+position = "{893, -26}";
+},
+{
+name = overlap;
+position = "{0, 0}";
+},
+{
+name = top;
+position = "{922, 1545}";
+},
+{
+name = top.dot;
+position = "{924, 1467}";
+}
+);
+layerId = "8E053A5E-67DA-4970-A6F5-068DBFE5AD21";
+paths = (
+{
+closed = 1;
+nodes = (
+"499 269 OFFCURVE",
+"728 434 OFFCURVE",
+"890 576 CURVE SMOOTH",
+"1021 691 OFFCURVE",
+"1063 759 OFFCURVE",
+"1056 1073 CURVE SMOOTH",
+"1048 1420 LINE",
+"782 1420 LINE",
+"797 1037 LINE SMOOTH",
+"804 863 OFFCURVE",
+"802 812 OFFCURVE",
+"729 744 CURVE SMOOTH",
+"581 607 OFFCURVE",
+"382 446 OFFCURVE",
+"170 273 CURVE",
+"328 130 LINE"
+);
+}
+);
+width = 1200;
+}
+);
+}

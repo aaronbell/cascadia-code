@@ -1,0 +1,53 @@
+{
+glyphname = blackVerticalRect;
+production = uni25AE;
+layers = (
+{
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"900 110 LINE",
+"900 1310 LINE",
+"300 1310 LINE",
+"300 110 LINE"
+);
+}
+);
+width = 1200;
+},
+{
+layerId = "1F90C004-9C90-48FA-B407-176B3E9F1E65";
+paths = (
+{
+closed = 1;
+nodes = (
+"900 110 LINE",
+"900 1310 LINE",
+"300 1310 LINE",
+"300 110 LINE"
+);
+}
+);
+width = 1200;
+},
+{
+layerId = "8E053A5E-67DA-4970-A6F5-068DBFE5AD21";
+paths = (
+{
+closed = 1;
+nodes = (
+"900 110 LINE",
+"900 1310 LINE",
+"300 1310 LINE",
+"300 110 LINE"
+);
+}
+);
+width = 1200;
+}
+);
+note = uni25AE;
+unicode = 25AE;
+}

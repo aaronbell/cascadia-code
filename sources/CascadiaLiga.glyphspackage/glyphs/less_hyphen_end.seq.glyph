@@ -1,0 +1,68 @@
+{
+glyphname = less_hyphen_end.seq;
+layers = (
+{
+components = (
+{
+name = less.alt;
+transform = "{1, 0, 0, 1, 67, 0}";
+}
+);
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"400 754 LINE",
+"-20 754 LINE",
+"-20 664 LINE",
+"400 664 LINE"
+);
+}
+);
+width = 1200;
+},
+{
+components = (
+{
+name = less.alt;
+transform = "{1, 0, 0, 1, 81, 0}";
+}
+);
+layerId = "1F90C004-9C90-48FA-B407-176B3E9F1E65";
+paths = (
+{
+closed = 1;
+nodes = (
+"450 802 LINE",
+"-20 802 LINE",
+"-20 616 LINE",
+"450 616 LINE"
+);
+}
+);
+width = 1200;
+},
+{
+components = (
+{
+name = less.alt;
+transform = "{1, 0, 0, 1, 61, 0}";
+}
+);
+layerId = "8E053A5E-67DA-4970-A6F5-068DBFE5AD21";
+paths = (
+{
+closed = 1;
+nodes = (
+"520 834 LINE",
+"-20 834 LINE",
+"-20 584 LINE",
+"520 584 LINE"
+);
+}
+);
+width = 1200;
+}
+);
+}

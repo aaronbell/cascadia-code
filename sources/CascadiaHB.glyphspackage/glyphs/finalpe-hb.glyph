@@ -1,0 +1,138 @@
+{
+glyphname = "finalpe-hb";
+layers = (
+{
+anchors = (
+{
+name = center;
+position = "{597, 838}";
+}
+);
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"970 -460 LINE",
+"970 810 LINE SMOOTH",
+"970 1058 OFFCURVE",
+"833 1200 OFFCURVE",
+"589 1200 CURVE SMOOTH",
+"241 1200 LINE",
+"196 1016 OFFCURVE",
+"166 818 OFFCURVE",
+"138 537 CURVE",
+"238 537 LINE",
+"268 801 OFFCURVE",
+"295 1003 OFFCURVE",
+"316 1101 CURVE",
+"589 1101 LINE SMOOTH",
+"766 1101 OFFCURVE",
+"871 997 OFFCURVE",
+"871 809 CURVE SMOOTH",
+"871 -460 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"554 573 LINE",
+"154 634 LINE",
+"138 537 LINE",
+"534 476 LINE"
+);
+}
+);
+width = 1200;
+},
+{
+anchors = (
+{
+name = center;
+position = "{548, 785}";
+}
+);
+layerId = "8E053A5E-67DA-4970-A6F5-068DBFE5AD21";
+paths = (
+{
+closed = 1;
+nodes = (
+"1014 -460 LINE",
+"1014 809 LINE SMOOTH",
+"1014 1067 OFFCURVE",
+"870 1200 OFFCURVE",
+"583 1200 CURVE SMOOTH",
+"193 1200 LINE",
+"157 1066 OFFCURVE",
+"109 684 OFFCURVE",
+"99 438 CURVE",
+"355 436 LINE",
+"365 603 OFFCURVE",
+"376 775 OFFCURVE",
+"396 930 CURVE",
+"514 930 LINE SMOOTH",
+"697 930 OFFCURVE",
+"756 873 OFFCURVE",
+"756 638 CURVE SMOOTH",
+"756 -460 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"566 643 LINE",
+"155 700 LINE",
+"99 438 LINE",
+"530 379 LINE"
+);
+}
+);
+width = 1200;
+},
+{
+anchors = (
+{
+name = center;
+position = "{568, 807}";
+}
+);
+layerId = "1F90C004-9C90-48FA-B407-176B3E9F1E65";
+paths = (
+{
+closed = 1;
+nodes = (
+"996 -460 LINE",
+"996 809 LINE SMOOTH",
+"996 1063 OFFCURVE",
+"855 1200 OFFCURVE",
+"585 1200 CURVE SMOOTH",
+"213 1200 LINE",
+"173 1046 OFFCURVE",
+"132 739 OFFCURVE",
+"115 479 CURVE",
+"307 477 LINE",
+"325 684 OFFCURVE",
+"343 868 OFFCURVE",
+"363 1000 CURVE",
+"545 1000 LINE SMOOTH",
+"725 1000 OFFCURVE",
+"803 924 OFFCURVE",
+"803 708 CURVE SMOOTH",
+"803 -460 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"561 614 LINE",
+"155 673 LINE",
+"115 479 LINE",
+"532 419 LINE"
+);
+}
+);
+width = 1200;
+}
+);
+unicode = 05E3;
+}

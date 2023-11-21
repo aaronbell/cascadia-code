@@ -1,0 +1,50 @@
+{
+glyphname = boxLightUp.stypo;
+layers = (
+{
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"647 660 LINE",
+"647 1922 LINE",
+"553 1922 LINE",
+"553 660 LINE"
+);
+}
+);
+width = 1200;
+},
+{
+layerId = "1F90C004-9C90-48FA-B407-176B3E9F1E65";
+paths = (
+{
+closed = 1;
+nodes = (
+"704 603 LINE",
+"704 1922 LINE",
+"496 1922 LINE",
+"496 603 LINE"
+);
+}
+);
+width = 1200;
+},
+{
+layerId = "8E053A5E-67DA-4970-A6F5-068DBFE5AD21";
+paths = (
+{
+closed = 1;
+nodes = (
+"732 575 LINE",
+"732 1922 LINE",
+"468 1922 LINE",
+"468 575 LINE"
+);
+}
+);
+width = 1200;
+}
+);
+}

@@ -1,0 +1,59 @@
+{
+glyphname = blackHexagon;
+production = uni2B22;
+layers = (
+{
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"1120 410 LINE",
+"1120 1010 LINE",
+"600 1310 LINE",
+"80 1010 LINE",
+"80 410 LINE",
+"600 110 LINE"
+);
+}
+);
+width = 1200;
+},
+{
+layerId = "1F90C004-9C90-48FA-B407-176B3E9F1E65";
+paths = (
+{
+closed = 1;
+nodes = (
+"1120 410 LINE",
+"1120 1010 LINE",
+"600 1310 LINE",
+"80 1010 LINE",
+"80 410 LINE",
+"600 110 LINE"
+);
+}
+);
+width = 1200;
+},
+{
+layerId = "8E053A5E-67DA-4970-A6F5-068DBFE5AD21";
+paths = (
+{
+closed = 1;
+nodes = (
+"1120 410 LINE",
+"1120 1010 LINE",
+"600 1310 LINE",
+"80 1010 LINE",
+"80 410 LINE",
+"600 110 LINE"
+);
+}
+);
+width = 1200;
+}
+);
+note = uni2B22;
+unicode = 2B22;
+}

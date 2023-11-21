@@ -1,0 +1,65 @@
+{
+glyphname = "yehTwodotsabove-farsi.fina.alt";
+layers = (
+{
+anchors = (
+{
+name = _overlap;
+position = "{0, 0}";
+}
+);
+components = (
+{
+name = "alefMaksura-ar.fina.alt";
+},
+{
+alignment = -1;
+name = "twodotshorizontalabove-ar";
+transform = "{1, 0, 0, 1, -310, -279}";
+}
+);
+layerId = master01;
+width = 0;
+},
+{
+anchors = (
+{
+name = _overlap;
+position = "{0, 0}";
+}
+);
+components = (
+{
+name = "alefMaksura-ar.fina.alt";
+},
+{
+alignment = -1;
+name = "twodotshorizontalabove-ar";
+transform = "{1, 0, 0, 1, -260, -219}";
+}
+);
+layerId = "8E053A5E-67DA-4970-A6F5-068DBFE5AD21";
+width = 0;
+},
+{
+anchors = (
+{
+name = _overlap;
+position = "{0, 0}";
+}
+);
+components = (
+{
+name = "alefMaksura-ar.fina.alt";
+},
+{
+alignment = -1;
+name = "twodotshorizontalabove-ar";
+transform = "{1, 0, 0, 1, -260, -219}";
+}
+);
+layerId = "1F90C004-9C90-48FA-B407-176B3E9F1E65";
+width = 0;
+}
+);
+}

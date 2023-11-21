@@ -1,0 +1,110 @@
+{
+glyphname = "threedotsupabove-ar.v2";
+layers = (
+{
+anchors = (
+{
+name = _top;
+position = "{600, 752}";
+},
+{
+name = _top.dot;
+position = "{600, 642}";
+},
+{
+name = top;
+position = "{553, 1172}";
+}
+);
+components = (
+{
+alignment = -1;
+name = "dotabove-ar";
+transform = "{0.96, 0, 0, 0.96, -96, -36}";
+},
+{
+alignment = -1;
+name = "dotabove-ar";
+transform = "{0.96, 0, 0, 0.96, 154, 102}";
+},
+{
+alignment = -1;
+name = "dotabove-ar";
+transform = "{0.92, 0, 0, 0.92, -8, 296}";
+}
+);
+layerId = master01;
+width = 1200;
+},
+{
+anchors = (
+{
+name = _top;
+position = "{600, 752}";
+},
+{
+name = _top.dot;
+position = "{600, 582}";
+},
+{
+name = top;
+position = "{543, 1172}";
+}
+);
+components = (
+{
+alignment = -1;
+name = "dotabove-ar";
+transform = "{0.96, 0, 0, 0.96, -96, -36}";
+},
+{
+alignment = -1;
+name = "dotabove-ar";
+transform = "{0.96, 0, 0, 0.96, 164, 112}";
+},
+{
+alignment = -1;
+name = "dotabove-ar";
+transform = "{0.92, 0, 0, 0.92, -18, 316}";
+}
+);
+layerId = "1F90C004-9C90-48FA-B407-176B3E9F1E65";
+width = 1200;
+},
+{
+anchors = (
+{
+name = _top;
+position = "{600, 752}";
+},
+{
+name = _top.dot;
+position = "{640, 542}";
+},
+{
+name = top;
+position = "{543, 1232}";
+}
+);
+components = (
+{
+alignment = -1;
+name = "dotabove-ar";
+transform = "{0.96, 0, 0, 0.96, -96, -36}";
+},
+{
+alignment = -1;
+name = "dotabove-ar";
+transform = "{0.96, 0, 0, 0.96, 184, 122}";
+},
+{
+alignment = -1;
+name = "dotabove-ar";
+transform = "{0.92, 0, 0, 0.92, -8, 356}";
+}
+);
+layerId = "8E053A5E-67DA-4970-A6F5-068DBFE5AD21";
+width = 1200;
+}
+);
+}

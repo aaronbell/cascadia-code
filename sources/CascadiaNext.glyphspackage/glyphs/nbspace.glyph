@@ -1,0 +1,38 @@
+{
+glyphname = nbspace;
+production = uni00A0;
+layers = (
+{
+layerId = m007;
+userData = {
+com.schriftgestaltung.Glyphs.glyph.widthMetricsKey = space;
+};
+width = 1200;
+},
+{
+layerId = m008;
+width = 1200;
+},
+{
+layerId = m009;
+width = 1200;
+},
+{
+layerId = "8A5928CE-31B2-4F56-BC21-FB6F481DC46A";
+width = 900;
+},
+{
+layerId = "A3FCBCC7-55DF-4604-8A77-DC78C4EF6076";
+width = 900;
+},
+{
+layerId = "4AED55CC-054D-4448-879E-1FE49A52CF83";
+userData = {
+com.schriftgestaltung.Glyphs.glyph.widthMetricsKey = space;
+};
+width = 900;
+}
+);
+widthMetricsKey = space;
+unicode = 00A0;
+}

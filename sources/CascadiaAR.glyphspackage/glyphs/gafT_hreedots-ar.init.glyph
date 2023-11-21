@@ -1,0 +1,68 @@
+{
+glyphname = "gafThreedots-ar.init";
+layers = (
+{
+anchors = (
+{
+name = top;
+position = "{410, 1850}";
+}
+);
+components = (
+{
+name = "gaf-ar.init";
+},
+{
+name = "threedotsupabove-ar.v2";
+transform = "{1.001, 0, 0, 1, -32, 1011}";
+}
+);
+guideLines = (
+{
+position = "{424, 739}";
+}
+);
+layerId = master01;
+width = 1200;
+},
+{
+anchors = (
+{
+name = top;
+position = "{422, 1850}";
+}
+);
+components = (
+{
+name = "gaf-ar.init";
+},
+{
+name = "threedotsupabove-ar.v2";
+transform = "{0.7, 0, 0, 0.7, 149, 1236}";
+}
+);
+layerId = "8E053A5E-67DA-4970-A6F5-068DBFE5AD21";
+width = 1200;
+},
+{
+anchors = (
+{
+name = top;
+position = "{420, 1850}";
+}
+);
+components = (
+{
+name = "gaf-ar.init";
+},
+{
+anchor = top.dot;
+name = "threedotsupabove-ar.v2";
+transform = "{0.8, 0, 0, 0.8, -10, 1189}";
+}
+);
+layerId = "1F90C004-9C90-48FA-B407-176B3E9F1E65";
+width = 1200;
+}
+);
+}

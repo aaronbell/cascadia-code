@@ -1,0 +1,78 @@
+{
+export = 0;
+glyphname = T.half;
+layers = (
+{
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"467 0 LINE",
+"467 639 LINE",
+"373 639 LINE",
+"373 0 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"774 551 LINE",
+"774 639 LINE",
+"66 639 LINE",
+"66 551 LINE"
+);
+}
+);
+width = 1200;
+},
+{
+layerId = "1F90C004-9C90-48FA-B407-176B3E9F1E65";
+paths = (
+{
+closed = 1;
+nodes = (
+"480 0 LINE",
+"480 639 LINE",
+"359 639 LINE",
+"359 0 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"779 531 LINE",
+"779 639 LINE",
+"60 639 LINE",
+"60 531 LINE"
+);
+}
+);
+width = 1200;
+},
+{
+layerId = "8E053A5E-67DA-4970-A6F5-068DBFE5AD21";
+paths = (
+{
+closed = 1;
+nodes = (
+"495 0 LINE",
+"495 639 LINE",
+"344 639 LINE",
+"344 0 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"786 504 LINE",
+"786 639 LINE",
+"53 639 LINE",
+"53 504 LINE"
+);
+}
+);
+width = 1200;
+}
+);
+}

@@ -1,0 +1,186 @@
+{
+glyphname = E;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+position = "{630, 0}";
+},
+{
+name = ogonek;
+position = "{1080, 10}";
+},
+{
+name = top;
+position = "{630, 1420}";
+},
+{
+name = topleft;
+position = "{20, 1420}";
+}
+);
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"278 0 LINE",
+"278 1420 LINE",
+"184 1420 LINE",
+"184 0 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"1076 0 LINE",
+"1076 90 LINE",
+"184 90 LINE",
+"184 0 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"896 666 LINE",
+"896 756 LINE",
+"184 756 LINE",
+"184 666 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"1076 1330 LINE",
+"1076 1420 LINE",
+"184 1420 LINE",
+"184 1330 LINE"
+);
+}
+);
+width = 1200;
+},
+{
+anchors = (
+{
+name = bottom;
+position = "{630, 0}";
+},
+{
+name = ogonek;
+position = "{1080, 10}";
+},
+{
+name = top;
+position = "{630, 1420}";
+},
+{
+name = topleft;
+position = "{20, 1420}";
+}
+);
+layerId = "1F90C004-9C90-48FA-B407-176B3E9F1E65";
+paths = (
+{
+closed = 1;
+nodes = (
+"368 0 LINE",
+"368 1420 LINE",
+"160 1420 LINE",
+"160 0 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"1100 0 LINE",
+"1100 190 LINE",
+"160 190 LINE",
+"160 0 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"920 616 LINE",
+"920 806 LINE",
+"160 806 LINE",
+"160 616 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"1100 1230 LINE",
+"1100 1420 LINE",
+"160 1420 LINE",
+"160 1230 LINE"
+);
+}
+);
+width = 1200;
+},
+{
+anchors = (
+{
+name = bottom;
+position = "{630, 0}";
+},
+{
+name = ogonek;
+position = "{1080, 10}";
+},
+{
+name = top;
+position = "{630, 1420}";
+},
+{
+name = topleft;
+position = "{20, 1420}";
+}
+);
+layerId = "8E053A5E-67DA-4970-A6F5-068DBFE5AD21";
+paths = (
+{
+closed = 1;
+nodes = (
+"407 0 LINE",
+"407 1420 LINE",
+"143 1420 LINE",
+"143 0 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"1117 0 LINE",
+"1117 243 LINE",
+"143 243 LINE",
+"143 0 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"937 589 LINE",
+"937 833 LINE",
+"143 833 LINE",
+"143 589 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"1117 1177 LINE",
+"1117 1420 LINE",
+"143 1420 LINE",
+"143 1177 LINE"
+);
+}
+);
+width = 1200;
+}
+);
+unicode = 0045;
+}

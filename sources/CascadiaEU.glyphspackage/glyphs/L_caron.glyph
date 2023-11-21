@@ -1,0 +1,67 @@
+{
+glyphname = Lcaron;
+layers = (
+{
+components = (
+{
+name = L;
+}
+);
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"889 1188 LINE",
+"969 1568 LINE",
+"872 1568 LINE",
+"797 1188 LINE"
+);
+}
+);
+width = 1200;
+},
+{
+components = (
+{
+name = L;
+}
+);
+layerId = "1F90C004-9C90-48FA-B407-176B3E9F1E65";
+paths = (
+{
+closed = 1;
+nodes = (
+"934 1188 LINE",
+"1024 1568 LINE",
+"812 1568 LINE",
+"762 1188 LINE"
+);
+}
+);
+width = 1200;
+},
+{
+components = (
+{
+alignment = -1;
+name = L;
+}
+);
+layerId = "8E053A5E-67DA-4970-A6F5-068DBFE5AD21";
+paths = (
+{
+closed = 1;
+nodes = (
+"951 1188 LINE",
+"1041 1568 LINE",
+"754 1568 LINE",
+"704 1188 LINE"
+);
+}
+);
+width = 1200;
+}
+);
+unicode = 013D;
+}

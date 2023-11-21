@@ -1,0 +1,51 @@
+{
+glyphname = "paseq-hb";
+layers = (
+{
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"649 1500 LINE",
+"550 1500 LINE",
+"550 0 LINE",
+"649 0 LINE"
+);
+}
+);
+width = 1200;
+},
+{
+layerId = "1F90C004-9C90-48FA-B407-176B3E9F1E65";
+paths = (
+{
+closed = 1;
+nodes = (
+"698 1500 LINE",
+"502 1500 LINE",
+"502 0 LINE",
+"698 0 LINE"
+);
+}
+);
+width = 1200;
+},
+{
+layerId = "8E053A5E-67DA-4970-A6F5-068DBFE5AD21";
+paths = (
+{
+closed = 1;
+nodes = (
+"732 1500 LINE",
+"469 1500 LINE",
+"469 0 LINE",
+"732 0 LINE"
+);
+}
+);
+width = 1200;
+}
+);
+unicode = 05C0;
+}

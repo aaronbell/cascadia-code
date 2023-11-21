@@ -1,0 +1,607 @@
+{
+.appVersion = "3226";
+classes = (
+{
+code = "bracketleft braceleft parenleft";
+name = OpeningBracket;
+},
+{
+code = "zero one two three four five six seven eight nine";
+name = Digit;
+},
+{
+code = "@Digit a b c d e f A B C D E F";
+name = HexDigit;
+},
+{
+code = "bracketright braceright parenright";
+name = ClosingBracket;
+},
+{
+code = "zero one two three four five six seven eight nine space period colon ellipsis exclam asterisk numbersign slash backslash hyphen parenleft parenright braceleft braceright bracketleft bracketright quotedblleft quotedblright quoteleft quoteright quotedbl quotesingle bar plus multiply divide equal greater less percent degree A B C D E F G H I J K L M N O P Q R S T U V W X Y Z a b c d e f g h i j k l m n o p q r s t u v w x y z .notdef comma semicolon question periodcentered bullet endash emdash underscore at ampersand copyright registered trademark cent dollar sterling yen minus asciitilde asciicircum grave nbspace euro ";
+name = NotSpace;
+}
+);
+copyright = "© 2021 Microsoft Corporation. All Rights Reserved.";
+customParameters = (
+{
+name = panose;
+value = (
+2,
+11,
+6,
+9,
+2,
+0,
+0,
+2,
+0,
+4
+);
+},
+{
+name = fsType;
+value = (
+);
+},
+{
+name = isFixedPitch;
+value = 1;
+},
+{
+name = "Disable Last Change";
+value = 1;
+},
+{
+name = "Use Typo Metrics";
+value = 1;
+},
+{
+name = license;
+value = "Microsoft supplied font. You may use this font to create, display, and print content as permitted by the license terms or terms of use, of the Microsoft product, service, or content in which this font was included. You may only (i) embed this font in content as permitted by the embedding restrictions included in this font; and (ii) temporarily download this font to a printer or other output device to help print content. Any other use is prohibited.\012 \012The following license, based on the SIL Open Font license (https://scripts.sil.org/OFL), applies to this font. Additional license terms may be found on the GitHub repository for this font (https://github.com/microsoft/cascadia-code/blob/main/LICENSE).\012 \012Permission is hereby granted, free of charge, to any person obtaining a copy of the Font Software, to use, study, copy, merge, embed, modify, redistribute, and sell modified and unmodified copies of the Font Software, subject to the following conditions:\012 \0121) Neither the Font Software nor any of its individual components, in Original or Modified Versions, may be sold by itself.\012 \0122) Original or Modified Versions of the Font Software may be bundled, redistributed and/or sold with any software, provided that each copy contains the above copyright notice and this license. These can be included either as stand-alone text files, human-readable headers or in the appropriate machine-readable metadata fields within text or binary files as long as those fields can be easily viewed by the user.\012 \0123) No Modified Version of the Font Software may use the Reserved Font Name(s) unless explicit written permission is granted by the corresponding Copyright Holder. This restriction only applies to the primary font name as presented to the users.\012 \0124) The name(s) of the Copyright Holder(s) or the Author(s) of the Font Software shall not be used to promote, endorse or advertise any Modified Version, except to acknowledge the contribution(s) of the Copyright Holder(s) and the Author(s) or with their explicit written permission.\012 \0125) The Font Software, modified or unmodified, in part or in whole, must be distributed entirely under this license, and must not be distributed under any other license. The requirement for fonts to remain under this license does not apply to any document created using the Font Software.\012 \012THE FONT SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT OF COPYRIGHT, PATENT, TRADEMARK, OR OTHER RIGHT. IN NO EVENT SHALL THE COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, INCLUDING ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL DAMAGES, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM OTHER DEALINGS IN THE FONT SOFTWARE.";
+},
+{
+name = licenseURL;
+value = "https://scripts.sil.org/OFL";
+},
+{
+name = trademark;
+value = "Cascadia Code is a trademark of the Microsoft group of companies.";
+},
+{
+name = vendorID;
+value = SAJA;
+},
+{
+name = Axes;
+value = (
+{
+Name = Weight;
+Tag = wght;
+}
+);
+},
+{
+name = note;
+value = "#Macro to convert the ligatures from editable to production mode\012\012def ligatureProcess(production):\012	for glyph in Glyphs.font.glyphs:\012		if glyph.color == 3: #2 width\012			if production == True:\012				glyph.layers[0].LSB = glyph.layers[0].LSB - 1200\012			if production == False:\012				glyph.layers[0].LSB = glyph.layers[0].LSB + 1200\012\012		elif glyph.color == 4: #3 width\012			if production == True:\012				glyph.layers[0].LSB = glyph.layers[0].LSB - 2400\012			if production == False:\012				glyph.layers[0].LSB = glyph.layers[0].LSB + 2400\012\012		elif glyph.color == 9: #4 width\012			if production == True:\012				glyph.layers[0].LSB = glyph.layers[0].LSB - 3600\012			if production == False:\012				glyph.layers[0].LSB = glyph.layers[0].LSB + 3600		\012		\012\012ligatureProcess(True) #True for production mode, False for editable\012\012\012\012Settings for scaler for halves and thirds\012\012Third\012\01230		30		30\01240		40		40\01280		-160	-340\012\012Half\01270		70		70\01245		45		45\01260		-220	-360";
+}
+);
+date = "2019-04-07 17:18:29 +0000";
+designer = "Aaron Bell";
+designerURL = "http://sajatypeworks.com";
+familyName = "Cascadia Code";
+featurePrefixes = (
+{
+automatic = 1;
+code = "languagesystem DFLT dflt;\012\012languagesystem arab dflt;\012\012languagesystem latn dflt;\012languagesystem latn ROM;\012languagesystem latn MOL;\012languagesystem latn PLK;\012languagesystem latn NLD;\012\012languagesystem cyrl dflt;\012languagesystem cyrl BGR;\012languagesystem cyrl SRB;\012\012languagesystem hebr dflt;\012";
+name = Languagesystems;
+}
+);
+features = (
+{
+automatic = 1;
+code = "feature calt;\012feature ss02;\012";
+name = aalt;
+},
+{
+code = "### Less - It is convenient to have this lookup set at the start. \012lookup less_asciitilde {\012  ignore sub less less' asciitilde;\012  ignore sub less' asciitilde asciitilde asciitilde;\012  sub less_asciitilde.liga   asciitilde'  by LIG;\012  sub less'                  asciitilde   by less_asciitilde.liga;\012} less_asciitilde;\012\012lookup less_asciitilde_asciitilde {\012  sub less_asciitilde_asciitilde.liga  LIG  asciitilde'  by LIG;\012  sub less_asciitilde.liga'            LIG  asciitilde   by less_asciitilde_asciitilde.liga;\012} less_asciitilde_asciitilde;\012\012lookup less_asterisk {\012  ignore sub less less' asterisk;\012  ignore sub less' asterisk asterisk;\012  sub less_asterisk.liga   asterisk'  by LIG;\012  sub less'                asterisk   by less_asterisk.liga;\012} less_asterisk;\012\012lookup less_dollar {\012  ignore sub less less' dollar;\012  ignore sub less' dollar dollar;\012  sub less_dollar.liga dollar' by LIG;\012  sub less'            dollar  by less_dollar.liga;\012} less_dollar;\012\012lookup less_equal {\012  ignore sub less less' equal;\012  ignore sub less' equal equal;\012  ignore sub parenleft question less' equal;\012  ignore sub equal less' equal;\012  ignore sub less' equal [less greater bar colon exclam slash];\012  sub less_equal.liga   equal'  by LIG;\012  sub less'             equal   by less_equal.liga;\012} less_equal;\012\012lookup less_greater {\012  ignore sub less less' greater;\012  ignore sub less' greater greater;\012  sub less_greater.liga   greater'  by LIG;\012  sub less'               greater   by less_greater.liga;\012} less_greater;\012\012lookup less_plus {\012  ignore sub less less' plus;\012  ignore sub less' plus plus;\012  sub less_plus.liga  plus'  by LIG;\012  sub less'           plus   by less_plus.liga;\012} less_plus;\012\012lookup less_slash {\012  ignore sub less less' slash;\012  ignore sub less' slash slash;\012  sub less_slash.liga slash'  by LIG;\012  sub less'           slash   by less_slash.liga;\012} less_slash;\012\012lookup less_bar {\012  ignore sub less less' bar;\012  ignore sub less' bar bar bar bar;\012  ignore sub less' bar bar greater;\012  sub less_bar.liga bar'  by LIG;\012  sub less'         bar   by less_bar.liga;\012} less_bar;\012\012lookup less_bar_bar {\012  sub less_bar_bar.liga LIG   bar'  by LIG;\012  sub less_bar.liga'    LIG   bar   by less_bar_bar.liga;\012} less_bar_bar;\012\012lookup less_bar_bar_bar {\012  sub less_bar_bar_bar.liga LIG   LIG   bar'  by LIG;\012  sub less_bar_bar.liga'    LIG   LIG   bar   by less_bar_bar_bar.liga;\012} less_bar_bar_bar;\012\012# generally it is useful to have the duplicating sequences in a row. This avoids potential badness. \012\012lookup less_less {\012  ignore sub less less' less;\012  ignore sub less' less less less;\012  ignore sub less' less [asterisk plus dollar];\012  ignore sub [hyphen equal] less' less;\012  ignore sub less' less hyphen;\012  ignore sub less' less equal [equal less greater bar colon exclam slash];\012  ignore sub less' less less [asterisk plus dollar];\012  sub less_less.liga  less'  by LIG;\012  sub less'           less   by less_less.liga;\012} less_less;\012\012lookup less_less_less {\012  sub less_less_less.liga   LIG  less'  by LIG;\012  sub less_less.liga'  LIG  less   by less_less_less.liga;\012} less_less_less;\012\012lookup less_asciitilde_greater {\012  ignore sub less_asciitilde.liga' LIG greater greater;\012  sub less_asciitilde_greater.liga  LIG  greater'  by LIG;\012  sub less_asciitilde.liga'         LIG  greater   by less_asciitilde_greater.liga;\012} less_asciitilde_greater;\012\012lookup less_asterisk_greater {\012  sub less_asterisk_greater.liga  LIG  greater'  by LIG;\012  sub less_asterisk.liga'       LIG  greater  by less_asterisk_greater.liga;\012} less_asterisk_greater;\012\012lookup less_dollar_greater {\012  sub less_dollar_greater.liga   LIG    greater'  by LIG;\012  sub less_dollar.liga'          LIG    greater   by less_dollar_greater.liga;\012} less_dollar_greater;\012\012lookup less_plus_greater {\012  sub less_plus_greater.liga  LIG  greater'  by LIG;\012  sub less_plus.liga'         LIG  greater   by less_plus_greater.liga;\012} less_plus_greater;\012\012lookup less_slash_greater {\012  ignore sub less_slash.liga' LIG greater greater;\012  sub less_slash_greater.liga LIG   greater'  by LIG;\012  sub less_slash.liga'        LIG   greater   by less_slash_greater.liga;\012} less_slash_greater;\012\012lookup less_bar_greater {\012  ignore sub less_bar.liga' LIG greater greater;\012  sub less_bar_greater.liga LIG   greater'  by LIG;\012  sub less_bar.liga'        LIG   greater   by less_bar_greater.liga;\012} less_bar_greater;\012\012lookup less_exclam_hyphen_hyphen {\012  ignore sub less less' exclam hyphen hyphen;\012  ignore sub less' exclam hyphen hyphen hyphen;\012  ignore sub parenleft question less' exclam hyphen hyphen;\012  sub less_exclam_hyphen_hyphen.liga  LIG     LIG       hyphen' by LIG;\012  sub less_exclam_hyphen_hyphen.liga  LIG     hyphen'   hyphen  by LIG;\012  sub less_exclam_hyphen_hyphen.liga  exclam' hyphen    hyphen  by LIG;\012  sub less'                           exclam  hyphen    hyphen  by less_exclam_hyphen_hyphen.liga;\012} less_exclam_hyphen_hyphen;\012\012\012### Ampersand\012lookup ampersand_ampersand {\012  ignore sub ampersand ampersand' ampersand;\012  ignore sub ampersand' ampersand ampersand;\012  sub ampersand_ampersand.liga  ampersand'  by LIG;\012  sub ampersand'                ampersand   by ampersand_ampersand.liga;\012} ampersand_ampersand;\012\012\012### Asciicircum\012lookup asciicircum_equal {\012  ignore sub asciicircum asciicircum' equal;\012  ignore sub asciicircum' equal equal;\012  sub asciicircum_equal.liga    equal'    by LIG;\012  sub asciicircum'              equal     by asciicircum_equal.liga;\012} asciicircum_equal;\012\012\012### Asciitilde\012lookup asciitilde_asciitilde {\012  ignore sub asciitilde asciitilde' asciitilde;\012  ignore sub asciitilde' asciitilde asciitilde;\012  sub asciitilde_asciitilde.liga  asciitilde'   by LIG;\012  sub asciitilde'                 asciitilde    by asciitilde_asciitilde.liga;\012} asciitilde_asciitilde;\012\012lookup asciitilde_at {\012  ignore sub asciitilde asciitilde' at;\012  ignore sub asciitilde' at at;\012  sub asciitilde_at.liga  at'   by LIG;\012  sub asciitilde'         at    by asciitilde_at.liga;\012} asciitilde_at;\012\012lookup asciitilde_greater {\012  ignore sub asciitilde asciitilde' greater;\012  ignore sub asciitilde' greater greater;\012  sub asciitilde_greater.liga greater'  by LIG;\012  sub asciitilde'             greater   by asciitilde_greater.liga;\012} asciitilde_greater;\012\012lookup asciitilde_hyphen {\012  ignore sub asciitilde asciitilde' hyphen;\012  ignore sub asciitilde' hyphen hyphen;\012  sub asciitilde_hyphen.liga  hyphen'   by LIG;\012  sub asciitilde'             hyphen    by asciitilde_hyphen.liga;\012} asciitilde_hyphen;\012\012lookup asciitilde_asciitilde_greater {\012  ignore sub asciitilde_asciitilde.liga' LIG greater greater;\012  sub asciitilde_asciitilde_greater.liga  LIG  greater'  by LIG;\012  sub asciitilde_asciitilde.liga'         LIG  greater   by asciitilde_asciitilde_greater.liga;\012} asciitilde_asciitilde_greater;\012\012lookup asciitilde_equal {\012  ignore sub asciitilde asciitilde' equal;\012  ignore sub asciitilde' equal equal;\012  sub asciitilde_equal.liga  equal'   by LIG;\012  sub asciitilde'             equal    by asciitilde_equal.liga;\012} asciitilde_equal;\012\012\012### Asterisk\012lookup asterisk_asterisk {\012  ignore sub asterisk asterisk' asterisk;\012  ignore sub asterisk' asterisk asterisk asterisk;\012  ignore sub slash asterisk' asterisk;\012  ignore sub asterisk' asterisk slash;\012  sub asterisk_asterisk.liga    asterisk'   by LIG;\012  sub asterisk'                 asterisk    by asterisk_asterisk.liga;\012} asterisk_asterisk;\012\012lookup asterisk_asterisk_asterisk {\012  ignore sub asterisk_asterisk.liga' LIG asterisk slash;\012  sub asterisk_asterisk_asterisk.liga LIG  asterisk'  by LIG;\012  sub asterisk_asterisk.liga'         LIG  asterisk   by asterisk_asterisk_asterisk.liga;\012} asterisk_asterisk_asterisk;\012\012lookup asterisk_greater {\012  ignore sub asterisk asterisk' greater;\012  ignore sub asterisk' greater greater;\012  sub asterisk_greater.liga   greater'  by LIG;\012  sub asterisk'               greater   by asterisk_greater.liga;\012} asterisk_greater;\012\012lookup asterisk_slash {\012  ignore sub asterisk asterisk' slash;\012  ignore sub asterisk' slash slash;\012  ignore sub slash asterisk' slash;\012  ignore sub asterisk' slash asterisk;\012  sub asterisk_slash.liga    slash'   by LIG;\012  sub asterisk'              slash    by asterisk_slash.liga;\012} asterisk_slash;\012\012lookup asterisk_parenright {\012  ignore sub asterisk asterisk' parenright;\012  ignore sub asterisk' parenright parenright;\012  sub asterisk_parenright.liga  parenright' by LIG;\012  sub asterisk'                 parenright  by asterisk_parenright.liga;\012} asterisk_parenright;\012\012### Backslash\012lookup backslash_slash {\012  ignore sub @NotSpace backslash' slash;\012  ignore sub backslash' slash @NotSpace;\012  sub backslash_slash.liga  slash'  by LIG;\012  sub backslash'  slash  by backslash_slash.liga;\012} backslash_slash;\012\012lookup backslash_backslash {\012  ignore sub backslash backslash' backslash;\012  ignore sub backslash' backslash backslash;\012  sub backslash_backslash.liga  backslash'  by LIG;\012  sub backslash'  backslash  by backslash_backslash.liga;\012} backslash_backslash;\012\012\012### Bar\012lookup bar_bar {\012  ignore sub bar bar' bar;\012  ignore sub bar' bar bar bar;\012  ignore sub [hyphen equal] bar' bar;\012  ignore sub bar' bar [hyphen equal];\012  ignore sub bar' bar bar [hyphen equal];\012  ignore sub bar' bar equal [equal less greater bar colon exclam slash];\012  ignore sub bar bar' bar greater;\012  ignore sub [less greater] bar' bar [less greater];\012  ignore sub less bar' bar;\012  ignore sub less bar bar';\012  sub bar_bar.liga  bar' by LIG;\012  sub bar'          bar  by bar_bar.liga;\012} bar_bar;\012\012lookup bar_bar_bar {\012  sub bar_bar_bar.liga  LIG bar'  by LIG;\012  sub bar_bar.liga'     LIG bar   by bar_bar_bar.liga;\012} bar_bar_bar;\012\012lookup bar_greater {\012  ignore sub bar bar' greater;\012  ignore sub bar' greater greater;\012  ignore sub less bar bar' greater;\012  sub bar_greater.liga  greater' by LIG;\012  sub bar'              greater  by bar_greater.liga;\012} bar_greater;\012\012lookup bar_braceright {\012  ignore sub bar bar' braceright;\012  ignore sub bar' braceright braceright;\012  ignore sub braceleft bar' braceright;\012  sub bar_braceright.liga braceright' by LIG;\012  sub bar'                braceright  by bar_braceright.liga;\012} bar_braceright;\012\012lookup bar_bracketright {\012  ignore sub bar bar' bracketright;\012  ignore sub bar' bracketright bracketright;\012  ignore sub bracketleft bar' bracketright;\012  sub bar_bracketright.liga bracketright' by LIG;\012  sub bar'                  bracketright  by bar_bracketright.liga;\012} bar_bracketright;\012\012lookup bar_bar_greater {\012  ignore sub bar_bar.liga' LIG greater greater;\012  sub bar_bar_greater.liga  LIG   greater' by LIG;\012  sub bar_bar.liga'         LIG   greater  by bar_bar_greater.liga;\012} bar_bar_greater;\012\012lookup bar_bar_bar_greater {\012  ignore sub bar_bar_bar.liga' LIG LIG greater greater;\012  sub bar_bar_bar_greater.liga LIG LIG greater'  by LIG;\012  sub bar_bar_bar.liga' LIG LIG greater  by bar_bar_bar_greater.liga;\012\012} bar_bar_bar_greater;\012\012\012### Brace left\012lookup braceleft_bar {\012  ignore sub braceleft braceleft' bar;\012  ignore sub braceleft' bar bar;\012  ignore sub braceleft' bar braceright;\012  sub braceleft_bar.liga  bar'  by LIG;\012  sub braceleft'          bar   by braceleft_bar.liga;\012} braceleft_bar;\012\012### Brace right\012lookup braceright_numbersign {\012  ignore sub braceright braceright' numbersign;\012  ignore sub braceright' numbersign numbersign;\012  sub braceright_numbersign.liga  numbersign'  by LIG;\012  sub braceright'                 numbersign   by braceright_numbersign.liga;\012} braceright_numbersign;\012\012### Bracket left\012lookup bracketleft_bar {\012  ignore sub bracketleft bracketleft' bar;\012  ignore sub bracketleft' bar bar;\012  ignore sub bracketleft' bar bracketright;\012  sub bracketleft_bar.liga  bar' by LIG;\012  sub bracketleft'          bar  by bracketleft_bar.liga;\012} bracketleft_bar;\012\012\012### Bracket right\012lookup bracketright_numbersign {\012  ignore sub bracketright bracketright' numbersign;\012  ignore sub bracketright' numbersign numbersign;\012  sub bracketright_numbersign.liga  numbersign'  by LIG;\012  sub bracketright'                 numbersign   by bracketright_numbersign.liga;\012} bracketright_numbersign;\012\012\012### Colon\012lookup colon_colon {\012  ignore sub colon colon' colon;\012  ignore sub colon' colon colon colon;\012  ignore sub parenleft question colon' colon;\012  ignore sub colon' colon [less greater];\012  ignore sub [less greater] colon' colon;\012  sub colon_colon.liga  colon'  by LIG;\012  sub colon'            colon   by colon_colon.liga;\012} colon_colon;\012\012lookup colon_colon_colon {\012  sub colon_colon_colon.liga   LIG   colon' by LIG;\012  sub colon_colon.liga'        LIG   colon  by colon_colon_colon.liga;\012} colon_colon_colon;\012\012lookup colon_equal {\012  ignore sub colon colon' equal;\012  ignore sub colon' equal equal;\012  ignore sub parenleft question colon' equal;\012  ignore sub equal colon' equal;\012  sub colon_equal.liga  equal'  by LIG;\012  sub colon'            equal   by colon_equal.liga;\012} colon_equal;\012\012lookup colon_colon_equal {\012  ignore sub colon_colon.liga' LIG equal equal;\012  sub colon_colon_equal.liga  LIG   equal'  by LIG;\012  sub colon_colon.liga'       LIG   equal   by colon_colon_equal.liga;\012} colon_colon_equal;\012\012lookup colon_slash_slash {\012  ignore sub colon colon' slash slash;\012  ignore sub colon' slash slash slash;\012  sub colon_slash_slash.liga  LIG     slash' by LIG;\012  sub colon_slash_slash.liga  slash'  slash  by LIG;\012  sub colon'                  slash   slash  by colon_slash_slash.liga;\012} colon_slash_slash;\012\012\012## Dollar\012lookup dollar_greater {\012  ignore sub dollar dollar' greater;\012  ignore sub dollar' greater greater;\012  sub dollar_greater.liga greater'  by LIG;\012  sub dollar' greater  by dollar_greater.liga;\012} dollar_greater;\012\012\012### Exclam (for equal see below)\012lookup exclam_equal {\012  ignore sub exclam exclam' equal;\012  ignore sub exclam' equal equal equal;\012  ignore sub parenleft question exclam' equal;\012  ignore sub parenleft question less exclam' equal;\012  ignore sub equal exclam' equal;\012  sub exclam_equal.liga equal'  by LIG;\012  sub exclam'           equal   by exclam_equal.liga;\012} exclam_equal;\012\012lookup exclam_equal_equal {\012  sub exclam_equal_equal.liga LIG   equal'  by LIG;\012  sub exclam_equal.liga' LIG   equal  by exclam_equal_equal.liga;\012} exclam_equal_equal;\012\012lookup exclam_exclam {\012  ignore sub exclam exclam' exclam;\012  ignore sub exclam' exclam exclam;\012  ignore sub parenleft question exclam' exclam;\012  ignore sub parenleft question less exclam' exclam;\012  sub exclam_exclam.liga  exclam' by LIG;\012  sub exclam'             exclam  by exclam_exclam.liga;\012} exclam_exclam;\012\012lookup exclam_exclam_period {\012  ignore sub exclam_exclam.liga' LIG period period;\012  sub exclam_exclam_period.liga LIG  period' by LIG;\012  sub exclam_exclam.liga'       LIG  period  by exclam_exclam_period.liga;\012} exclam_exclam_period;\012\012lookup exclam_period {\012  ignore sub exclam exclam' period;\012  ignore sub exclam' period period;\012  sub exclam_period.liga  period'  by LIG;\012  sub exclam'             period   by exclam_period.liga;\012} exclam_period;\012\012lookup exclam_colon {\012  ignore sub exclam exclam' colon;\012  ignore sub exclam' colon colon;\012  sub exclam_colon.liga  	colon'  by LIG;\012  sub exclam'               colon   by exclam_colon.liga;\012} exclam_colon;\012\012## Equal - Made sense to shift this below the exclam to avoid issues\012lookup equal_equal {\012  ignore sub equal equal' equal;\012  ignore sub equal' equal equal equal;\012  ignore sub parenleft question equal' equal;\012  ignore sub parenleft question less equal' equal;\012  ignore sub less question equal' equal;\012  ignore sub bracketleft equal' equal;\012  ignore sub equal' equal bracketright;\012  ignore sub equal [colon exclam] equal' equal;\012  ignore sub [less greater bar slash] equal' equal;\012  ignore sub equal' equal [less greater bar slash] ;\012  ignore sub equal' equal [colon exclam] equal;\012  sub equal_equal.liga  equal'  by LIG;\012  sub equal'  equal  by equal_equal.liga;\012} equal_equal;\012\012lookup equal_equal_equal {\012  sub equal_equal_equal.liga  LIG     equal' by LIG;\012  sub equal_equal.liga'       LIG   equal  by equal_equal_equal.liga;\012} equal_equal_equal;\012\012### Hyphen\012lookup hyphen_asciitilde {\012  ignore sub hyphen hyphen' asciitilde;\012  ignore sub hyphen' asciitilde asciitilde;\012  sub hyphen_asciitilde.liga    asciitilde'  by LIG;\012  sub hyphen'                   asciitilde   by hyphen_asciitilde.liga;\012} hyphen_asciitilde;\012\012lookup hyphen_hyphen {\012  ignore sub hyphen hyphen' hyphen;\012  ignore sub hyphen' hyphen hyphen hyphen;\012  ignore sub [less greater bar] hyphen' hyphen;\012  ignore sub hyphen' hyphen [less greater bar];\012  sub hyphen_hyphen.liga   hyphen'  by LIG;\012  sub hyphen'               hyphen   by hyphen_hyphen.liga;\012} hyphen_hyphen;\012\012lookup hyphen_hyphen_hyphen {\012  ignore sub hyphen_hyphen.liga' LIG hyphen [less greater bar];\012  sub hyphen_hyphen_hyphen.liga   LIG    hyphen'   by LIG;\012  sub hyphen_hyphen.liga'         LIG    hyphen    by hyphen_hyphen_hyphen.liga;\012} hyphen_hyphen_hyphen;\012\012\012### Greater\012lookup greater_greater {\012  ignore sub greater greater' greater;\012  ignore sub greater' greater greater greater;\012  ignore sub [asterisk plus dollar] greater' greater;\012  ignore sub [hyphen equal] greater' greater;\012  ignore sub greater' greater hyphen;\012  ignore sub greater' greater equal [equal less greater bar colon exclam slash];\012  sub greater_greater.liga  greater'  by LIG;\012  sub greater'              greater   by greater_greater.liga;\012} greater_greater;\012\012lookup greater_greater_greater {\012  sub greater_greater_greater.liga  LIG   greater'  by LIG;\012  sub greater_greater.liga'         LIG   greater   by greater_greater_greater.liga;\012} greater_greater_greater;\012\012lookup greater_equal {\012  ignore sub greater greater' equal;\012  ignore sub greater' equal equal;\012  ignore sub equal greater' equal;\012  ignore sub greater' equal [less greater bar colon exclam slash];\012  sub greater_equal.liga  equal'  by LIG;\012  sub greater'            equal   by greater_equal.liga;\012} greater_equal;\012\012### Less moved to top of CALT\012\012### Numbersign\012lookup numbersign_braceleft {\012  ignore sub numbersign numbersign' braceleft;\012  ignore sub numbersign' braceleft braceleft;\012  sub numbersign_braceleft.liga braceleft'  by LIG;\012  sub numbersign'               braceleft   by numbersign_braceleft.liga;\012} numbersign_braceleft;\012\012lookup numbersign_bracketleft {\012  ignore sub numbersign numbersign' bracketleft;\012  ignore sub numbersign' bracketleft bracketleft;\012  sub numbersign_bracketleft.liga bracketleft'  by LIG;\012  sub numbersign'                 bracketleft   by numbersign_bracketleft.liga;\012} numbersign_bracketleft;\012\012lookup numbersign_colon {\012  ignore sub numbersign numbersign' colon;\012  ignore sub numbersign' colon colon;\012  sub numbersign_colon.liga colon'  by LIG;\012  sub numbersign'           colon   by numbersign_colon.liga;\012} numbersign_colon;\012\012lookup numbersign_equal {\012  ignore sub numbersign numbersign' equal;\012  ignore sub numbersign' equal equal;\012  sub numbersign_equal.liga equal'  by LIG;\012  sub numbersign'           equal   by numbersign_equal.liga;\012} numbersign_equal;\012\012lookup numbersign_exclam {\012  ignore sub numbersign numbersign' exclam;\012  ignore sub numbersign' exclam exclam;\012  sub numbersign_exclam.liga  exclam'  by LIG;\012  sub numbersign'             exclam   by numbersign_exclam.liga;\012} numbersign_exclam;\012\012lookup numbersign_parenleft {\012  ignore sub numbersign numbersign' parenleft;\012  ignore sub numbersign' parenleft parenleft;\012  sub numbersign_parenleft.liga parenleft'  by LIG;\012  sub numbersign'               parenleft   by numbersign_parenleft.liga;\012} numbersign_parenleft;\012\012lookup numbersign_question {\012  ignore sub numbersign numbersign' question;\012  ignore sub numbersign' question question;\012  sub numbersign_question.liga  question'  by LIG;\012  sub numbersign'               question   by numbersign_question.liga;\012} numbersign_question;\012\012lookup numbersign_underscore {\012  ignore sub numbersign numbersign' underscore;\012  ignore sub numbersign' underscore underscore;\012  sub numbersign_underscore.liga  underscore'  by LIG;\012  sub numbersign'                 underscore   by numbersign_underscore.liga;\012} numbersign_underscore;\012\012lookup numbersign_underscore_parenleft {\012  ignore sub numbersign_underscore.liga' LIG parenleft parenleft;\012  sub numbersign_underscore_parenleft.liga  LIG  parenleft'  by LIG;\012  sub numbersign_underscore.liga'           LIG  parenleft   by numbersign_underscore_parenleft.liga;\012} numbersign_underscore_parenleft;\012\012\012### Paren left\012lookup parenleft_asterisk {\012  ignore sub parenleft  parenleft'  asterisk;\012  ignore sub parenleft' asterisk    asterisk;\012  sub parenleft_asterisk.liga asterisk'  by LIG;\012  sub parenleft'              asterisk   by parenleft_asterisk.liga;\012} parenleft_asterisk;\012\012\012### Percent\012lookup percent_percent {\012  ignore sub percent percent' percent;\012  ignore sub percent' percent percent;\012  sub percent_percent.liga  percent'  by LIG;\012  sub percent'              percent   by percent_percent.liga;\012} percent_percent;\012\012\012### Period\012lookup period_equal {\012  ignore sub period period' equal;\012  ignore sub period' equal equal;\012  sub period_equal.liga equal'  by LIG;\012  sub period'           equal   by period_equal.liga;\012} period_equal;\012\012lookup period_period {\012  ignore sub period period' period;\012  ignore sub period' period period period;\012  sub period_period.liga period'  by LIG;\012  sub period'            period   by period_period.liga;\012} period_period;\012\012lookup period_period_period {\012  sub period_period_period.liga LIG  period'  by LIG;\012  sub period_period.liga'       LIG  period   by period_period_period.liga;\012} period_period_period;\012\012lookup period_question {\012  ignore sub period period' question;\012  ignore sub period' question question;\012  sub period_question.liga  question'  by LIG;\012  sub period'               question   by period_question.liga;\012} period_question;\012\012lookup period_hyphen {\012  ignore sub period period' hyphen;\012  ignore sub period' hyphen hyphen;\012  sub period_hyphen.liga  hyphen'  by LIG;\012  sub period'               hyphen   by period_hyphen.liga;\012} period_hyphen;\012\012lookup period_period_equal {\012  ignore sub period_period.liga' LIG equal equal;\012  sub period_period_equal.liga  LIG  equal'  by LIG;\012  sub period_period.liga'       LIG  equal   by period_period_equal.liga;\012} period_period_equal;\012\012lookup period_period_less {\012  ignore sub period_period.liga' LIG less less;\012  sub period_period_less.liga  LIG  less'  by LIG;\012  sub period_period.liga'      LIG  less   by period_period_less.liga;\012} period_period_less;\012\012\012### Plus\012lookup plus_greater {\012  ignore sub plus plus' greater;\012  ignore sub plus' greater greater;\012  sub plus_greater.liga   greater'  by LIG;\012  sub plus'               greater   by plus_greater.liga;\012} plus_greater;\012\012lookup plus_plus {\012  ignore sub plus plus' plus;\012  ignore sub plus' plus plus plus;\012  sub plus_plus.liga  plus'  by LIG;\012  sub plus'           plus   by plus_plus.liga;\012} plus_plus;\012\012lookup plus_plus_plus {\012  ignore sub plus_plus.liga' LIG plus plus;\012  sub plus_plus_plus.liga LIG  plus'  by LIG;\012  sub plus_plus.liga' LIG  plus  by plus_plus_plus.liga;\012} plus_plus_plus;\012\012### Question\012lookup question_equal {\012  ignore sub question question' equal;\012  ignore sub question' equal equal;\012  ignore sub parenleft question' equal;\012  ignore sub less question' equal;\012  sub question_equal.liga equal'  by LIG;\012  sub question'           equal   by question_equal.liga;\012} question_equal;\012\012lookup question_period {\012  ignore sub question question' period;\012  ignore sub question' period period;\012  sub question_period.liga  period'  by LIG;\012  sub question'             period   by question_period.liga;\012} question_period;\012\012lookup question_question {\012  ignore sub question question' question;\012  ignore sub question' question question;\012  sub question_question.liga  question'  by LIG;\012  sub question'               question   by question_question.liga;\012} question_question;\012\012lookup question_question_equal {\012  sub question_question_equal.liga  LIG equal'  by LIG;\012  sub question_question.liga'       LIG equal   by question_question_equal.liga;\012} question_question_equal;\012\012lookup question_colon {\012  ignore sub question question' colon;\012  ignore sub question' colon colon;\012  sub question_colon.liga  colon'  by LIG;\012  sub question'               colon   by question_colon.liga;\012} question_colon;\012\012### Semicolon\012lookup semicolon_semicolon {\012  ignore sub semicolon semicolon' semicolon;\012  ignore sub semicolon' semicolon semicolon;\012  sub semicolon_semicolon.liga  semicolon'  by LIG;\012  sub semicolon'                semicolon   by semicolon_semicolon.liga;\012} semicolon_semicolon;\012\012\012### Slash\012lookup slash_asterisk {\012  ignore sub slash slash' asterisk;\012  ignore sub slash' asterisk asterisk;\012  ignore sub slash' asterisk slash;\012  ignore sub asterisk slash' asterisk;\012  sub slash_asterisk.liga asterisk'  by LIG;\012  sub slash'              asterisk   by slash_asterisk.liga;\012} slash_asterisk;\012\012lookup slash_greater {\012  ignore sub slash slash' greater;\012  ignore sub slash' greater greater;\012  sub slash_greater.liga  greater'  by LIG;\012  sub slash'              greater   by slash_greater.liga;\012} slash_greater;\012\012lookup slash_slash {\012  ignore sub slash slash' slash;\012  ignore sub slash' slash slash slash;\012  ignore sub equal slash' slash;\012  ignore sub slash' slash equal;\012  sub slash_slash.liga  slash'  by LIG;\012  sub slash'            slash   by slash_slash.liga;\012} slash_slash;\012\012lookup slash_slash_slash {\012  sub slash_slash_slash.liga  LIG   slash'  by LIG;\012  sub slash_slash.liga'       LIG   slash   by slash_slash_slash.liga;\012} slash_slash_slash;\012\012lookup slash_backslash {\012  ignore sub @NotSpace slash' backslash;\012  ignore sub slash' backslash @NotSpace;\012  sub slash_backslash.liga  backslash'  by LIG;\012  sub slash'                backslash   by slash_backslash.liga;\012} slash_backslash;\012\012\012### WWW\012lookup w_w_w {\012  ignore sub w w' w w;\012  ignore sub w' w w w;\012  sub w_w_w.liga  LIG  w' by LIG;\012  sub w_w_w.liga  w'   w  by LIG;\012  sub w'          w    w  by w_w_w.liga;\012} w_w_w;\012\012\012\012### Vertical-align colon/greater/less\012\012# :> :< >: <:\012# :>: :<:\012# <:> >:< <:< >:>\012# <::> <::< >::< >::>\012# <:::> <:::< >:::< >:::>\012# <::::> <::::< >::::< >::::>\012\012lookup center {\012    #574 :>= :<=\012    ignore sub colon' [less greater] [equal hyphen];\012    ignore sub colon colon' [less greater]; # ignores the :::< case\012\012    # middles & ends\012    sub [less.center greater.center colon.center] colon' by colon.center;\012    sub colon.center [less greater]' by [less.center greater.center];\012\012    # starts\012    sub [less greater]' colon by [less.center greater.center];\012    sub colon' [less greater] by colon.center;\012} center;\012\012lookup equal_arrows {\012  # Disable |||\012  ignore sub bar bar' bar equal;\012  ignore sub bar bar' equal;\012  ignore sub [equal_start.seq equal_middle.seq] bar' bar bar;\012\012  # equal middle & end\012  sub [less_equal_start.seq less_equal_middle.seq greater_equal_start.seq greater_equal_middle.seq bar_equal_start.seq bar_equal_middle.seq slash_equal_start.seq slash_equal_middle.seq colon_equal_middle.seq exclam_equal_middle.seq equal_start.seq equal_middle.seq] equal' [equal less greater bar slash colon exclam] by equal_middle.seq;\012\012  sub [less_less_equal_start.seq less_less_equal_middle.seq greater_greater_equal_start.seq greater_greater_equal_middle.seq  bar_bar_equal_start.seq bar_bar_equal_middle.seq slash_slash_equal_start.seq slash_slash_equal_middle.seq] LIG equal' [equal less greater bar slash colon exclam] by equal_middle.seq;\012\012  sub [less_equal_start.seq less_equal_middle.seq greater_equal_start.seq greater_equal_middle.seq bar_equal_start.seq bar_equal_middle.seq slash_equal_start.seq slash_equal_middle.seq colon_equal_middle.seq exclam_equal_middle.seq equal_start.seq equal_middle.seq] equal' by equal_end.seq;\012\012  sub [less_less_equal_start.seq less_less_equal_middle.seq greater_greater_equal_start.seq greater_greater_equal_middle.seq bar_bar_equal_start.seq bar_bar_equal_middle.seq slash_slash_equal_start.seq slash_slash_equal_middle.seq] LIG equal' by equal_end.seq;\012\012\012  # double middles\012  sub [equal_start.seq equal_middle.seq] less_less_equal_middle.seq       less'    equal by LIG;\012  sub [equal_start.seq equal_middle.seq] less'                            less     equal by less_less_equal_middle.seq;\012  sub [equal_start.seq equal_middle.seq] greater_greater_equal_middle.seq greater' equal by LIG;\012  sub [equal_start.seq equal_middle.seq] greater'                         greater  equal by greater_greater_equal_middle.seq;\012  sub [equal_start.seq equal_middle.seq] bar_bar_equal_middle.seq         bar'     equal by LIG;\012  sub [equal_start.seq equal_middle.seq] bar'                             bar      equal by bar_bar_equal_middle.seq;\012  sub [equal_start.seq equal_middle.seq] slash_slash_equal_middle.seq     slash'   equal by LIG;\012  sub [equal_start.seq equal_middle.seq] slash'                           slash    equal by slash_slash_equal_middle.seq;\012\012  # single middles\012  sub [equal_start.seq equal_middle.seq] less'    equal by less_equal_middle.seq;\012  sub [equal_start.seq equal_middle.seq] greater' equal by greater_equal_middle.seq;\012  sub [equal_start.seq equal_middle.seq] bar'     equal by bar_equal_middle.seq;\012  sub [equal_start.seq equal_middle.seq] slash'   equal by slash_equal_middle.seq;\012  sub [equal_start.seq equal_middle.seq] colon'   equal by colon_equal_middle.seq;\012  sub [equal_start.seq equal_middle.seq] exclam'  equal by exclam_equal_middle.seq;\012\012  # double ends\012  sub [equal_start.seq equal_middle.seq] less_less_equal_end.seq        less'    by LIG;\012  sub [equal_start.seq equal_middle.seq] less'                          less     by less_less_equal_end.seq;\012  sub [equal_start.seq equal_middle.seq] greater_greater_equal_end.seq  greater' by LIG;\012  sub [equal_start.seq equal_middle.seq] greater'                       greater  by greater_greater_equal_end.seq;\012  sub [equal_start.seq equal_middle.seq] bar_bar_equal_end.seq          bar'     by LIG;\012  sub [equal_start.seq equal_middle.seq] bar'                           bar      by bar_bar_equal_end.seq;\012  sub [equal_start.seq equal_middle.seq] slash_slash_equal_end.seq      slash'   by LIG;\012  sub [equal_start.seq equal_middle.seq] slash'                         slash    by slash_slash_equal_end.seq;\012\012  # single ends\012  sub [equal_start.seq equal_middle.seq] less'    by less_equal_end.seq;\012  sub [equal_start.seq equal_middle.seq] greater' by greater_equal_end.seq;\012  sub [equal_start.seq equal_middle.seq] bar'     by bar_equal_end.seq;\012  sub [equal_start.seq equal_middle.seq] slash'   by slash_equal_end.seq;\012\012  # double beginnings\012  sub less_less_equal_start.seq       less'    equal by LIG;\012  sub less'                           less     equal by less_less_equal_start.seq;\012  sub greater_greater_equal_start.seq greater' equal by LIG;\012  sub greater'                        greater  equal by greater_greater_equal_start.seq;\012  sub bar_bar_equal_start.seq         bar'     equal by LIG;\012  sub bar'                            bar      equal by bar_bar_equal_start.seq;\012  sub slash_slash_equal_start.seq     slash'   equal by LIG;\012  sub slash'                          slash    equal by slash_slash_equal_start.seq;\012\012  # Disable >=< #548\012  sub greater' equal less [equal less] by greater_equal_start.seq;\012  ignore sub greater' equal less;\012  \012  # Disable =< #479 #468 #424 #406 #355 #305\012  sub equal' less [equal less] by equal_start.seq;\012\012  # Disable =/ #1056\012  sub equal'   slash [equal slash] by equal_start.seq; \012\012  # single beginnings\012  sub less'    equal [equal less greater bar slash colon exclam] by less_equal_start.seq; # disable >= <= as they're used in math\012  sub greater' equal [equal less greater bar slash colon exclam] by greater_equal_start.seq;\012  sub bar'     equal [equal less greater bar slash colon exclam] by bar_equal_start.seq; # disable |= \012  sub slash'   equal by slash_equal_start.seq;\012  sub equal'  [equal greater bar colon exclam] by equal_start.seq;\012\012} equal_arrows;\012\012### Arbitrary-length arrows #346\012\012lookup hyphen_arrows {\012  # Disable |||\012  ignore sub bar bar' bar hyphen;\012  ignore sub bar bar' hyphen;\012  ignore sub [hyphen_start.seq hyphen_middle.seq] bar' bar bar;\012\012  # hyphen middle & end\012  sub [less_hyphen_start.seq less_hyphen_middle.seq greater_hyphen_start.seq greater_hyphen_middle.seq bar_hyphen_start.seq bar_hyphen_middle.seq hyphen_start.seq hyphen_middle.seq] hyphen' [hyphen less greater bar] by hyphen_middle.seq;\012\012  sub [less_less_hyphen_start.seq less_less_hyphen_middle.seq greater_greater_hyphen_start.seq greater_greater_hyphen_middle.seq bar_bar_hyphen_start.seq bar_bar_hyphen_middle.seq] LIG hyphen' [hyphen less greater bar] by hyphen_middle.seq;\012\012  sub [less_hyphen_start.seq less_hyphen_middle.seq greater_hyphen_start.seq greater_hyphen_middle.seq bar_hyphen_start.seq bar_hyphen_middle.seq hyphen_start.seq hyphen_middle.seq] hyphen' by hyphen_end.seq;\012\012  sub [less_less_hyphen_start.seq less_less_hyphen_middle.seq greater_greater_hyphen_start.seq greater_greater_hyphen_middle.seq bar_bar_hyphen_start.seq bar_bar_hyphen_middle.seq] LIG hyphen' by hyphen_end.seq;\012\012  # double middles\012  sub [hyphen_start.seq hyphen_middle.seq] less_less_hyphen_middle.seq        less'    hyphen by LIG;\012  sub [hyphen_start.seq hyphen_middle.seq] less'                              less     hyphen by less_less_hyphen_middle.seq;\012  sub [hyphen_start.seq hyphen_middle.seq] greater_greater_hyphen_middle.seq  greater' hyphen by LIG;\012  sub [hyphen_start.seq hyphen_middle.seq] greater'                           greater  hyphen by greater_greater_hyphen_middle.seq;\012  sub [hyphen_start.seq hyphen_middle.seq] bar_bar_hyphen_middle.seq          bar'     hyphen by LIG;\012  sub [hyphen_start.seq hyphen_middle.seq] bar'                               bar      hyphen by bar_bar_hyphen_middle.seq;\012\012  # single middles\012  sub [hyphen_start.seq hyphen_middle.seq] less'    hyphen by less_hyphen_middle.seq;\012  sub [hyphen_start.seq hyphen_middle.seq] greater' hyphen by greater_hyphen_middle.seq;\012  sub [hyphen_start.seq hyphen_middle.seq] bar'     hyphen by bar_hyphen_middle.seq;\012\012  # double ends\012  sub [hyphen_start.seq hyphen_middle.seq] less_less_hyphen_end.seq       less'    by LIG;\012  sub [hyphen_start.seq hyphen_middle.seq] less'                          less     by less_less_hyphen_end.seq;\012  sub [hyphen_start.seq hyphen_middle.seq] greater_greater_hyphen_end.seq greater' by LIG;\012  sub [hyphen_start.seq hyphen_middle.seq] greater'                       greater  by greater_greater_hyphen_end.seq;\012  sub [hyphen_start.seq hyphen_middle.seq] bar_bar_hyphen_end.seq         bar'     by LIG;\012  sub [hyphen_start.seq hyphen_middle.seq] bar'                           bar      by bar_bar_hyphen_end.seq;\012\012  # single ends\012  sub [hyphen_start.seq hyphen_middle.seq] less'    by less_hyphen_end.seq;\012  sub [hyphen_start.seq hyphen_middle.seq] greater' by greater_hyphen_end.seq;\012  sub [hyphen_start.seq hyphen_middle.seq] bar'     by bar_hyphen_end.seq;\012\012  # double beginnings\012  sub less_less_hyphen_start.seq        less'    hyphen by LIG;\012  sub less'                             less     hyphen by less_less_hyphen_start.seq;\012  sub greater_greater_hyphen_start.seq  greater' hyphen by LIG;\012  sub greater'                          greater  hyphen by greater_greater_hyphen_start.seq;\012  sub bar_bar_hyphen_start.seq          bar'     hyphen by LIG;\012  sub bar'                              bar      hyphen by bar_bar_hyphen_start.seq;\012\012  # single beginnings\012  sub less'    hyphen by less_hyphen_start.seq;\012  sub greater' hyphen by greater_hyphen_start.seq;\012  sub bar'     hyphen by bar_hyphen_start.seq;\012  sub hyphen' [hyphen less greater bar] by hyphen_start.seq;\012} hyphen_arrows;\012\012lookup numbersigns {\012  # middle parts\012  sub [numbersign_start.seq numbersign_middle.seq] numbersign' numbersign by numbersign_middle.seq;\012\012  # ends\012  sub [numbersign_start.seq numbersign_middle.seq] numbersign' by numbersign_end.seq;\012  \012  # beginnings\012  sub numbersign' numbersign by numbersign_start.seq; \012} numbersigns;\012\012lookup underscores {\012  # middle parts\012  sub [underscore_start.seq underscore_middle.seq] bar' underscore by bar_underscore_middle.seq;\012\012  sub [underscore_start.seq underscore_middle.seq bar_underscore_middle.seq] underscore' bar underscore by underscore_middle.seq;\012  sub [underscore_start.seq underscore_middle.seq bar_underscore_middle.seq] underscore' underscore by underscore_middle.seq;\012\012  # ends\012  sub [underscore_start.seq underscore_middle.seq bar_underscore_middle.seq] underscore' by underscore_end.seq;\012  \012  # beginnings\012  sub underscore' bar underscore by underscore_start.seq; \012  sub underscore' underscore by underscore_start.seq; \012} underscores;";
+name = calt;
+},
+{
+code = "sub asciitilde_equal.liga by exclam_equal.liga;\012";
+name = ss02;
+notes = "Name: ";
+}
+);
+fontMaster = (
+{
+alignmentZones = (
+"{1500, 20}",
+"{1420, 20}",
+"{1060, 20}",
+"{0, -20}",
+"{-460, -20}"
+);
+ascender = 1568;
+capHeight = 1420;
+custom = Extra;
+customParameters = (
+{
+name = underlineThickness;
+value = 100;
+},
+{
+name = underlinePosition;
+value = -100;
+}
+);
+descender = -480;
+guideLines = (
+{
+name = " [locked]";
+position = "{1050, 330}";
+},
+{
+name = " [locked]";
+position = "{1276, 1440}";
+},
+{
+name = " [locked]";
+position = "{440, -460}";
+},
+{
+angle = 90;
+name = " [locked]";
+position = "{280, 416}";
+},
+{
+name = " [locked]";
+position = "{2160, 332}";
+},
+{
+name = " [locked]";
+position = "{2120, 342}";
+},
+{
+angle = 90;
+name = " [locked]";
+position = "{240, 390}";
+},
+{
+angle = 90;
+name = " [locked]";
+position = "{148, 190}";
+},
+{
+angle = 90;
+name = " [locked]";
+position = "{2004, 52}";
+},
+{
+angle = 90;
+name = " [locked]";
+position = "{3360, 466}";
+},
+{
+angle = 90;
+name = " [locked]";
+position = "{3320, 306}";
+},
+{
+angle = 90;
+name = " [locked]";
+position = "{3208, 146}";
+},
+{
+position = "{958, 2226}";
+},
+{
+name = " [locked]";
+position = "{1105, 1040}";
+},
+{
+name = " [locked]";
+position = "{1076, 914}";
+},
+{
+position = "{1555, 1901}";
+},
+{
+position = "{1376, -480}";
+}
+);
+horizontalStems = (
+200,
+210,
+212,
+220
+);
+iconName = Light;
+id = master01;
+name = ExtraLight;
+verticalStems = (
+190,
+180
+);
+weight = Light;
+weightValue = 140;
+xHeight = 1060;
+},
+{
+alignmentZones = (
+"{1500, 20}",
+"{1420, 20}",
+"{1060, 20}",
+"{0, -20}",
+"{-460, -20}"
+);
+ascender = 1568;
+capHeight = 1420;
+customParameters = (
+{
+name = underlineThickness;
+value = 100;
+},
+{
+name = underlinePosition;
+value = -100;
+}
+);
+descender = -480;
+guideLines = (
+{
+name = " [locked]";
+position = "{1013, 1133}";
+},
+{
+name = " [locked]";
+position = "{849, 1440}";
+},
+{
+name = " [locked]";
+position = "{1107, 1234}";
+},
+{
+name = " [locked]";
+position = "{440, -460}";
+},
+{
+angle = 90;
+name = " [locked]";
+position = "{280, 416}";
+},
+{
+angle = 90;
+name = " [locked]";
+position = "{2160, 332}";
+},
+{
+angle = 90;
+name = " [locked]";
+position = "{2090, 250}";
+},
+{
+angle = 90;
+name = " [locked]";
+position = "{240, 390}";
+},
+{
+angle = 90;
+name = " [locked]";
+position = "{392, 408}";
+},
+{
+angle = 90;
+name = " [locked]";
+position = "{2004, 52}";
+},
+{
+name = " [locked]";
+position = "{3360, 466}";
+},
+{
+angle = 90;
+name = " [locked]";
+position = "{3320, 306}";
+},
+{
+angle = 90;
+name = " [locked]";
+position = "{3208, 146}";
+},
+{
+position = "{786, 2226}";
+},
+{
+position = "{810, -20}";
+},
+{
+position = "{1100, 1052}";
+},
+{
+position = "{1100, 866}";
+},
+{
+position = "{1100, 552}";
+},
+{
+name = " [locked]";
+position = "{1013, 1133}";
+},
+{
+name = " [locked]";
+position = "{1013, 1133}";
+},
+{
+name = " [locked]";
+position = "{1013, 1133}";
+}
+);
+horizontalStems = (
+200,
+210,
+212,
+220
+);
+id = "1F90C004-9C90-48FA-B407-176B3E9F1E65";
+verticalStems = (
+190,
+180
+);
+weightValue = 500;
+xHeight = 1060;
+},
+{
+alignmentZones = (
+"{1500, 20}",
+"{1420, 20}",
+"{1060, 20}",
+"{0, -20}",
+"{-460, -20}"
+);
+ascender = 1568;
+capHeight = 1420;
+customParameters = (
+{
+name = underlineThickness;
+value = 100;
+},
+{
+name = underlinePosition;
+value = -100;
+}
+);
+descender = -480;
+guideLines = (
+{
+angle = 180;
+name = " [locked]";
+position = "{1107, 333}";
+},
+{
+name = " [locked]";
+position = "{886, -1040}";
+},
+{
+name = " [locked]";
+position = "{1052, -543}";
+},
+{
+name = " [locked]";
+position = "{1492, -819}";
+},
+{
+name = " [locked]";
+position = "{440, -460}";
+},
+{
+angle = 270;
+name = " [locked]";
+position = "{280, 416}";
+},
+{
+angle = 90;
+name = " [locked]";
+position = "{2194, 332}";
+},
+{
+angle = 90;
+name = " [locked]";
+position = "{2154, 342}";
+},
+{
+angle = 270;
+name = " [locked]";
+position = "{240, 390}";
+},
+{
+angle = 90;
+name = " [locked]";
+position = "{392, 408}";
+},
+{
+angle = 90;
+name = " [locked]";
+position = "{2004, 52}";
+},
+{
+angle = 90;
+name = " [locked]";
+position = "{3360, 466}";
+},
+{
+angle = 90;
+name = " [locked]";
+position = "{3320, 306}";
+},
+{
+angle = 90;
+name = " [locked]";
+position = "{3208, 146}";
+},
+{
+position = "{-327, 2226}";
+},
+{
+name = " [locked]";
+position = "{1117, 1085}";
+},
+{
+angle = 90;
+name = " [locked]";
+position = "{1047, 843}";
+},
+{
+angle = 180;
+name = " [locked]";
+position = "{1117, 575}";
+}
+);
+horizontalStems = (
+200,
+210,
+212,
+220
+);
+id = "8E053A5E-67DA-4970-A6F5-068DBFE5AD21";
+verticalStems = (
+190,
+180
+);
+weight = Bold;
+weightValue = 750;
+xHeight = 1060;
+}
+);
+instances = (
+{
+interpolationWeight = 140;
+instanceInterpolations = {
+master01 = 1;
+};
+name = ExtraLight;
+weightClass = ExtraLight;
+},
+{
+interpolationWeight = 260;
+instanceInterpolations = {
+"1F90C004-9C90-48FA-B407-176B3E9F1E65" = 0.33333;
+master01 = 0.66667;
+};
+name = Light;
+weightClass = Light;
+},
+{
+customParameters = (
+{
+name = weightClass;
+value = 350;
+}
+);
+interpolationWeight = 380;
+instanceInterpolations = {
+"1F90C004-9C90-48FA-B407-176B3E9F1E65" = 0.66667;
+master01 = 0.33333;
+};
+name = SemiLight;
+},
+{
+interpolationWeight = 500;
+instanceInterpolations = {
+"1F90C004-9C90-48FA-B407-176B3E9F1E65" = 1;
+};
+name = Regular;
+},
+{
+interpolationWeight = 650;
+instanceInterpolations = {
+"1F90C004-9C90-48FA-B407-176B3E9F1E65" = 0.4;
+"8E053A5E-67DA-4970-A6F5-068DBFE5AD21" = 0.6;
+};
+name = SemiBold;
+weightClass = SemiBold;
+},
+{
+interpolationWeight = 750;
+instanceInterpolations = {
+"8E053A5E-67DA-4970-A6F5-068DBFE5AD21" = 1;
+};
+isBold = 1;
+linkStyle = Regular;
+name = Bold;
+weightClass = Bold;
+}
+);
+manufacturer = "Saja Typeworks";
+manufacturerURL = "http://sajatypeworks.com";
+unitsPerEm = 2048;
+userData = {
+GSDimensionPlugin.Dimensions = {
+"1F90C004-9C90-48FA-B407-176B3E9F1E65" = {
+HH = "186";
+HV = "212";
+OH = "190";
+OV = "220";
+};
+"32D0959D-6118-411E-BC46-DBE7BC1E7C0B" = {
+HH = "190";
+HV = "200";
+OH = "184";
+OV = "210";
+cydeH = "186";
+nV = "212";
+oH = "190";
+oV = "220";
+tH = "186";
+};
+"47A123F8-062D-4F48-9577-BC700BC51F36" = {
+HH = "88";
+HV = "90";
+OH = "90";
+OV = "92";
+cydeH = "90";
+nV = "94";
+oH = "92";
+oV = "96";
+tH = "90";
+};
+"7062B15D-7097-4448-A185-D08BD1167FB1" = {
+HV = "205";
+OH = "184";
+OV = "210";
+nV = "212";
+nd = "204";
+oH = "190";
+oV = "214";
+tH = "195";
+};
+"A38DF493-7C5F-490B-8624-7E8A09AEE4F3" = {
+nV = "270";
+oH = "257";
+oV = "287";
+tH = "250";
+};
+"CF6B61C3-38FB-41CB-B8C0-98C1B61AF433" = {
+HH = "254";
+HV = "276";
+OH = "265";
+OV = "290";
+cydeH = "264";
+nV = "282";
+oH = "270";
+oV = "300";
+tH = "264";
+};
+master01 = {
+HH = "90";
+HV = "94";
+OH = "90";
+OV = "96";
+};
+};
+com.schriftgestaltung.Glyphs.groupsNotInFeature = (
+);
+};
+versionMajor = 4;
+versionMinor = 300;
+}

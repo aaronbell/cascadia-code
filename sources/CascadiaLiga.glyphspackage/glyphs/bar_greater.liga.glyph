@@ -1,0 +1,83 @@
+{
+glyphname = bar_greater.liga;
+layers = (
+{
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"2045 648 LINE",
+"2045 770 LINE",
+"541 1430 LINE",
+"541 -10 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"635 1355 LINE",
+"556 1314 LINE",
+"1927 718 LINE",
+"1927 700 LINE",
+"556 107 LINE",
+"635 65 LINE"
+);
+}
+);
+width = 1200;
+},
+{
+layerId = "1F90C004-9C90-48FA-B407-176B3E9F1E65";
+paths = (
+{
+closed = 1;
+nodes = (
+"2045 608 LINE",
+"2045 810 LINE",
+"541 1430 LINE",
+"541 -10 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"749 1199 LINE",
+"661 1144 LINE",
+"1767 718 LINE",
+"1767 700 LINE",
+"661 275 LINE",
+"749 220 LINE"
+);
+}
+);
+width = 1200;
+},
+{
+layerId = "8E053A5E-67DA-4970-A6F5-068DBFE5AD21";
+paths = (
+{
+closed = 1;
+nodes = (
+"2045 575 LINE",
+"2045 843 LINE",
+"541 1430 LINE",
+"541 -10 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"808 1116 LINE",
+"727 1059 LINE",
+"1695 726 LINE",
+"1695 692 LINE",
+"727 360 LINE",
+"808 303 LINE"
+);
+}
+);
+width = 1200;
+}
+);
+}

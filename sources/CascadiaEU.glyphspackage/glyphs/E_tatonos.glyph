@@ -1,0 +1,162 @@
+{
+glyphname = Etatonos;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+position = "{688, 0}";
+},
+{
+name = top;
+position = "{688, 1420}";
+}
+);
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"1036 0 LINE",
+"1036 1420 LINE",
+"942 1420 LINE",
+"942 0 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"434 0 LINE",
+"432 1420 LINE",
+"340 1420 LINE",
+"340 0 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"95 1040 LINE",
+"215 1420 LINE",
+"113 1420 LINE",
+"23 1040 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"999 662 LINE",
+"999 752 LINE",
+"382 752 LINE",
+"382 662 LINE"
+);
+}
+);
+width = 1200;
+},
+{
+anchors = (
+{
+name = bottom;
+position = "{688, 0}";
+},
+{
+name = top;
+position = "{688, 1420}";
+}
+);
+layerId = "1F90C004-9C90-48FA-B407-176B3E9F1E65";
+paths = (
+{
+closed = 1;
+nodes = (
+"1060 0 LINE",
+"1060 1420 LINE",
+"852 1420 LINE",
+"852 0 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"548 0 LINE",
+"548 1420 LINE",
+"340 1420 LINE",
+"340 0 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"191 1040 LINE",
+"301 1420 LINE",
+"89 1420 LINE",
+"-1 1040 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"1023 612 LINE",
+"1023 802 LINE",
+"382 802 LINE",
+"382 612 LINE"
+);
+}
+);
+width = 1200;
+},
+{
+anchors = (
+{
+name = bottom;
+position = "{688, 0}";
+},
+{
+name = top;
+position = "{688, 1420}";
+}
+);
+layerId = "8E053A5E-67DA-4970-A6F5-068DBFE5AD21";
+paths = (
+{
+closed = 1;
+nodes = (
+"1077 0 LINE",
+"1077 1420 LINE",
+"813 1420 LINE",
+"813 0 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"587 0 LINE",
+"587 1420 LINE",
+"323 1420 LINE",
+"323 0 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"224 1040 LINE",
+"301 1420 LINE",
+"31 1420 LINE",
+"-18 1040 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"1040 585 LINE",
+"1040 829 LINE",
+"365 829 LINE",
+"365 585 LINE"
+);
+}
+);
+width = 1200;
+}
+);
+unicode = 0389;
+}

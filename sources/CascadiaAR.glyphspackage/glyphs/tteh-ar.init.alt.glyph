@@ -1,0 +1,68 @@
+{
+glyphname = "tteh-ar.init.alt";
+layers = (
+{
+anchors = (
+{
+name = overlap;
+position = "{0, 0}";
+}
+);
+components = (
+{
+name = "behDotless-ar.init.alt";
+transform = "{1, 0, 0, 1, 0, -406}";
+},
+{
+anchor = top;
+name = _tahabove;
+transform = "{1, 0, 0, 1, 365, 0}";
+}
+);
+layerId = master01;
+width = 1200;
+},
+{
+anchors = (
+{
+name = overlap;
+position = "{0, 0}";
+}
+);
+components = (
+{
+name = "behDotless-ar.init.alt";
+transform = "{1, 0, 0, 1, 0, -495}";
+},
+{
+anchor = top;
+name = _tahabove;
+transform = "{1, 0, 0, 1, 305, 0}";
+}
+);
+layerId = "1F90C004-9C90-48FA-B407-176B3E9F1E65";
+width = 1200;
+},
+{
+anchors = (
+{
+name = overlap;
+position = "{0, 0}";
+}
+);
+components = (
+{
+name = "behDotless-ar.init.alt";
+transform = "{1, 0, 0, 1, 0, -496}";
+},
+{
+anchor = top;
+name = _tahabove;
+transform = "{1, 0, 0, 1, 304, 0}";
+}
+);
+layerId = "8E053A5E-67DA-4970-A6F5-068DBFE5AD21";
+width = 1200;
+}
+);
+}

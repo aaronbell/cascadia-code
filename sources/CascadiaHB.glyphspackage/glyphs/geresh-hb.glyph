@@ -1,0 +1,51 @@
+{
+glyphname = "geresh-hb";
+layers = (
+{
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"484 730 LINE",
+"844 1420 LINE",
+"682 1420 LINE",
+"412 730 LINE"
+);
+}
+);
+width = 1200;
+},
+{
+layerId = "1F90C004-9C90-48FA-B407-176B3E9F1E65";
+paths = (
+{
+closed = 1;
+nodes = (
+"533 730 LINE",
+"888 1420 LINE",
+"595 1420 LINE",
+"384 730 LINE"
+);
+}
+);
+width = 1200;
+},
+{
+layerId = "8E053A5E-67DA-4970-A6F5-068DBFE5AD21";
+paths = (
+{
+closed = 1;
+nodes = (
+"567 730 LINE",
+"919 1420 LINE",
+"534 1420 LINE",
+"365 730 LINE"
+);
+}
+);
+width = 1200;
+}
+);
+unicode = 05F3;
+}

@@ -1,0 +1,180 @@
+{
+glyphname = V;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+position = "{600, 0}";
+},
+{
+name = top;
+position = "{600, 1420}";
+}
+);
+layerId = m007;
+paths = (
+{
+closed = 1;
+nodes = (
+"677 0 LINE",
+"1131 1420 LINE",
+"1030 1420 LINE",
+"605 77 LINE",
+"595 77 LINE",
+"170 1420 LINE",
+"69 1420 LINE",
+"523 0 LINE"
+);
+}
+);
+width = 1200;
+},
+{
+anchors = (
+{
+name = bottom;
+position = "{600, 0}";
+},
+{
+name = top;
+position = "{600, 1420}";
+}
+);
+layerId = m008;
+paths = (
+{
+closed = 1;
+nodes = (
+"755 0 LINE",
+"1155 1420 LINE",
+"941 1420 LINE",
+"609 170 LINE",
+"591 170 LINE",
+"259 1420 LINE",
+"45 1420 LINE",
+"445 0 LINE"
+);
+}
+);
+width = 1200;
+},
+{
+anchors = (
+{
+name = bottom;
+position = "{600, 0}";
+},
+{
+name = top;
+position = "{600, 1420}";
+}
+);
+layerId = m009;
+paths = (
+{
+closed = 1;
+nodes = (
+"805 0 LINE",
+"1172 1420 LINE",
+"899 1420 LINE",
+"609 237 LINE",
+"591 237 LINE",
+"301 1420 LINE",
+"28 1420 LINE",
+"395 0 LINE"
+);
+}
+);
+width = 1200;
+},
+{
+anchors = (
+{
+name = bottom;
+position = "{450, 0}";
+},
+{
+name = top;
+position = "{450, 1420}";
+}
+);
+layerId = "8A5928CE-31B2-4F56-BC21-FB6F481DC46A";
+paths = (
+{
+closed = 1;
+nodes = (
+"595 0 LINE",
+"885 1420 LINE",
+"694 1420 LINE",
+"457 165 LINE",
+"443 165 LINE",
+"206 1420 LINE",
+"15 1420 LINE",
+"305 0 LINE"
+);
+}
+);
+width = 900;
+},
+{
+anchors = (
+{
+name = bottom;
+position = "{450, 0}";
+},
+{
+name = top;
+position = "{450, 1420}";
+}
+);
+layerId = "A3FCBCC7-55DF-4604-8A77-DC78C4EF6076";
+paths = (
+{
+closed = 1;
+nodes = (
+"638 0 LINE",
+"881 1420 LINE",
+"644 1420 LINE",
+"458 229 LINE",
+"443 229 LINE",
+"262 1420 LINE",
+"19 1420 LINE",
+"262 0 LINE"
+);
+}
+);
+width = 900;
+},
+{
+anchors = (
+{
+name = bottom;
+position = "{450, 0}";
+},
+{
+name = top;
+position = "{450, 1420}";
+}
+);
+layerId = "4AED55CC-054D-4448-879E-1FE49A52CF83";
+paths = (
+{
+closed = 1;
+nodes = (
+"527 0 LINE",
+"856 1420 LINE",
+"763 1420 LINE",
+"454 87 LINE",
+"446 87 LINE",
+"138 1420 LINE",
+"45 1420 LINE",
+"374 0 LINE"
+);
+}
+);
+width = 900;
+}
+);
+unicode = 0056;
+}

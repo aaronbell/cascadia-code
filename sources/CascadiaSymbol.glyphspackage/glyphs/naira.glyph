@@ -1,0 +1,68 @@
+{
+glyphname = naira;
+production = uni20A6;
+layers = (
+{
+components = (
+{
+name = N;
+}
+);
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"1176 665 LINE",
+"1176 755 LINE",
+"24 755 LINE",
+"24 665 LINE"
+);
+}
+);
+width = 1200;
+},
+{
+components = (
+{
+name = N;
+}
+);
+layerId = "1F90C004-9C90-48FA-B407-176B3E9F1E65";
+paths = (
+{
+closed = 1;
+nodes = (
+"1200 641 LINE",
+"1200 779 LINE",
+"0 779 LINE",
+"0 641 LINE"
+);
+}
+);
+width = 1200;
+},
+{
+components = (
+{
+alignment = -1;
+name = N;
+}
+);
+layerId = "8E053A5E-67DA-4970-A6F5-068DBFE5AD21";
+paths = (
+{
+closed = 1;
+nodes = (
+"1200 599 LINE",
+"1200 821 LINE",
+"0 821 LINE",
+"0 599 LINE"
+);
+}
+);
+width = 1200;
+}
+);
+unicode = 20A6;
+}

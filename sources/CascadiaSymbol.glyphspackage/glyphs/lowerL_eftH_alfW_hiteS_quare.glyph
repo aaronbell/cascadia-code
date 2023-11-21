@@ -1,0 +1,65 @@
+{
+glyphname = lowerLeftHalfWhiteSquare;
+production = uni2B14;
+layers = (
+{
+components = (
+{
+name = whiteSquare;
+}
+);
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"1090 221 LINE",
+"1090 1209 LINE",
+"111 1209 LINE"
+);
+}
+);
+width = 1200;
+},
+{
+components = (
+{
+name = whiteSquare;
+}
+);
+layerId = "1F90C004-9C90-48FA-B407-176B3E9F1E65";
+paths = (
+{
+closed = 1;
+nodes = (
+"1090 221 LINE",
+"1090 1209 LINE",
+"111 1209 LINE"
+);
+}
+);
+width = 1200;
+},
+{
+components = (
+{
+name = whiteSquare;
+}
+);
+layerId = "8E053A5E-67DA-4970-A6F5-068DBFE5AD21";
+paths = (
+{
+closed = 1;
+nodes = (
+"1090 221 LINE",
+"1090 1209 LINE",
+"111 1209 LINE"
+);
+}
+);
+width = 1200;
+}
+);
+note = uni2B14;
+unicode = 2B14;
+}

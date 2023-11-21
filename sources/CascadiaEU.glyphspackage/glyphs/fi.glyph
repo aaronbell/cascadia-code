@@ -1,0 +1,153 @@
+{
+glyphname = fi;
+layers = (
+{
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"436 0 LINE",
+"436 980 LINE SMOOTH",
+"436 1280 OFFCURVE",
+"557 1428 OFFCURVE",
+"799 1428 CURVE SMOOTH",
+"846 1428 OFFCURVE",
+"893 1424 OFFCURVE",
+"959 1414 CURVE",
+"981 1500 LINE",
+"922 1514 OFFCURVE",
+"869 1520 OFFCURVE",
+"805 1520 CURVE SMOOTH",
+"495 1520 OFFCURVE",
+"342 1338 OFFCURVE",
+"342 970 CURVE SMOOTH",
+"342 0 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"964 688 LINE",
+"964 778 LINE",
+"92 778 LINE",
+"92 688 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"1008 0 LINE",
+"1008 778 LINE",
+"914 778 LINE",
+"914 0 LINE"
+);
+}
+);
+userData = {
+com.schriftgestaltung.Glyphs.glyph.leftMetricsKey = f;
+com.schriftgestaltung.Glyphs.glyph.rightMetricsKey = n;
+};
+width = 1200;
+},
+{
+layerId = "1F90C004-9C90-48FA-B407-176B3E9F1E65";
+paths = (
+{
+closed = 1;
+nodes = (
+"494 0 LINE",
+"494 980 LINE SMOOTH",
+"494 1214 OFFCURVE",
+"591 1330 OFFCURVE",
+"788 1330 CURVE SMOOTH",
+"845 1330 OFFCURVE",
+"902 1326 OFFCURVE",
+"982 1316 CURVE",
+"1004 1500 LINE",
+"933 1514 OFFCURVE",
+"870 1520 OFFCURVE",
+"794 1520 CURVE SMOOTH",
+"451 1520 OFFCURVE",
+"282 1338 OFFCURVE",
+"282 970 CURVE SMOOTH",
+"282 0 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"988 646 LINE",
+"988 820 LINE",
+"68 820 LINE",
+"68 646 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"1032 0 LINE",
+"1032 820 LINE",
+"820 820 LINE",
+"820 0 LINE"
+);
+}
+);
+userData = {
+com.schriftgestaltung.Glyphs.glyph.leftMetricsKey = f;
+com.schriftgestaltung.Glyphs.glyph.rightMetricsKey = n;
+};
+width = 1200;
+},
+{
+layerId = "8E053A5E-67DA-4970-A6F5-068DBFE5AD21";
+paths = (
+{
+closed = 1;
+nodes = (
+"522 0 LINE",
+"522 980 LINE SMOOTH",
+"522 1170 OFFCURVE",
+"616 1263 OFFCURVE",
+"807 1263 CURVE SMOOTH",
+"861 1263 OFFCURVE",
+"917 1259 OFFCURVE",
+"994 1249 CURVE",
+"1020 1500 LINE",
+"950 1514 OFFCURVE",
+"888 1520 OFFCURVE",
+"813 1520 CURVE SMOOTH",
+"438 1520 OFFCURVE",
+"252 1338 OFFCURVE",
+"252 970 CURVE SMOOTH",
+"252 0 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"1049 617 LINE",
+"1049 849 LINE",
+"51 849 LINE",
+"51 617 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"1049 0 LINE",
+"1049 849 LINE",
+"779 849 LINE",
+"779 0 LINE"
+);
+}
+);
+userData = {
+com.schriftgestaltung.Glyphs.glyph.leftMetricsKey = f;
+com.schriftgestaltung.Glyphs.glyph.rightMetricsKey = n;
+};
+width = 1200;
+}
+);
+unicode = FB01;
+}

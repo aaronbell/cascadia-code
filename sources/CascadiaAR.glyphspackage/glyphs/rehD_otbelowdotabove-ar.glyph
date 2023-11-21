@@ -1,0 +1,99 @@
+{
+glyphname = "rehDotbelowdotabove-ar";
+layers = (
+{
+anchors = (
+{
+name = bottom;
+position = "{543, -740}";
+},
+{
+name = top;
+position = "{770, 905}";
+}
+);
+components = (
+{
+alignment = -1;
+name = "reh-ar";
+transform = "{1, 0, 0, 1, 16, 0}";
+},
+{
+alignment = -1;
+name = "dotabove-ar";
+transform = "{1, 0, 0, 1, -44, -609}";
+},
+{
+anchor = bottom.dot;
+name = "dotbelow-ar";
+transform = "{1.0001, 0, 0, 1, -59, -418}";
+}
+);
+layerId = master01;
+width = 1200;
+},
+{
+anchors = (
+{
+name = bottom;
+position = "{492, -838}";
+},
+{
+name = top;
+position = "{730, 905}";
+}
+);
+components = (
+{
+alignment = -1;
+name = "reh-ar";
+transform = "{1, 0, 0, 1, 16, 0}";
+},
+{
+alignment = -1;
+name = "dotabove-ar";
+transform = "{1, 0, 0, 1, -94, -609}";
+},
+{
+anchor = bottom.dot;
+name = "dotbelow-ar";
+transform = "{0.96, 0, 0, 0.96, -75, -458}";
+}
+);
+layerId = "8E053A5E-67DA-4970-A6F5-068DBFE5AD21";
+width = 1200;
+},
+{
+anchors = (
+{
+name = bottom;
+position = "{505, -790}";
+},
+{
+name = top;
+position = "{730, 905}";
+}
+);
+components = (
+{
+alignment = -1;
+name = "reh-ar";
+transform = "{1, 0, 0, 1, 16, 0}";
+},
+{
+alignment = -1;
+name = "dotabove-ar";
+transform = "{1, 0, 0, 1, -44, -609}";
+},
+{
+anchor = bottom.dot;
+name = "dotbelow-ar";
+transform = "{0.96, 0, 0, 0.96, -75, -428}";
+}
+);
+layerId = "1F90C004-9C90-48FA-B407-176B3E9F1E65";
+width = 1200;
+}
+);
+unicode = 0696;
+}

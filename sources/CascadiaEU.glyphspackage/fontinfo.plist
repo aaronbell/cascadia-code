@@ -1,0 +1,684 @@
+{
+.appVersion = "3226";
+classes = (
+{
+automatic = 1;
+code = "A Aacute Abreve Abreveacute Abrevedotbelow Abrevegrave Abrevehookabove Abrevetilde Acaron Acircumflex Acircumflexacute Acircumflexdotbelow Acircumflexgrave Acircumflexhookabove Acircumflextilde Adieresis Adotbelow Agrave Ahookabove Alpha-latin Amacron Aogonek Aring Aringacute Astroke Atilde AE AEacute B C Cacute Ccaron Ccedilla Ccircumflex Cdotaccent Cstroke D Eth Dcaron Dcroat E Eacute Ebreve Ecaron Ecircumflex Ecircumflexacute Ecircumflexdotbelow Ecircumflexgrave Ecircumflexhookabove Ecircumflextilde Edieresis Edotaccent Edotbelow Egrave Ehookabove Emacron Eogonek Eopen Ereversed Esh Etilde Ezh F G Gbreve Gcaron Gcircumflex Gcommaaccent Gdotaccent Gstroke H Hbar Hcaron Hcircumflex Hdotbelow I IJ IJ_acute Iacute Ibreve Icircumflex Idieresis Idotaccent Idotbelow Igrave Ihookabove Imacron Iogonek Iotaafrican Itilde J Jacute Jcircumflex K Kacute Kcommaaccent Kdotbelow Klinebelow L Lacute Lbar Lcaron Lcommaaccent Ldot Ldotbelow Llinebelow Lmiddletilde Lslash M N Nacute Ncaron Ncommaaccent Eng Nhookleft Nlinebelow Ntilde O Oacute Obreve Ocircumflex Ocircumflexacute Ocircumflexdotbelow Ocircumflexgrave Ocircumflexhookabove Ocircumflextilde Odieresis Odotbelow Ograve Ohookabove Ohorn Ohornacute Ohorndotbelow Ohorngrave Ohornhookabove Ohorntilde Ohungarumlaut Omacron Omacronacute Omacrongrave Oogonek Oopen Oslash Oslashacute Otilde OE P Thorn Q R Racute Rcaron Rcommaaccent Rdotbelow S Sacute Scaron Scedilla Scircumflex Scommaaccent Sdotbelow Germandbls Schwa T Tbar Tcaron Tcedilla Tcommaaccent Tdiagonalstroke Tlinebelow U Uacute Ubreve Ucircumflex Udieresis Udotbelow Ugrave Uhookabove Uhorn Uhornacute Uhorndotbelow Uhorngrave Uhornhookabove Uhorntilde Uhungarumlaut Umacron Uogonek Upsilonafrican Uring Utilde V Gammaafrican Vhook Vturned W Wacute Wcircumflex Wdieresis Wgrave X Y Yacute Ycircumflex Ydieresis Ydotbelow Ygrave Yhookabove Ymacron Ytilde Z Zacute Zcaron Zdotaccent Cacute.loclPLK Nacute.loclPLK Oacute.loclPLK Sacute.loclPLK Zacute.loclPLK A-cy Be-cy Ve-cy Ge-cy Gje-cy Gheupturn-cy De-cy Ie-cy Iegrave-cy Io-cy Zhe-cy Ze-cy Ii-cy Iishort-cy Iigrave-cy Ka-cy Kje-cy El-cy Em-cy En-cy O-cy Pe-cy Er-cy Es-cy Te-cy U-cy Ushort-cy Ef-cy Ha-cy Che-cy Tse-cy Sha-cy Shcha-cy Dzhe-cy Softsign-cy Hardsign-cy Yeru-cy Lje-cy Nje-cy Dze-cy E-cy Ereversed-cy I-cy Yi-cy Je-cy Tshe-cy Iu-cy Ia-cy Dje-cy Ghestroke-cy Zhedescender-cy Kadescender-cy Endescender-cy Ustraight-cy Ustraightstroke-cy Hadescender-cy Chedescender-cy Shha-cy Palochka-cy Schwa-cy Imacron-cy Obarred-cy Umacron-cy De-cy.loclBGR El-cy.loclBGR Ef-cy.loclBGR Alpha Beta Gamma Delta Epsilon Zeta Eta Theta Iota Kappa Lambda Mu Nu Xi Omicron Pi Rho Sigma Tau Upsilon Phi Chi Psi Omega Alphatonos Epsilontonos Etatonos Iotatonos Omicrontonos Upsilontonos Omegatonos Iotadieresis Upsilondieresis KaiSymbol";
+name = Uppercase;
+},
+{
+automatic = 1;
+code = "Asmall Gsmall Ismall Lsmall a aacute abreve abreveacute abrevedotbelow abrevegrave abrevehookabove abrevetilde acaron acircumflex acircumflexacute acircumflexdotbelow acircumflexgrave acircumflexhookabove acircumflextilde adieresis adotbelow agrave ahookabove alpha-latin amacron aogonek aring aringacute atilde ae aeacute b c cacute ccaron ccedilla ccircumflex cdotaccent d eth dcaron dcroat e eacute ebreve ecaron ecircumflex ecircumflexacute ecircumflexdotbelow ecircumflexgrave ecircumflexhookabove ecircumflextilde edieresis edotaccent edotbelow egrave ehookabove emacron eogonek eopen esh etilde eturned schwa ezh f g gamma-latin gbreve gcaron gcircumflex gcommaaccent gdotaccent glottalstop glottalstopreversed gstroke h hbar hcaron hcircumflex hdotbelow i idotless iacute ibreve icircumflex idieresis idotbelow igrave ihookabove ij ij_acute imacron iogonek iota-latin itilde j jdotless jacute jcaron jcircumflex k kcommaaccent kdotbelow kgreenlandic klinebelow l lacute lambdastroke lbar lbelt lcaron lcommaaccent ldot ldotbelow llinebelow lmiddletilde lslash m n nacute napostrophe ncaron ncommaaccent eng nhookleft nlinebelow ntilde o oacute obreve ocircumflex ocircumflexacute ocircumflexdotbelow ocircumflexgrave ocircumflexhookabove ocircumflextilde odieresis odotbelow ograve ohookabove ohorn ohornacute ohorndotbelow ohorngrave ohornhookabove ohorntilde ohungarumlaut omacron omacronacute omacrongrave oogonek oopen oslash oslashacute otilde oe p thorn q r racute rcaron rcommaaccent rdotbelow s sacute scaron scedilla scircumflex scommaaccent sdotbelow germandbls longs t tbar tcaron tcedilla tcommaaccent tesh u uacute ubreve ucircumflex udieresis udotbelow ugrave uhookabove uhorn uhornacute uhorndotbelow uhorngrave uhornhookabove uhorntilde uhungarumlaut umacron uogonek upsilon-latin uring utilde v vhook vturned w wacute wcircumflex wdieresis wgrave x y yacute ycircumflex ydieresis ydotbelow ygrave yhookabove ymacron ytilde z zacute zcaron zdotaccent dcaron.alt cacute.loclPLK nacute.loclPLK oacute.loclPLK sacute.loclPLK zacute.loclPLK x.multiply a-cy be-cy ve-cy ge-cy gje-cy gheupturn-cy de-cy ie-cy iegrave-cy io-cy zhe-cy ze-cy ii-cy iishort-cy iigrave-cy ka-cy kje-cy el-cy em-cy en-cy o-cy pe-cy er-cy es-cy te-cy u-cy ushort-cy ef-cy ha-cy che-cy tse-cy sha-cy shcha-cy dzhe-cy softsign-cy hardsign-cy yeru-cy lje-cy nje-cy dze-cy e-cy ereversed-cy i-cy yi-cy je-cy tshe-cy iu-cy ia-cy dje-cy ghestroke-cy zhedescender-cy kadescender-cy endescender-cy ustraight-cy ustraightstroke-cy hadescender-cy chedescender-cy shha-cy palochka-cy schwa-cy imacron-cy obarred-cy umacron-cy ve-cy.loclBGR ge-cy.loclBGR de-cy.loclBGR zhe-cy.loclBGR ze-cy.loclBGR ii-cy.loclBGR iishort-cy.loclBGR iigrave-cy.loclBGR ka-cy.loclBGR el-cy.loclBGR pe-cy.loclBGR te-cy.loclBGR tse-cy.loclBGR sha-cy.loclBGR shcha-cy.loclBGR softsign-cy.loclBGR hardsign-cy.loclBGR iu-cy.loclBGR be-cy.loclSRB alpha beta gamma delta epsilon zeta eta theta iota kappa lambda mu nu xi omicron pi rho sigmafinal sigma tau upsilon phi chi psi omega iotatonos iotadieresis iotadieresistonos upsilontonos upsilondieresis upsilondieresistonos omicrontonos omegatonos alphatonos epsilontonos etatonos kaiSymbol";
+name = Lowercase;
+},
+{
+code = "bracketleft braceleft parenleft";
+name = OpeningBracket;
+},
+{
+code = "zero one two three four five six seven eight nine";
+name = Digit;
+},
+{
+code = "@Digit a b c d e f A B C D E F";
+name = HexDigit;
+},
+{
+code = "bracketright braceright parenright";
+name = ClosingBracket;
+},
+{
+code = "@Uppercase @Digit @OpeningBracket @ClosingBracket bar";
+name = Tall;
+},
+{
+code = "A Aacute Abreve Abreveacute Abrevedotbelow Abrevegrave Abrevehookabove Abrevetilde Acaron Acircumflex Acircumflexacute Acircumflexdotbelow Acircumflexgrave Acircumflexhookabove Acircumflextilde Adieresis Adotbelow Agrave Ahookabove Alpha-latin Amacron Aogonek Aring Aringacute Astroke Atilde AE AEacute B C Cacute Ccaron Ccedilla Ccircumflex Cdotaccent Cstroke D Dafrican Dcaron Dcroat Eth E Eacute Ebreve Ecaron Ecircumflex Ecircumflexacute Ecircumflexdotbelow Ecircumflexgrave Ecircumflexhookabove Ecircumflextilde Edieresis Edotaccent Edotbelow Egrave Ehookabove Emacron Eogonek Eopen Ereversed Esh Etilde Schwa Ezh F Fhook G Gbreve Gcaron Gcircumflex Gcommaaccent Gdotaccent Gstroke H Hbar Hcaron Hcircumflex Hdotbelow I IJ IJ_acute Iacute Ibreve Icircumflex Idieresis Idotaccent Idotbelow Igrave Ihookabove Imacron Iogonek Iotaafrican Itilde J Jacute Jcircumflex K Kacute Kcommaaccent Kdotbelow Klinebelow L Lacute Lbar Lcaron Lcommaaccent Ldot Ldotbelow Llinebelow Lmiddletilde Lslash M N Nacute Ncaron Ncommaaccent Nhookleft Nlinebelow Ntilde Eng O Oacute Obreve Ocircumflex Ocircumflexacute Ocircumflexdotbelow Ocircumflexgrave Ocircumflexhookabove Ocircumflextilde Odieresis Odotbelow Ograve Ohookabove Ohorn Ohornacute Ohorndotbelow Ohorngrave Ohornhookabove Ohorntilde Ohungarumlaut Omacron Omacronacute Omacrongrave Oogonek Oopen Oslash Oslashacute Otilde OE P Thorn Q R Racute Rcaron Rcommaaccent Rdotbelow S Sacute Scaron Scedilla Scircumflex Scommaaccent Sdotbelow Germandbls T Tbar Tcaron Tcedilla Tcommaaccent Tdiagonalstroke Tlinebelow U Uacute Ubreve Ucircumflex Udieresis Udotbelow Ugrave Uhookabove Uhorn Uhornacute Uhorndotbelow Uhorngrave Uhornhookabove Uhorntilde Uhungarumlaut Umacron Uogonek Upsilonafrican Uring Utilde V Gammaafrican Vhook Vturned W Wacute Wcircumflex Wdieresis Wgrave X Y Yacute Ycircumflex Ydieresis Ydotbelow Ygrave Yhookabove Ymacron Ytilde Z Zacute Zcaron Zdotaccent Cacute.loclPLK Nacute.loclPLK Oacute.loclPLK Sacute.loclPLK Zacute.loclPLK Asmall Gsmall Ismall Lsmall a aacute abreve abreveacute abrevedotbelow abrevegrave abrevehookabove abrevetilde acaron acircumflex acircumflexacute acircumflexdotbelow acircumflexgrave acircumflexhookabove acircumflextilde adieresis adotbelow agrave ahookabove alpha-latin amacron aogonek aring aringacute atilde ae aeacute b c cacute ccaron ccedilla ccircumflex cdotaccent d dcaron dcroat dtail eth e eacute ebreve ecaron ecircumflex ecircumflexacute ecircumflexdotbelow ecircumflexgrave ecircumflexhookabove ecircumflextilde edieresis edotaccent edotbelow egrave ehookabove emacron eogonek eopen esh etilde eturned schwa ezh f g gamma-latin gbreve gcaron gcircumflex gcommaaccent gdotaccent glottalstop glottalstopreversed gstroke h hbar hcaron hcircumflex hdotbelow i idotless iacute ibreve icircumflex idieresis idotbelow igrave ihookabove imacron iogonek iota-latin itilde ij ij_acute j jdotless jacute jcaron jcircumflex k kcommaaccent kdotbelow kgreenlandic klinebelow l lacute lambdastroke lbar lbelt lcaron lcommaaccent ldot ldotbelow llinebelow lmiddletilde lslash m n nacute napostrophe ncaron ncommaaccent nhookleft nlinebelow ntilde eng o oacute obreve ocircumflex ocircumflexacute ocircumflexdotbelow ocircumflexgrave ocircumflexhookabove ocircumflextilde odieresis odotbelow ograve ohookabove ohorn ohornacute ohorndotbelow ohorngrave ohornhookabove ohorntilde ohungarumlaut omacron omacronacute omacrongrave oogonek oopen oslash oslashacute otilde oe p thorn q r racute rcaron rcommaaccent rdotbelow s sacute scaron scedilla scircumflex scommaaccent sdotbelow germandbls longs t tbar tcaron tcedilla tcommaaccent tesh u uacute ubreve ucircumflex udieresis udotbelow ugrave uhookabove uhorn uhornacute uhorndotbelow uhorngrave uhornhookabove uhorntilde uhungarumlaut umacron uogonek upsilon-latin uring utilde v vhook vturned w wacute wcircumflex wdieresis wgrave x y yacute ycircumflex ydieresis ydotbelow ygrave yhookabove ymacron ytilde z zacute zcaron zdotaccent dcaron.alt cacute.loclPLK nacute.loclPLK oacute.loclPLK sacute.loclPLK zacute.loclPLK x.multiply fi fl nmod wmod ymod ordfeminine ordmasculine A-cy Be-cy Ve-cy Ge-cy Gje-cy Gheupturn-cy Ghestroke-cy De-cy Ie-cy Iegrave-cy Io-cy Zhe-cy Ze-cy Ii-cy Iishort-cy Iigrave-cy Ka-cy Kje-cy El-cy Em-cy En-cy O-cy Pe-cy Er-cy Es-cy Te-cy U-cy Ushort-cy Ef-cy Ha-cy Che-cy Tse-cy Sha-cy Shcha-cy Dzhe-cy Softsign-cy Yeru-cy Hardsign-cy Lje-cy Nje-cy Dze-cy E-cy Ereversed-cy I-cy Yi-cy Je-cy Tshe-cy Iu-cy Ia-cy Dje-cy Zhedescender-cy Kadescender-cy Endescender-cy Ustraight-cy Ustraightstroke-cy Hadescender-cy Chedescender-cy Shha-cy Palochka-cy Schwa-cy Imacron-cy Obarred-cy Umacron-cy De-cy.loclBGR El-cy.loclBGR Ef-cy.loclBGR a-cy be-cy ve-cy ge-cy gje-cy gheupturn-cy ghestroke-cy de-cy ie-cy iegrave-cy io-cy zhe-cy ze-cy ii-cy iishort-cy iigrave-cy ka-cy kje-cy el-cy em-cy en-cy o-cy pe-cy er-cy es-cy te-cy u-cy ushort-cy ef-cy ha-cy che-cy tse-cy sha-cy shcha-cy dzhe-cy softsign-cy yeru-cy hardsign-cy lje-cy nje-cy dze-cy e-cy ereversed-cy i-cy yi-cy je-cy tshe-cy iu-cy ia-cy dje-cy zhedescender-cy kadescender-cy endescender-cy ustraight-cy ustraightstroke-cy hadescender-cy chedescender-cy shha-cy palochka-cy schwa-cy imacron-cy obarred-cy umacron-cy ve-cy.loclBGR ge-cy.loclBGR de-cy.loclBGR zhe-cy.loclBGR ze-cy.loclBGR ii-cy.loclBGR iishort-cy.loclBGR iigrave-cy.loclBGR ka-cy.loclBGR el-cy.loclBGR pe-cy.loclBGR te-cy.loclBGR ef-cy.loclBGR tse-cy.loclBGR sha-cy.loclBGR shcha-cy.loclBGR softsign-cy.loclBGR hardsign-cy.loclBGR iu-cy.loclBGR be-cy.loclSRB Alpha Beta Gamma Delta Epsilon Zeta Eta Theta Iota Kappa Lambda Mu Nu Xi Omicron Pi Rho Sigma Tau Upsilon Phi Chi Psi Omega Alphatonos Epsilontonos Etatonos Iotatonos Omicrontonos Upsilontonos Omegatonos Iotadieresis Upsilondieresis KaiSymbol alpha beta gamma delta epsilon zeta eta theta iota kappa lambda mu nu xi omicron pi rho sigmafinal sigma tau upsilon phi chi psi omega iotatonos iotadieresis iotadieresistonos upsilontonos upsilondieresis upsilondieresistonos omicrontonos omegatonos alphatonos epsilontonos etatonos kaiSymbol thetamod zmod zero one two three four five six seven eight nine zero.zero zero.dnom one.dnom two.dnom three.dnom four.dnom five.dnom six.dnom seven.dnom eight.dnom nine.dnom zero.numr one.numr two.numr three.numr four.numr five.numr six.numr seven.numr eight.numr nine.numr fraction onehalf onequarter threequarters oneeighth threeeighths fiveeighths seveneighths zeroinferior oneinferior twoinferior threeinferior fourinferior fiveinferior sixinferior seveninferior eightinferior nineinferior zerosuperior onesuperior twosuperior threesuperior foursuperior fivesuperior sixsuperior sevensuperior eightsuperior ninesuperior period comma colon semicolon ellipsis exclam exclamdown question questiondown periodcentered bullet asterisk numbersign slash backslash hyphen softhyphen endash emdash underscore parenleft parenright braceleft braceright bracketleft bracketright quotesinglbase quotedblbase quotedblleft quotedblright quoteleft quoteright guillemetleft guillemetright guilsinglleft guilsinglright quotedbl quotesingle florin baht at ampersand paragraph section copyright registered trademark degree bar brokenbar dagger daggerdbl cent currency dollar euro sterling yen plus minus multiply divide equal notequal greater less greaterequal lessequal plusminus approxequal asciitilde logicalnot asciicircum percent perthousand ";
+name = NotSpace;
+}
+);
+copyright = "© 2021 Microsoft Corporation. All Rights Reserved.";
+customParameters = (
+{
+name = panose;
+value = (
+2,
+11,
+6,
+9,
+2,
+0,
+0,
+2,
+0,
+4
+);
+},
+{
+name = fsType;
+value = (
+);
+},
+{
+name = isFixedPitch;
+value = 1;
+},
+{
+name = "Disable Last Change";
+value = 1;
+},
+{
+name = "Use Typo Metrics";
+value = 1;
+},
+{
+name = license;
+value = "Microsoft supplied font. You may use this font to create, display, and print content as permitted by the license terms or terms of use, of the Microsoft product, service, or content in which this font was included. You may only (i) embed this font in content as permitted by the embedding restrictions included in this font; and (ii) temporarily download this font to a printer or other output device to help print content. Any other use is prohibited.\012 \012The following license, based on the SIL Open Font license (https://scripts.sil.org/OFL), applies to this font. Additional license terms may be found on the GitHub repository for this font (https://github.com/microsoft/cascadia-code/blob/main/LICENSE).\012 \012Permission is hereby granted, free of charge, to any person obtaining a copy of the Font Software, to use, study, copy, merge, embed, modify, redistribute, and sell modified and unmodified copies of the Font Software, subject to the following conditions:\012 \0121) Neither the Font Software nor any of its individual components, in Original or Modified Versions, may be sold by itself.\012 \0122) Original or Modified Versions of the Font Software may be bundled, redistributed and/or sold with any software, provided that each copy contains the above copyright notice and this license. These can be included either as stand-alone text files, human-readable headers or in the appropriate machine-readable metadata fields within text or binary files as long as those fields can be easily viewed by the user.\012 \0123) No Modified Version of the Font Software may use the Reserved Font Name(s) unless explicit written permission is granted by the corresponding Copyright Holder. This restriction only applies to the primary font name as presented to the users.\012 \0124) The name(s) of the Copyright Holder(s) or the Author(s) of the Font Software shall not be used to promote, endorse or advertise any Modified Version, except to acknowledge the contribution(s) of the Copyright Holder(s) and the Author(s) or with their explicit written permission.\012 \0125) The Font Software, modified or unmodified, in part or in whole, must be distributed entirely under this license, and must not be distributed under any other license. The requirement for fonts to remain under this license does not apply to any document created using the Font Software.\012 \012THE FONT SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT OF COPYRIGHT, PATENT, TRADEMARK, OR OTHER RIGHT. IN NO EVENT SHALL THE COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, INCLUDING ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL DAMAGES, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM OTHER DEALINGS IN THE FONT SOFTWARE.";
+},
+{
+name = licenseURL;
+value = "https://scripts.sil.org/OFL";
+},
+{
+name = trademark;
+value = "Cascadia Code is a trademark of the Microsoft group of companies.";
+},
+{
+name = vendorID;
+value = SAJA;
+},
+{
+name = Axes;
+value = (
+{
+Name = Weight;
+Tag = wght;
+}
+);
+},
+{
+name = note;
+value = "#Macro to convert the ligatures from editable to production mode\012\012def ligatureProcess(production):\012	for glyph in Glyphs.font.glyphs:\012		if glyph.color == 3: #2 width\012			if production == True:\012				glyph.layers[0].LSB = glyph.layers[0].LSB - 1200\012			if production == False:\012				glyph.layers[0].LSB = glyph.layers[0].LSB + 1200\012\012		elif glyph.color == 4: #3 width\012			if production == True:\012				glyph.layers[0].LSB = glyph.layers[0].LSB - 2400\012			if production == False:\012				glyph.layers[0].LSB = glyph.layers[0].LSB + 2400\012\012		elif glyph.color == 9: #4 width\012			if production == True:\012				glyph.layers[0].LSB = glyph.layers[0].LSB - 3600\012			if production == False:\012				glyph.layers[0].LSB = glyph.layers[0].LSB + 3600		\012		\012\012ligatureProcess(True) #True for production mode, False for editable\012\012\012\012Settings for scaler for halves and thirds\012\012Third\012\01230		30		30\01240		40		40\01280		-160	-340\012\012Half\01270		70		70\01245		45		45\01260		-220	-360";
+}
+);
+date = "2019-04-07 17:18:29 +0000";
+designer = "Aaron Bell";
+designerURL = "http://sajatypeworks.com";
+familyName = "Cascadia Code";
+featurePrefixes = (
+{
+automatic = 1;
+code = "languagesystem DFLT dflt;\012\012languagesystem latn dflt;\012languagesystem latn ROM;\012languagesystem latn MOL;\012languagesystem latn PLK;\012languagesystem latn NLD;\012\012languagesystem cyrl dflt;\012languagesystem cyrl BGR;\012languagesystem cyrl SRB;\012";
+name = Languagesystems;
+}
+);
+features = (
+{
+automatic = 1;
+code = "feature calt;\012feature locl;\012feature subs;\012feature sinf;\012feature sups;\012feature numr;\012feature dnom;\012feature frac;\012feature ordn;\012feature case;\012feature zero;\012feature ss19;\012feature zero;\012";
+name = aalt;
+},
+{
+code = "sub dcaron' [lacute lcaron lcommaaccent ldot lslash b h k l hbar hcircumflex kcommaaccent @Uppercase] by dcaron.alt;\012";
+name = calt;
+},
+{
+code = "lookup ccmp_Other_1 {\012	@CombiningTopAccents = [acutecomb acutetonecomb brevecomb caroncomb circumflexcomb commaabovecomb commaaboverightcomb commaturnedabovecomb dieresiscomb dotaccentcomb gravecomb gravetonecomb hookabovecomb hungarumlautcomb macroncomb perispomenicomb ringcomb tildecomb];\012	@CombiningNonTopAccents = [cedillacomb dotbelowcomb lowlinecomb macronbelowcomb ogonekcomb ringbelowcomb horncomb];\012	sub [i j i-cy je-cy]' @CombiningTopAccents by [idotless jdotless idotless jdotless];	\012	sub iogonek' @CombiningTopAccents by idotless ogonekcomb; \012	sub idotbelow' @CombiningTopAccents by idotless dotbelowcomb; \012	sub [i j i-cy je-cy]' @CombiningNonTopAccents @CombiningTopAccents by [idotless jdotless idotless jdotless];\012	sub iogonek' @CombiningNonTopAccents @CombiningTopAccents by idotless ogonekcomb;\012	sub idotbelow' @CombiningNonTopAccents @CombiningTopAccents by idotless dotbelowcomb;\012	@Markscomb = [dieresiscomb dotaccentcomb gravecomb acutecomb hungarumlautcomb circumflexcomb caroncomb brevecomb ringcomb tildecomb macroncomb hookabovecomb horncomb tonos brevecomb-cy];\012	@MarkscombCase = [dieresiscomb.case dotaccentcomb.case gravecomb.case acutecomb.case hungarumlautcomb.case circumflexcomb.case caroncomb.case brevecomb.case ringcomb.case tildecomb.case macroncomb.case hookabovecomb.case horncomb.case tonos.case brevecomb-cy.case];\012	sub @Markscomb @Markscomb' by @MarkscombCase;\012	sub @Uppercase @Markscomb' by @MarkscombCase;\012} ccmp_Other_1;\012\012lookup ccmp_Other_2 {\012	sub @Markscomb' @MarkscombCase by @MarkscombCase;\012	sub @MarkscombCase @Markscomb' by @MarkscombCase;\012} ccmp_Other_2;\012\012lookup ccmp_latn_1 {\012	sub fi by f i;\012	sub fl by f l;\012} ccmp_latn_1;\012\012script latn;\012lookup ccmp_latn_1;";
+name = ccmp;
+},
+{
+code = "lookup locl_latn_0 {\012	script latn;\012	language ROM;\012	language MOL;\012	sub Scedilla by Scommaaccent;\012	sub scedilla by scommaaccent;\012	sub Tcedilla by Tcommaaccent;\012	sub tcedilla by tcommaaccent;\012} locl_latn_0;\012\012lookup locl_latn_1 {\012	script latn;\012	language PLK;\012	sub Cacute by Cacute.loclPLK;\012	sub Nacute by Nacute.loclPLK;\012	sub Oacute by Oacute.loclPLK;\012	sub Sacute by Sacute.loclPLK;\012	sub Zacute by Zacute.loclPLK;\012	sub cacute by cacute.loclPLK;\012	sub nacute by nacute.loclPLK;\012	sub oacute by oacute.loclPLK;\012	sub sacute by sacute.loclPLK;\012	sub zacute by zacute.loclPLK;\012	sub acutecomb by acutecomb.loclPLK;\012} locl_latn_1;\012\012lookup locl_latn_2 {\012	script latn;\012	language NLD;\012	sub iacute j' by jacute;\012	sub Iacute J' by Jacute;\012} locl_latn_2;\012\012lookup locl_cyrl_0 {\012	script cyrl;\012	language BGR;\012	sub De-cy by De-cy.loclBGR;\012	sub El-cy by El-cy.loclBGR;\012	sub Ef-cy by Ef-cy.loclBGR;\012	sub ve-cy by ve-cy.loclBGR;\012	sub ge-cy by ge-cy.loclBGR;\012	sub de-cy by de-cy.loclBGR;\012	sub zhe-cy by zhe-cy.loclBGR;\012	sub ze-cy by ze-cy.loclBGR;\012	sub ii-cy by ii-cy.loclBGR;\012	sub iishort-cy by iishort-cy.loclBGR;\012	sub iigrave-cy by iigrave-cy.loclBGR;\012	sub ka-cy by ka-cy.loclBGR;\012	sub el-cy by el-cy.loclBGR;\012	sub pe-cy by pe-cy.loclBGR;\012	sub te-cy by te-cy.loclBGR;\012	sub tse-cy by tse-cy.loclBGR;\012	sub sha-cy by sha-cy.loclBGR;\012	sub shcha-cy by shcha-cy.loclBGR;\012	sub softsign-cy by softsign-cy.loclBGR;\012	sub hardsign-cy by hardsign-cy.loclBGR;\012	sub iu-cy by iu-cy.loclBGR;\012} locl_cyrl_0;\012\012lookup locl_cyrl_1 {\012	script cyrl;\012	language SRB;\012	sub be-cy by be-cy.loclSRB;\012} locl_cyrl_1;\012";
+name = locl;
+},
+{
+automatic = 1;
+code = "sub zero by zeroinferior;\012sub one by oneinferior;\012sub two by twoinferior;\012sub three by threeinferior;\012sub four by fourinferior;\012sub five by fiveinferior;\012sub six by sixinferior;\012sub seven by seveninferior;\012sub eight by eightinferior;\012sub nine by nineinferior;\012";
+name = subs;
+},
+{
+automatic = 1;
+code = "sub zero by zeroinferior;\012sub one by oneinferior;\012sub two by twoinferior;\012sub three by threeinferior;\012sub four by fourinferior;\012sub five by fiveinferior;\012sub six by sixinferior;\012sub seven by seveninferior;\012sub eight by eightinferior;\012sub nine by nineinferior;\012";
+name = sinf;
+},
+{
+automatic = 1;
+code = "sub zero by zerosuperior;\012sub one by onesuperior;\012sub two by twosuperior;\012sub three by threesuperior;\012sub four by foursuperior;\012sub five by fivesuperior;\012sub six by sixsuperior;\012sub seven by sevensuperior;\012sub eight by eightsuperior;\012sub nine by ninesuperior;\012";
+name = sups;
+},
+{
+automatic = 1;
+code = "sub zero by zero.numr;\012sub one by one.numr;\012sub two by two.numr;\012sub three by three.numr;\012sub four by four.numr;\012sub five by five.numr;\012sub six by six.numr;\012sub seven by seven.numr;\012sub eight by eight.numr;\012sub nine by nine.numr;\012";
+name = numr;
+},
+{
+automatic = 1;
+code = "sub zero by zero.dnom;\012sub one by one.dnom;\012sub two by two.dnom;\012sub three by three.dnom;\012sub four by four.dnom;\012sub five by five.dnom;\012sub six by six.dnom;\012sub seven by seven.dnom;\012sub eight by eight.dnom;\012sub nine by nine.dnom;\012";
+name = dnom;
+},
+{
+automatic = 1;
+code = "lookup FRAC {\012	sub slash by fraction;\012} FRAC;\012lookup UP {\012	sub [zero one two three four five six seven eight nine] by [zero.numr one.numr two.numr three.numr four.numr five.numr six.numr seven.numr eight.numr nine.numr];\012} UP;\012lookup DOWN {\012	sub fraction [zero.numr one.numr two.numr three.numr four.numr five.numr six.numr seven.numr eight.numr nine.numr]' by [zero.dnom one.dnom two.dnom three.dnom four.dnom five.dnom six.dnom seven.dnom eight.dnom nine.dnom];\012	sub [zero.dnom one.dnom two.dnom three.dnom four.dnom five.dnom six.dnom seven.dnom eight.dnom nine.dnom] [zero.numr one.numr two.numr three.numr four.numr five.numr six.numr seven.numr eight.numr nine.numr]' by [zero.dnom one.dnom two.dnom three.dnom four.dnom five.dnom six.dnom seven.dnom eight.dnom nine.dnom];\012} DOWN;\012";
+name = frac;
+},
+{
+automatic = 1;
+code = "sub [zero one two three four five six seven eight nine] [A a]' by ordfeminine;\012sub [zero one two three four five six seven eight nine] [O o]' by ordmasculine;\012";
+name = ordn;
+},
+{
+automatic = 1;
+code = "sub dieresiscomb by dieresiscomb.case;\012sub dotaccentcomb by dotaccentcomb.case;\012sub gravecomb by gravecomb.case;\012sub acutecomb by acutecomb.case;\012sub hungarumlautcomb by hungarumlautcomb.case;\012sub circumflexcomb by circumflexcomb.case;\012sub caroncomb by caroncomb.case;\012sub brevecomb by brevecomb.case;\012sub ringcomb by ringcomb.case;\012sub tildecomb by tildecomb.case;\012sub macroncomb by macroncomb.case;\012sub hookabovecomb by hookabovecomb.case;\012sub horncomb by horncomb.case;\012sub tonos by tonos.case;\012sub brevecomb-cy by brevecomb-cy.case;\012";
+name = case;
+},
+{
+code = "\012";
+disabled = 1;
+name = liga;
+},
+{
+automatic = 1;
+code = "sub zero by zero.zero;\012";
+name = zero;
+},
+{
+code = "sub zero by zero.zero;";
+name = ss19;
+notes = "Name: Slashed zero";
+},
+{
+automatic = 1;
+code = "sub zero by zero.zero;\012";
+name = zero;
+}
+);
+fontMaster = (
+{
+alignmentZones = (
+"{1500, 20}",
+"{1420, 20}",
+"{1060, 20}",
+"{0, -20}",
+"{-460, -20}"
+);
+ascender = 1568;
+capHeight = 1420;
+custom = Extra;
+customParameters = (
+{
+name = underlineThickness;
+value = 100;
+},
+{
+name = underlinePosition;
+value = -100;
+}
+);
+descender = -480;
+guideLines = (
+{
+name = " [locked]";
+position = "{1050, 330}";
+},
+{
+name = " [locked]";
+position = "{1276, 1440}";
+},
+{
+name = " [locked]";
+position = "{440, -460}";
+},
+{
+angle = 90;
+name = " [locked]";
+position = "{280, 416}";
+},
+{
+name = " [locked]";
+position = "{2160, 332}";
+},
+{
+name = " [locked]";
+position = "{2120, 342}";
+},
+{
+angle = 90;
+name = " [locked]";
+position = "{240, 390}";
+},
+{
+angle = 90;
+name = " [locked]";
+position = "{148, 190}";
+},
+{
+angle = 90;
+name = " [locked]";
+position = "{2004, 52}";
+},
+{
+angle = 90;
+name = " [locked]";
+position = "{3360, 466}";
+},
+{
+angle = 90;
+name = " [locked]";
+position = "{3320, 306}";
+},
+{
+angle = 90;
+name = " [locked]";
+position = "{3208, 146}";
+},
+{
+position = "{958, 2226}";
+},
+{
+name = " [locked]";
+position = "{1105, 1040}";
+},
+{
+name = " [locked]";
+position = "{1076, 914}";
+},
+{
+position = "{1555, 1901}";
+},
+{
+position = "{1376, -480}";
+}
+);
+horizontalStems = (
+200,
+210,
+212,
+220
+);
+iconName = Light;
+id = master01;
+name = ExtraLight;
+verticalStems = (
+190,
+180
+);
+weight = Light;
+weightValue = 140;
+xHeight = 1060;
+},
+{
+alignmentZones = (
+"{1500, 20}",
+"{1420, 20}",
+"{1060, 20}",
+"{0, -20}",
+"{-460, -20}"
+);
+ascender = 1568;
+capHeight = 1420;
+customParameters = (
+{
+name = underlineThickness;
+value = 100;
+},
+{
+name = underlinePosition;
+value = -100;
+}
+);
+descender = -480;
+guideLines = (
+{
+name = " [locked]";
+position = "{1013, 1133}";
+},
+{
+name = " [locked]";
+position = "{849, 1440}";
+},
+{
+name = " [locked]";
+position = "{1107, 1234}";
+},
+{
+name = " [locked]";
+position = "{440, -460}";
+},
+{
+angle = 90;
+name = " [locked]";
+position = "{280, 416}";
+},
+{
+angle = 90;
+name = " [locked]";
+position = "{2160, 332}";
+},
+{
+angle = 90;
+name = " [locked]";
+position = "{2090, 250}";
+},
+{
+angle = 90;
+name = " [locked]";
+position = "{240, 390}";
+},
+{
+angle = 90;
+name = " [locked]";
+position = "{392, 408}";
+},
+{
+angle = 90;
+name = " [locked]";
+position = "{2004, 52}";
+},
+{
+name = " [locked]";
+position = "{3360, 466}";
+},
+{
+angle = 90;
+name = " [locked]";
+position = "{3320, 306}";
+},
+{
+angle = 90;
+name = " [locked]";
+position = "{3208, 146}";
+},
+{
+position = "{786, 2226}";
+},
+{
+position = "{810, -20}";
+},
+{
+position = "{1100, 1052}";
+},
+{
+position = "{1100, 866}";
+},
+{
+position = "{1100, 552}";
+},
+{
+name = " [locked]";
+position = "{1013, 1133}";
+},
+{
+name = " [locked]";
+position = "{1013, 1133}";
+},
+{
+name = " [locked]";
+position = "{1013, 1133}";
+}
+);
+horizontalStems = (
+200,
+210,
+212,
+220
+);
+id = "1F90C004-9C90-48FA-B407-176B3E9F1E65";
+verticalStems = (
+190,
+180
+);
+weightValue = 500;
+xHeight = 1060;
+},
+{
+alignmentZones = (
+"{1500, 20}",
+"{1420, 20}",
+"{1060, 20}",
+"{0, -20}",
+"{-460, -20}"
+);
+ascender = 1568;
+capHeight = 1420;
+customParameters = (
+{
+name = underlineThickness;
+value = 100;
+},
+{
+name = underlinePosition;
+value = -100;
+}
+);
+descender = -480;
+guideLines = (
+{
+angle = 180;
+name = " [locked]";
+position = "{1107, 333}";
+},
+{
+name = " [locked]";
+position = "{886, -1040}";
+},
+{
+name = " [locked]";
+position = "{1052, -543}";
+},
+{
+name = " [locked]";
+position = "{1492, -819}";
+},
+{
+name = " [locked]";
+position = "{440, -460}";
+},
+{
+angle = 270;
+name = " [locked]";
+position = "{280, 416}";
+},
+{
+angle = 90;
+name = " [locked]";
+position = "{2194, 332}";
+},
+{
+angle = 90;
+name = " [locked]";
+position = "{2154, 342}";
+},
+{
+angle = 270;
+name = " [locked]";
+position = "{240, 390}";
+},
+{
+angle = 90;
+name = " [locked]";
+position = "{392, 408}";
+},
+{
+angle = 90;
+name = " [locked]";
+position = "{2004, 52}";
+},
+{
+angle = 90;
+name = " [locked]";
+position = "{3360, 466}";
+},
+{
+angle = 90;
+name = " [locked]";
+position = "{3320, 306}";
+},
+{
+angle = 90;
+name = " [locked]";
+position = "{3208, 146}";
+},
+{
+position = "{-327, 2226}";
+},
+{
+name = " [locked]";
+position = "{1117, 1085}";
+},
+{
+angle = 90;
+name = " [locked]";
+position = "{1047, 843}";
+},
+{
+angle = 180;
+name = " [locked]";
+position = "{1117, 575}";
+}
+);
+horizontalStems = (
+200,
+210,
+212,
+220
+);
+id = "8E053A5E-67DA-4970-A6F5-068DBFE5AD21";
+verticalStems = (
+190,
+180
+);
+weight = Bold;
+weightValue = 750;
+xHeight = 1060;
+}
+);
+instances = (
+{
+interpolationWeight = 140;
+instanceInterpolations = {
+master01 = 1;
+};
+name = ExtraLight;
+weightClass = ExtraLight;
+},
+{
+interpolationWeight = 260;
+instanceInterpolations = {
+"1F90C004-9C90-48FA-B407-176B3E9F1E65" = 0.33333;
+master01 = 0.66667;
+};
+name = Light;
+weightClass = Light;
+},
+{
+customParameters = (
+{
+name = weightClass;
+value = 350;
+}
+);
+interpolationWeight = 380;
+instanceInterpolations = {
+"1F90C004-9C90-48FA-B407-176B3E9F1E65" = 0.66667;
+master01 = 0.33333;
+};
+name = SemiLight;
+},
+{
+interpolationWeight = 500;
+instanceInterpolations = {
+"1F90C004-9C90-48FA-B407-176B3E9F1E65" = 1;
+};
+name = Regular;
+},
+{
+interpolationWeight = 650;
+instanceInterpolations = {
+"1F90C004-9C90-48FA-B407-176B3E9F1E65" = 0.4;
+"8E053A5E-67DA-4970-A6F5-068DBFE5AD21" = 0.6;
+};
+name = SemiBold;
+weightClass = SemiBold;
+},
+{
+interpolationWeight = 750;
+instanceInterpolations = {
+"8E053A5E-67DA-4970-A6F5-068DBFE5AD21" = 1;
+};
+isBold = 1;
+linkStyle = Regular;
+name = Bold;
+weightClass = Bold;
+}
+);
+manufacturer = "Saja Typeworks";
+manufacturerURL = "http://sajatypeworks.com";
+unitsPerEm = 2048;
+userData = {
+GSDimensionPlugin.Dimensions = {
+"1F90C004-9C90-48FA-B407-176B3E9F1E65" = {
+HH = "186";
+HV = "212";
+OH = "190";
+OV = "220";
+};
+"32D0959D-6118-411E-BC46-DBE7BC1E7C0B" = {
+HH = "190";
+HV = "200";
+OH = "184";
+OV = "210";
+cydeH = "186";
+nV = "212";
+oH = "190";
+oV = "220";
+tH = "186";
+};
+"47A123F8-062D-4F48-9577-BC700BC51F36" = {
+HH = "88";
+HV = "90";
+OH = "90";
+OV = "92";
+cydeH = "90";
+nV = "94";
+oH = "92";
+oV = "96";
+tH = "90";
+};
+"7062B15D-7097-4448-A185-D08BD1167FB1" = {
+HV = "205";
+OH = "184";
+OV = "210";
+nV = "212";
+nd = "204";
+oH = "190";
+oV = "214";
+tH = "195";
+};
+"A38DF493-7C5F-490B-8624-7E8A09AEE4F3" = {
+nV = "270";
+oH = "257";
+oV = "287";
+tH = "250";
+};
+"CF6B61C3-38FB-41CB-B8C0-98C1B61AF433" = {
+HH = "254";
+HV = "276";
+OH = "265";
+OV = "290";
+cydeH = "264";
+nV = "282";
+oH = "270";
+oV = "300";
+tH = "264";
+};
+master01 = {
+HH = "90";
+HV = "94";
+OH = "90";
+OV = "96";
+};
+};
+com.schriftgestaltung.Glyphs.groupsNotInFeature = (
+);
+};
+versionMajor = 4;
+versionMinor = 300;
+}

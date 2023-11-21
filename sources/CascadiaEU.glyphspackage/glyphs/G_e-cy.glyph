@@ -1,0 +1,109 @@
+{
+glyphname = "Ge-cy";
+production = uni0413;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+position = "{620, 0}";
+},
+{
+name = top;
+position = "{620, 1420}";
+}
+);
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"298 0 LINE",
+"298 1420 LINE",
+"204 1420 LINE",
+"204 0 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"1066 1330 LINE",
+"1066 1420 LINE",
+"204 1420 LINE",
+"204 1330 LINE"
+);
+}
+);
+width = 1200;
+},
+{
+anchors = (
+{
+name = bottom;
+position = "{620, 0}";
+},
+{
+name = top;
+position = "{620, 1420}";
+}
+);
+layerId = "1F90C004-9C90-48FA-B407-176B3E9F1E65";
+paths = (
+{
+closed = 1;
+nodes = (
+"388 0 LINE",
+"388 1420 LINE",
+"180 1420 LINE",
+"180 0 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"1090 1230 LINE",
+"1090 1420 LINE",
+"180 1420 LINE",
+"180 1230 LINE"
+);
+}
+);
+width = 1200;
+},
+{
+anchors = (
+{
+name = bottom;
+position = "{620, 0}";
+},
+{
+name = top;
+position = "{620, 1420}";
+}
+);
+layerId = "8E053A5E-67DA-4970-A6F5-068DBFE5AD21";
+paths = (
+{
+closed = 1;
+nodes = (
+"427 0 LINE",
+"427 1420 LINE",
+"163 1420 LINE",
+"163 0 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"1090 1177 LINE",
+"1090 1420 LINE",
+"163 1420 LINE",
+"163 1177 LINE"
+);
+}
+);
+width = 1200;
+}
+);
+unicode = 0413;
+}

@@ -1,0 +1,62 @@
+{
+glyphname = "seenDotbelowDotabove-ar.alt";
+layers = (
+{
+components = (
+{
+name = "seen-ar.alt";
+},
+{
+anchor = top.dot;
+name = "dotabove-ar";
+transform = "{1, 0, 0, 1, -179, 153}";
+},
+{
+anchor = bottom.dot;
+name = "dotbelow-ar";
+transform = "{1, 0, 0, 1, -190, -24}";
+}
+);
+layerId = master01;
+width = 1200;
+},
+{
+components = (
+{
+name = "seen-ar.alt";
+},
+{
+anchor = top.dot;
+name = "dotabove-ar";
+transform = "{1, 0, 0, 1, -199, 153}";
+},
+{
+anchor = bottom.dot;
+name = "dotbelow-ar";
+transform = "{1, 0, 0, 1, -180, -24}";
+}
+);
+layerId = "8E053A5E-67DA-4970-A6F5-068DBFE5AD21";
+width = 1200;
+},
+{
+components = (
+{
+name = "seen-ar.alt";
+},
+{
+anchor = top.dot;
+name = "dotabove-ar";
+transform = "{1, 0, 0, 1, -169, 153}";
+},
+{
+anchor = bottom.dot;
+name = "dotbelow-ar";
+transform = "{1, 0, 0, 1, -170, -24}";
+}
+);
+layerId = "1F90C004-9C90-48FA-B407-176B3E9F1E65";
+width = 1200;
+}
+);
+}

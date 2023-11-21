@@ -1,0 +1,68 @@
+{
+glyphname = upDownbaseArrow;
+production = arrowupdnbse;
+layers = (
+{
+components = (
+{
+name = upDownArrow;
+}
+);
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"1080 -88 LINE",
+"1080 0 LINE",
+"120 0 LINE",
+"120 -88 LINE"
+);
+}
+);
+width = 1200;
+},
+{
+components = (
+{
+name = upDownArrow;
+}
+);
+layerId = "1F90C004-9C90-48FA-B407-176B3E9F1E65";
+paths = (
+{
+closed = 1;
+nodes = (
+"1079 -186 LINE",
+"1079 0 LINE",
+"119 0 LINE",
+"119 -186 LINE"
+);
+}
+);
+width = 1200;
+},
+{
+components = (
+{
+alignment = -1;
+name = upDownArrow;
+}
+);
+layerId = "8E053A5E-67DA-4970-A6F5-068DBFE5AD21";
+paths = (
+{
+closed = 1;
+nodes = (
+"1080 -243 LINE",
+"1080 0 LINE",
+"120 0 LINE",
+"120 -243 LINE"
+);
+}
+);
+width = 1200;
+}
+);
+unicode = 21A8;
+}

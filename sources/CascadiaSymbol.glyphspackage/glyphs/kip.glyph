@@ -1,0 +1,95 @@
+{
+glyphname = kip;
+production = uni20AD;
+layers = (
+{
+components = (
+{
+name = K;
+}
+);
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"1200 625 LINE",
+"1200 715 LINE",
+"760 715 LINE",
+"760 625 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"247 625 LINE",
+"247 715 LINE",
+"0 715 LINE",
+"0 625 LINE"
+);
+}
+);
+width = 1200;
+},
+{
+components = (
+{
+name = K;
+}
+);
+layerId = "1F90C004-9C90-48FA-B407-176B3E9F1E65";
+paths = (
+{
+closed = 1;
+nodes = (
+"1200 601 LINE",
+"1200 739 LINE",
+"700 739 LINE",
+"700 601 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"297 601 LINE",
+"297 739 LINE",
+"0 739 LINE",
+"0 601 LINE"
+);
+}
+);
+width = 1200;
+},
+{
+components = (
+{
+alignment = -1;
+name = K;
+}
+);
+layerId = "8E053A5E-67DA-4970-A6F5-068DBFE5AD21";
+paths = (
+{
+closed = 1;
+nodes = (
+"1200 551 LINE",
+"1200 756 LINE",
+"700 756 LINE",
+"700 551 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"297 551 LINE",
+"297 756 LINE",
+"0 756 LINE",
+"0 551 LINE"
+);
+}
+);
+width = 1200;
+}
+);
+unicode = 20AD;
+}

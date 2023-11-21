@@ -1,0 +1,45 @@
+{
+glyphname = "meemDotabove-ar.medi";
+layers = (
+{
+components = (
+{
+name = "meem-ar.medi";
+},
+{
+name = "dotabove-ar";
+transform = "{1, 0, 0, 1, 26, 322}";
+}
+);
+layerId = master01;
+width = 1200;
+},
+{
+components = (
+{
+name = "meem-ar.medi";
+},
+{
+name = "dotabove-ar";
+transform = "{1, 0, 0, 1, 26, 322}";
+}
+);
+layerId = "8E053A5E-67DA-4970-A6F5-068DBFE5AD21";
+width = 1200;
+},
+{
+components = (
+{
+name = "meem-ar.medi";
+},
+{
+anchor = top.dot;
+name = "dotabove-ar";
+transform = "{1, 0, 0, 1, 23, 262}";
+}
+);
+layerId = "1F90C004-9C90-48FA-B407-176B3E9F1E65";
+width = 1200;
+}
+);
+}

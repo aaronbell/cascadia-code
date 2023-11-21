@@ -1,0 +1,98 @@
+{
+glyphname = _dotVabove;
+layers = (
+{
+anchors = (
+{
+name = _top;
+position = "{600, 762}";
+},
+{
+name = _top.dot;
+position = "{600, 612}";
+},
+{
+name = top;
+position = "{601, 1332}";
+}
+);
+components = (
+{
+anchor = top.dot;
+name = "dotabove-ar";
+transform = "{1, 0, 0, 1, -4, 1}";
+},
+{
+alignment = -1;
+anchor = top;
+name = "vabove-ar";
+transform = "{1, 0, 0, 1, -4, 401}";
+}
+);
+layerId = master01;
+width = 1200;
+},
+{
+anchors = (
+{
+name = _top;
+position = "{600, 762}";
+},
+{
+name = _top.dot;
+position = "{600, 562}";
+},
+{
+name = top;
+position = "{601, 1332}";
+}
+);
+components = (
+{
+anchor = top.dot;
+name = "dotabove-ar";
+transform = "{1, 0, 0, 1, -4, 1}";
+},
+{
+alignment = -1;
+anchor = top;
+name = "vabove-ar";
+transform = "{1, 0, 0, 1, -4, 401}";
+}
+);
+layerId = "1F90C004-9C90-48FA-B407-176B3E9F1E65";
+width = 1200;
+},
+{
+anchors = (
+{
+name = _top;
+position = "{600, 762}";
+},
+{
+name = _top.dot;
+position = "{600, 562}";
+},
+{
+name = top;
+position = "{601, 1362}";
+}
+);
+components = (
+{
+anchor = top.dot;
+name = "dotabove-ar";
+transform = "{1, 0, 0, 1, -4, 1}";
+},
+{
+alignment = -1;
+anchor = top;
+name = "vabove-ar";
+transform = "{1, 0, 0, 1, -4, 431}";
+}
+);
+layerId = "8E053A5E-67DA-4970-A6F5-068DBFE5AD21";
+width = 1200;
+}
+);
+}

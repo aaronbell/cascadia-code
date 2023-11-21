@@ -1,0 +1,144 @@
+{
+glyphname = tau;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+position = "{560, 0}";
+},
+{
+name = top;
+position = "{576, 1060}";
+}
+);
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"856 -20 OFFCURVE",
+"932 -9 OFFCURVE",
+"1020 18 CURVE",
+"1006 110 LINE",
+"918 84 OFFCURVE",
+"853 72 OFFCURVE",
+"794 72 CURVE SMOOTH",
+"630 72 OFFCURVE",
+"561 144 OFFCURVE",
+"561 312 CURVE SMOOTH",
+"561 1060 LINE",
+"467 1060 LINE",
+"467 312 LINE SMOOTH",
+"467 79 OFFCURVE",
+"556 -20 OFFCURVE",
+"764 -20 CURVE SMOOTH"
+);
+},
+{
+closed = 1;
+nodes = (
+"1026 970 LINE",
+"1026 1060 LINE",
+"134 1060 LINE",
+"134 970 LINE"
+);
+}
+);
+width = 1200;
+},
+{
+anchors = (
+{
+name = bottom;
+position = "{560, 0}";
+},
+{
+name = top;
+position = "{576, 1060}";
+}
+);
+layerId = "1F90C004-9C90-48FA-B407-176B3E9F1E65";
+paths = (
+{
+closed = 1;
+nodes = (
+"852 -20 OFFCURVE",
+"941 -8 OFFCURVE",
+"1044 22 CURVE",
+"1020 208 LINE",
+"939 182 OFFCURVE",
+"879 170 OFFCURVE",
+"824 170 CURVE SMOOTH",
+"654 170 OFFCURVE",
+"622 242 OFFCURVE",
+"622 410 CURVE SMOOTH",
+"622 1060 LINE",
+"410 1060 LINE",
+"410 400 LINE SMOOTH",
+"410 106 OFFCURVE",
+"508 -20 OFFCURVE",
+"744 -20 CURVE SMOOTH"
+);
+},
+{
+closed = 1;
+nodes = (
+"1050 870 LINE",
+"1050 1060 LINE",
+"110 1060 LINE",
+"110 870 LINE"
+);
+}
+);
+width = 1200;
+},
+{
+anchors = (
+{
+name = bottom;
+position = "{560, 0}";
+},
+{
+name = top;
+position = "{576, 1060}";
+}
+);
+layerId = "8E053A5E-67DA-4970-A6F5-068DBFE5AD21";
+paths = (
+{
+closed = 1;
+nodes = (
+"852 -20 OFFCURVE",
+"958 -8 OFFCURVE",
+"1061 22 CURVE",
+"1037 275 LINE",
+"956 249 OFFCURVE",
+"879 237 OFFCURVE",
+"824 237 CURVE SMOOTH",
+"678 237 OFFCURVE",
+"651 309 OFFCURVE",
+"651 477 CURVE SMOOTH",
+"651 1060 LINE",
+"381 1060 LINE",
+"381 400 LINE SMOOTH",
+"381 106 OFFCURVE",
+"487 -20 OFFCURVE",
+"744 -20 CURVE SMOOTH"
+);
+},
+{
+closed = 1;
+nodes = (
+"1067 808 LINE",
+"1067 1060 LINE",
+"93 1060 LINE",
+"93 808 LINE"
+);
+}
+);
+width = 1200;
+}
+);
+unicode = 03C4;
+}

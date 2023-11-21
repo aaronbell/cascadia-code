@@ -1,0 +1,136 @@
+{
+glyphname = ogonekcomb;
+production = uni0328;
+layers = (
+{
+anchors = (
+{
+name = _ogonek;
+position = "{695, 10}";
+},
+{
+name = bottom;
+position = "{580, -338}";
+}
+);
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"649 -424 OFFCURVE",
+"684 -423 OFFCURVE",
+"716 -415 CURVE",
+"723 -336 LINE",
+"696 -339 OFFCURVE",
+"669 -341 OFFCURVE",
+"648 -341 CURVE SMOOTH",
+"542 -341 OFFCURVE",
+"482 -293 OFFCURVE",
+"482 -208 CURVE SMOOTH",
+"482 -87 OFFCURVE",
+"576 0 OFFCURVE",
+"740 0 CURVE",
+"740 32 LINE",
+"535 32 LINE",
+"535 -15 LINE",
+"444 -63 OFFCURVE",
+"392 -139 OFFCURVE",
+"392 -223 CURVE SMOOTH",
+"392 -351 OFFCURVE",
+"476 -424 OFFCURVE",
+"622 -424 CURVE SMOOTH"
+);
+}
+);
+width = 1200;
+},
+{
+anchors = (
+{
+name = _ogonek;
+position = "{685, 10}";
+},
+{
+name = bottom;
+position = "{570, -378}";
+}
+);
+layerId = "1F90C004-9C90-48FA-B407-176B3E9F1E65";
+paths = (
+{
+closed = 1;
+nodes = (
+"648 -424 OFFCURVE",
+"682 -421 OFFCURVE",
+"712 -415 CURVE",
+"730 -245 LINE",
+"700 -252 OFFCURVE",
+"671 -256 OFFCURVE",
+"648 -256 CURVE SMOOTH",
+"574 -256 OFFCURVE",
+"532 -224 OFFCURVE",
+"532 -168 CURVE SMOOTH",
+"532 -61 OFFCURVE",
+"614 0 OFFCURVE",
+"756 0 CURVE",
+"756 32 LINE",
+"516 30 LINE",
+"516 -40 LINE",
+"431 -64 OFFCURVE",
+"382 -134 OFFCURVE",
+"382 -232 CURVE SMOOTH",
+"382 -354 OFFCURVE",
+"469 -424 OFFCURVE",
+"622 -424 CURVE SMOOTH"
+);
+}
+);
+width = 1200;
+},
+{
+anchors = (
+{
+name = _ogonek;
+position = "{675, 10}";
+},
+{
+name = bottom;
+position = "{560, -418}";
+}
+);
+layerId = "8E053A5E-67DA-4970-A6F5-068DBFE5AD21";
+paths = (
+{
+closed = 1;
+nodes = (
+"646 -424 OFFCURVE",
+"685 -421 OFFCURVE",
+"722 -415 CURVE",
+"740 -195 LINE",
+"710 -202 OFFCURVE",
+"681 -206 OFFCURVE",
+"658 -206 CURVE SMOOTH",
+"600 -206 OFFCURVE",
+"567 -177 OFFCURVE",
+"567 -126 CURVE SMOOTH",
+"567 -46 OFFCURVE",
+"634 0 OFFCURVE",
+"749 0 CURVE",
+"749 32 LINE",
+"493 30 LINE",
+"493 -32 LINE",
+"413 -55 OFFCURVE",
+"367 -122 OFFCURVE",
+"367 -215 CURVE SMOOTH",
+"367 -348 OFFCURVE",
+"457 -424 OFFCURVE",
+"615 -424 CURVE SMOOTH"
+);
+}
+);
+width = 1200;
+}
+);
+unicode = 0328;
+}

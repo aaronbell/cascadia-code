@@ -1,0 +1,62 @@
+{
+glyphname = boxHeavyLeftAndLightRight.stypo;
+layers = (
+{
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"647 613 LINE",
+"647 660 LINE",
+"1247 660 LINE",
+"1247 754 LINE",
+"647 754 LINE",
+"647 801 LINE",
+"-47 801 LINE",
+"-47 613 LINE"
+);
+}
+);
+width = 1200;
+},
+{
+layerId = "1F90C004-9C90-48FA-B407-176B3E9F1E65";
+paths = (
+{
+closed = 1;
+nodes = (
+"704 499 LINE",
+"704 603 LINE",
+"1304 603 LINE",
+"1304 811 LINE",
+"704 811 LINE",
+"704 915 LINE",
+"-104 915 LINE",
+"-104 499 LINE"
+);
+}
+);
+width = 1200;
+},
+{
+layerId = "8E053A5E-67DA-4970-A6F5-068DBFE5AD21";
+paths = (
+{
+closed = 1;
+nodes = (
+"732 443 LINE",
+"732 575 LINE",
+"1332 575 LINE",
+"1332 839 LINE",
+"732 839 LINE",
+"732 971 LINE",
+"-132 971 LINE",
+"-132 443 LINE"
+);
+}
+);
+width = 1200;
+}
+);
+}

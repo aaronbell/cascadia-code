@@ -1,0 +1,85 @@
+{
+glyphname = house;
+layers = (
+{
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"1100 0 LINE",
+"1100 706 LINE",
+"600 1142 LINE",
+"100 706 LINE",
+"100 0 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"190 665.068 LINE",
+"599.399 1022.064 LINE",
+"1010 666 LINE",
+"1010 90 LINE",
+"190 90 LINE"
+);
+}
+);
+width = 1200;
+},
+{
+layerId = "1F90C004-9C90-48FA-B407-176B3E9F1E65";
+paths = (
+{
+closed = 1;
+nodes = (
+"1100 0 LINE",
+"1100 706 LINE",
+"600 1142 LINE",
+"100 706 LINE",
+"100 0 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"280 624.137 LINE",
+"598.798 902.129 LINE",
+"920 625 LINE",
+"920 180 LINE",
+"280 180 LINE"
+);
+}
+);
+width = 1200;
+},
+{
+layerId = "8E053A5E-67DA-4970-A6F5-068DBFE5AD21";
+paths = (
+{
+closed = 1;
+nodes = (
+"1100 0 LINE",
+"1100 706 LINE",
+"600 1142 LINE",
+"100 706 LINE",
+"100 0 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"340 596.849 LINE",
+"598.398 822.172 LINE",
+"860 598 LINE",
+"860 240 LINE",
+"340 240 LINE"
+);
+}
+);
+width = 1200;
+}
+);
+widthMetricsKey = space;
+unicode = 2302;
+}

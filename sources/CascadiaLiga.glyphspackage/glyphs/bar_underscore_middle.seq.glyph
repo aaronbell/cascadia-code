@@ -1,0 +1,71 @@
+{
+glyphname = bar_underscore_middle.seq;
+layers = (
+{
+components = (
+{
+name = underscore_middle.seq;
+}
+);
+guideLines = (
+{
+angle = 90;
+position = "{1009, 619}";
+}
+);
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"647 -50 LINE",
+"647 1730 LINE",
+"553 1730 LINE",
+"553 -50 LINE"
+);
+}
+);
+width = 1200;
+},
+{
+components = (
+{
+name = underscore_middle.seq;
+}
+);
+layerId = "1F90C004-9C90-48FA-B407-176B3E9F1E65";
+paths = (
+{
+closed = 1;
+nodes = (
+"700 -50 LINE",
+"700 1730 LINE",
+"500 1730 LINE",
+"500 -50 LINE"
+);
+}
+);
+width = 1200;
+},
+{
+components = (
+{
+name = underscore_middle.seq;
+}
+);
+layerId = "8E053A5E-67DA-4970-A6F5-068DBFE5AD21";
+paths = (
+{
+closed = 1;
+nodes = (
+"732 -50 LINE",
+"732 1730 LINE",
+"468 1730 LINE",
+"468 -50 LINE"
+);
+}
+);
+width = 1200;
+}
+);
+}

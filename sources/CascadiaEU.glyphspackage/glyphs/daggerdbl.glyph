@@ -1,0 +1,171 @@
+{
+glyphname = daggerdbl;
+layers = (
+{
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"602 1059 LINE",
+"954 1059 LINE",
+"954 1147 LINE",
+"602 1147 LINE",
+"246 1147 LINE",
+"246 1059 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"644 272 LINE",
+"644 620 LINE",
+"554 620 LINE",
+"554 272 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"602 585 LINE",
+"954 585 LINE",
+"954 673 LINE",
+"602 673 LINE",
+"246 673 LINE",
+"246 585 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"644 660 LINE",
+"644 1104 LINE",
+"554 1104 LINE",
+"554 660 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"644 1082 LINE",
+"644 1440 LINE",
+"554 1440 LINE",
+"554 1082 LINE"
+);
+}
+);
+width = 1200;
+},
+{
+layerId = "1F90C004-9C90-48FA-B407-176B3E9F1E65";
+paths = (
+{
+closed = 1;
+nodes = (
+"602 1024 LINE",
+"980 1024 LINE",
+"980 1182 LINE",
+"602 1182 LINE",
+"220 1182 LINE",
+"220 1024 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"693 272 LINE",
+"683 620 LINE",
+"511 620 LINE",
+"501 272 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"602 550 LINE",
+"980 550 LINE",
+"980 708 LINE",
+"602 708 LINE",
+"220 708 LINE",
+"220 550 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"683 660 LINE",
+"683 1104 LINE",
+"511 1104 LINE",
+"511 660 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"683 1082 LINE",
+"693 1440 LINE",
+"501 1440 LINE",
+"511 1082 LINE"
+);
+}
+);
+width = 1200;
+},
+{
+layerId = "8E053A5E-67DA-4970-A6F5-068DBFE5AD21";
+paths = (
+{
+closed = 1;
+nodes = (
+"602 992 LINE",
+"997 984 LINE",
+"997 1222 LINE",
+"602 1214 LINE",
+"203 1222 LINE",
+"203 984 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"735 272 LINE",
+"725 620 LINE",
+"469 620 LINE",
+"459 272 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"602 518 LINE",
+"997 510 LINE",
+"997 748 LINE",
+"602 740 LINE",
+"203 748 LINE",
+"203 510 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"725 660 LINE",
+"725 1104 LINE",
+"469 1104 LINE",
+"469 660 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"725 1082 LINE",
+"735 1440 LINE",
+"459 1440 LINE",
+"469 1082 LINE"
+);
+}
+);
+width = 1200;
+}
+);
+unicode = 2021;
+}

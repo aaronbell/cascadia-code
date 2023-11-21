@@ -1,0 +1,93 @@
+{
+glyphname = "lam-ar.fina";
+layers = (
+{
+components = (
+{
+name = "lam-ar";
+}
+);
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"1236 -3 OFFCURVE",
+"1275 1 OFFCURVE",
+"1275 45 CURVE SMOOTH",
+"1275 86 OFFCURVE",
+"1251 91 OFFCURVE",
+"1200 91 CURVE SMOOTH",
+"1023 91 OFFCURVE",
+"1005 129 OFFCURVE",
+"1003 308 CURVE",
+"959 157 LINE",
+"974 58 OFFCURVE",
+"1024 -3 OFFCURVE",
+"1188 -3 CURVE SMOOTH"
+);
+}
+);
+width = 1200;
+},
+{
+components = (
+{
+name = "lam-ar";
+transform = "{1, 0, 0, 1, -20, 0}";
+}
+);
+layerId = "1F90C004-9C90-48FA-B407-176B3E9F1E65";
+paths = (
+{
+closed = 1;
+nodes = (
+"1236 -6 OFFCURVE",
+"1275 21 OFFCURVE",
+"1275 115 CURVE SMOOTH",
+"1275 186 OFFCURVE",
+"1251 206 OFFCURVE",
+"1200 206 CURVE SMOOTH",
+"1083 206 OFFCURVE",
+"1066 219 OFFCURVE",
+"1064 308 CURVE",
+"1007 137 LINE",
+"1022 38 OFFCURVE",
+"1074 -6 OFFCURVE",
+"1188 -6 CURVE SMOOTH"
+);
+}
+);
+width = 1200;
+},
+{
+components = (
+{
+name = "lam-ar";
+}
+);
+layerId = "8E053A5E-67DA-4970-A6F5-068DBFE5AD21";
+paths = (
+{
+closed = 1;
+nodes = (
+"1236 -10 OFFCURVE",
+"1275 41 OFFCURVE",
+"1275 155 CURVE SMOOTH",
+"1275 246 OFFCURVE",
+"1251 285 OFFCURVE",
+"1200 285 CURVE SMOOTH",
+"1086 285 OFFCURVE",
+"1067 311 OFFCURVE",
+"1065 387 CURVE",
+"971 188 LINE",
+"991 54 OFFCURVE",
+"1055 -10 OFFCURVE",
+"1188 -10 CURVE SMOOTH"
+);
+}
+);
+width = 1200;
+}
+);
+}

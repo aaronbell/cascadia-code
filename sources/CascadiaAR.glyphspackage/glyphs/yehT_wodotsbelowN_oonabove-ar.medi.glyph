@@ -1,0 +1,65 @@
+{
+glyphname = "yehTwodotsbelowNoonabove-ar.medi";
+layers = (
+{
+components = (
+{
+name = "behDotless-ar.medi";
+},
+{
+anchor = bottom.dot;
+name = "twodotshorizontalbelow-ar";
+transform = "{1, 0, 0, 1, -10, -24}";
+},
+{
+anchor = top.dot;
+name = "noonabove-ar";
+transform = "{1, 0, 0, 1, 10, -425}";
+}
+);
+layerId = master01;
+width = 1200;
+},
+{
+components = (
+{
+name = "behDotless-ar.medi";
+},
+{
+anchor = bottom.dot;
+name = "twodotshorizontalbelow-ar";
+transform = "{1, 0, 0, 1, -10, -24}";
+},
+{
+anchor = top.dot;
+name = "noonabove-ar";
+transform = "{1, 0, 0, 1, 30, -325}";
+}
+);
+layerId = "8E053A5E-67DA-4970-A6F5-068DBFE5AD21";
+width = 1200;
+},
+{
+components = (
+{
+name = "behDotless-ar.medi";
+},
+{
+anchor = bottom.dot;
+name = "twodotshorizontalbelow-ar";
+transform = "{1, 0, 0, 1, -10, -24}";
+},
+{
+anchor = top.dot;
+name = "noonabove-ar";
+transform = "{1, 0, 0, 1, 30, -325}";
+}
+);
+layerId = "1F90C004-9C90-48FA-B407-176B3E9F1E65";
+width = 1200;
+}
+);
+script = arabic;
+category = Letter;
+subCategory = Other;
+}

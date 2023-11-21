@@ -1,0 +1,95 @@
+{
+glyphname = ruble;
+production = uni20BD;
+layers = (
+{
+components = (
+{
+name = P;
+}
+);
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"788 185 LINE",
+"788 275 LINE",
+"24 275 LINE",
+"24 185 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"437 489 LINE",
+"437 579 LINE",
+"24 579 LINE",
+"24 489 LINE"
+);
+}
+);
+width = 1200;
+},
+{
+components = (
+{
+name = P;
+}
+);
+layerId = "1F90C004-9C90-48FA-B407-176B3E9F1E65";
+paths = (
+{
+closed = 1;
+nodes = (
+"788 161 LINE",
+"788 299 LINE",
+"0 299 LINE",
+"0 161 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"437 440 LINE",
+"437 630 LINE",
+"0 630 LINE",
+"0 440 LINE"
+);
+}
+);
+width = 1200;
+},
+{
+components = (
+{
+alignment = -1;
+name = P;
+}
+);
+layerId = "8E053A5E-67DA-4970-A6F5-068DBFE5AD21";
+paths = (
+{
+closed = 1;
+nodes = (
+"788 111 LINE",
+"788 316 LINE",
+"0 316 LINE",
+"0 111 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"437 407 LINE",
+"437 647 LINE",
+"0 647 LINE",
+"0 407 LINE"
+);
+}
+);
+width = 1200;
+}
+);
+unicode = 20BD;
+}

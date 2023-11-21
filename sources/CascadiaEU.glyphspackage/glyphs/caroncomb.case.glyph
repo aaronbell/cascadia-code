@@ -1,0 +1,93 @@
+{
+glyphname = caroncomb.case;
+production = uni030C.case;
+layers = (
+{
+anchors = (
+{
+name = _top;
+position = "{600, 1420}";
+},
+{
+name = top;
+position = "{600, 1800}";
+}
+);
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"641 1580 LINE",
+"926 1840 LINE",
+"799 1840 LINE",
+"541 1601 LINE",
+"659 1601 LINE",
+"401 1840 LINE",
+"274 1840 LINE",
+"559 1580 LINE"
+);
+}
+);
+width = 1200;
+},
+{
+anchors = (
+{
+name = _top;
+position = "{600, 1420}";
+},
+{
+name = top;
+position = "{600, 1800}";
+}
+);
+layerId = "1F90C004-9C90-48FA-B407-176B3E9F1E65";
+paths = (
+{
+closed = 1;
+nodes = (
+"686 1580 LINE",
+"946 1840 LINE",
+"724 1840 LINE",
+"590 1684 LINE",
+"610 1684 LINE",
+"476 1840 LINE",
+"254 1840 LINE",
+"514 1580 LINE"
+);
+}
+);
+width = 1200;
+},
+{
+anchors = (
+{
+name = _top;
+position = "{600, 1420}";
+},
+{
+name = top;
+position = "{600, 1800}";
+}
+);
+layerId = "8E053A5E-67DA-4970-A6F5-068DBFE5AD21";
+paths = (
+{
+closed = 1;
+nodes = (
+"736 1580 LINE",
+"979 1840 LINE",
+"682 1840 LINE",
+"590 1709 LINE",
+"610 1709 LINE",
+"518 1840 LINE",
+"221 1840 LINE",
+"464 1580 LINE"
+);
+}
+);
+width = 1200;
+}
+);
+}

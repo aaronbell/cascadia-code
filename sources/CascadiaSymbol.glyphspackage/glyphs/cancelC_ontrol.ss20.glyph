@@ -1,0 +1,132 @@
+{
+glyphname = cancelControl.ss20;
+layers = (
+{
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"1125 1145 LINE",
+"1062 1203 LINE",
+"75 275 LINE",
+"138 219 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"1125 185 LINE",
+"1125 275 LINE",
+"75 275 LINE",
+"75 185 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"1125 275 LINE",
+"138 1203 LINE",
+"75 1145 LINE",
+"1062 219 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"1125 1145 LINE",
+"1125 1235 LINE",
+"75 1235 LINE",
+"75 1145 LINE"
+);
+}
+);
+width = 1200;
+},
+{
+layerId = "1F90C004-9C90-48FA-B407-176B3E9F1E65";
+paths = (
+{
+closed = 1;
+nodes = (
+"1125 1085 LINE",
+"1002 1143 LINE",
+"75 335 LINE",
+"198 279 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"1125 185 LINE",
+"1125 335 LINE",
+"75 335 LINE",
+"75 185 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"1125 335 LINE",
+"198 1143 LINE",
+"75 1085 LINE",
+"1002 279 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"1125 1085 LINE",
+"1125 1235 LINE",
+"75 1235 LINE",
+"75 1085 LINE"
+);
+}
+);
+width = 1200;
+},
+{
+layerId = "8E053A5E-67DA-4970-A6F5-068DBFE5AD21";
+paths = (
+{
+closed = 1;
+nodes = (
+"1125 993 LINE",
+"962 1051 LINE",
+"75 427 LINE",
+"238 371 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"1125 185 LINE",
+"1125 427 LINE",
+"75 427 LINE",
+"75 185 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"1125 427 LINE",
+"238 1051 LINE",
+"75 993 LINE",
+"962 371 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"1125 993 LINE",
+"1125 1235 LINE",
+"75 1235 LINE",
+"75 993 LINE"
+);
+}
+);
+width = 1200;
+}
+);
+widthMetricsKey = space;
+}

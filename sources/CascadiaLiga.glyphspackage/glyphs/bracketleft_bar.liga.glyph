@@ -1,0 +1,123 @@
+{
+glyphname = bracketleft_bar.liga;
+layers = (
+{
+components = (
+{
+name = bar;
+transform = "{1, 0, 0, 1, 1154, 0}";
+}
+);
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"662 -214 LINE",
+"662 1634 LINE",
+"564 1634 LINE",
+"564 -214 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"1248 -214 LINE",
+"1248 -122 LINE",
+"642 -122 LINE",
+"642 -214 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"1248 1542 LINE",
+"1248 1634 LINE",
+"642 1634 LINE",
+"642 1542 LINE"
+);
+}
+);
+width = 1200;
+},
+{
+components = (
+{
+name = bar;
+transform = "{1, 0, 0, 1, 1154, 0}";
+}
+);
+layerId = "1F90C004-9C90-48FA-B407-176B3E9F1E65";
+paths = (
+{
+closed = 1;
+nodes = (
+"748 -214 LINE",
+"748 1634 LINE",
+"540 1634 LINE",
+"540 -214 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"1348 -214 LINE",
+"1348 -24 LINE",
+"728 -24 LINE",
+"728 -214 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"1348 1444 LINE",
+"1348 1634 LINE",
+"728 1634 LINE",
+"728 1444 LINE"
+);
+}
+);
+width = 1200;
+},
+{
+components = (
+{
+alignment = -1;
+name = bar;
+transform = "{1, 0, 0, 1, 1154, 0}";
+}
+);
+layerId = "8E053A5E-67DA-4970-A6F5-068DBFE5AD21";
+paths = (
+{
+closed = 1;
+nodes = (
+"774 -214 LINE",
+"774 1634 LINE",
+"510 1634 LINE",
+"510 -214 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"1351 -214 LINE",
+"1351 38 LINE",
+"754 38 LINE",
+"754 -214 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"1351 1382 LINE",
+"1351 1634 LINE",
+"754 1634 LINE",
+"754 1382 LINE"
+);
+}
+);
+width = 1200;
+}
+);
+}

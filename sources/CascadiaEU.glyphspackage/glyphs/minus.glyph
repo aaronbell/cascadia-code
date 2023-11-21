@@ -1,0 +1,56 @@
+{
+glyphname = minus;
+layers = (
+{
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"1076 664 LINE",
+"1076 754 LINE",
+"124 754 LINE",
+"124 664 LINE"
+);
+}
+);
+width = 1200;
+},
+{
+guideLines = (
+{
+position = "{734, 707}";
+}
+);
+layerId = "1F90C004-9C90-48FA-B407-176B3E9F1E65";
+paths = (
+{
+closed = 1;
+nodes = (
+"1100 616 LINE",
+"1100 802 LINE",
+"100 802 LINE",
+"100 616 LINE"
+);
+}
+);
+width = 1200;
+},
+{
+layerId = "8E053A5E-67DA-4970-A6F5-068DBFE5AD21";
+paths = (
+{
+closed = 1;
+nodes = (
+"1117 584 LINE",
+"1117 834 LINE",
+"83 834 LINE",
+"83 584 LINE"
+);
+}
+);
+width = 1200;
+}
+);
+unicode = 2212;
+}

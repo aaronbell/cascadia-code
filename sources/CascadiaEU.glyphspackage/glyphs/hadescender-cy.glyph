@@ -1,0 +1,86 @@
+{
+glyphname = "hadescender-cy";
+production = uni04B3;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+position = "{600, -270}";
+}
+);
+components = (
+{
+name = "ha-cy";
+}
+);
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"1098 -270 LINE",
+"1097 90 LINE",
+"1001 90 LINE",
+"1002 -270 LINE"
+);
+}
+);
+width = 1200;
+},
+{
+anchors = (
+{
+name = bottom;
+position = "{600, -270}";
+}
+);
+components = (
+{
+name = "ha-cy";
+}
+);
+layerId = "1F90C004-9C90-48FA-B407-176B3E9F1E65";
+paths = (
+{
+closed = 1;
+nodes = (
+"1156 -270 LINE",
+"1156 190 LINE",
+"956 190 LINE",
+"956 -270 LINE"
+);
+}
+);
+width = 1200;
+},
+{
+anchors = (
+{
+name = bottom;
+position = "{600, -270}";
+}
+);
+components = (
+{
+alignment = -1;
+name = "ha-cy";
+}
+);
+layerId = "8E053A5E-67DA-4970-A6F5-068DBFE5AD21";
+paths = (
+{
+closed = 1;
+nodes = (
+"1173 -270 LINE",
+"1173 252 LINE",
+"904 252 LINE",
+"904 -270 LINE"
+);
+}
+);
+width = 1200;
+}
+);
+unicode = 04B3;
+}

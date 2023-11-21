@@ -1,0 +1,92 @@
+{
+glyphname = "alef-ar.short";
+layers = (
+{
+anchors = (
+{
+name = bottom;
+position = "{610, -141}";
+},
+{
+name = bottom.dot;
+position = "{610, -26}";
+},
+{
+name = top.dot;
+position = "{588, 1204}";
+}
+);
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"654 0 LINE",
+"633 1190 LINE",
+"541 1190 LINE",
+"562 0 LINE"
+);
+}
+);
+width = 1200;
+},
+{
+anchors = (
+{
+name = bottom;
+position = "{610, -141}";
+},
+{
+name = bottom.dot;
+position = "{610, -26}";
+},
+{
+name = top.dot;
+position = "{588, 1204}";
+}
+);
+layerId = "1F90C004-9C90-48FA-B407-176B3E9F1E65";
+paths = (
+{
+closed = 1;
+nodes = (
+"711 0 LINE",
+"690 1198 LINE",
+"484 1198 LINE",
+"505 0 LINE"
+);
+}
+);
+width = 1200;
+},
+{
+anchors = (
+{
+name = bottom;
+position = "{610, -141}";
+},
+{
+name = bottom.dot;
+position = "{610, -26}";
+},
+{
+name = top.dot;
+position = "{588, 1204}";
+}
+);
+layerId = "8E053A5E-67DA-4970-A6F5-068DBFE5AD21";
+paths = (
+{
+closed = 1;
+nodes = (
+"745 0 LINE",
+"724 1197 LINE",
+"450 1197 LINE",
+"471 0 LINE"
+);
+}
+);
+width = 1200;
+}
+);
+}

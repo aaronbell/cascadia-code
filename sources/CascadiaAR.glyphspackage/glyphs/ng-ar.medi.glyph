@@ -1,0 +1,63 @@
+{
+glyphname = "ng-ar.medi";
+layers = (
+{
+anchors = (
+{
+name = top;
+position = "{390, 1594}";
+}
+);
+components = (
+{
+name = "kaf-ar.medi";
+},
+{
+name = "threedotsupabove-ar.v2";
+transform = "{0.9, 0, 0, 0.9, -15, 607}";
+}
+);
+layerId = master01;
+width = 1200;
+},
+{
+anchors = (
+{
+name = top;
+position = "{350, 1654}";
+}
+);
+components = (
+{
+name = "kaf-ar.medi";
+},
+{
+name = "threedotsupabove-ar.v2";
+transform = "{0.7, 0, 0, 0.7, 105, 758}";
+}
+);
+layerId = "8E053A5E-67DA-4970-A6F5-068DBFE5AD21";
+width = 1200;
+},
+{
+anchors = (
+{
+name = top;
+position = "{374, 1634}";
+}
+);
+components = (
+{
+name = "kaf-ar.medi";
+},
+{
+anchor = top.dot;
+name = "threedotsupabove-ar.v2";
+transform = "{0.8, 0, 0, 0.8, -52, 677}";
+}
+);
+layerId = "1F90C004-9C90-48FA-B407-176B3E9F1E65";
+width = 1200;
+}
+);
+}

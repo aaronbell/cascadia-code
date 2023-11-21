@@ -1,0 +1,65 @@
+{
+glyphname = "one-arinferior";
+layers = (
+{
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"699 214 OFFCURVE",
+"673 448 OFFCURVE",
+"611 638 CURVE",
+"519 619 LINE",
+"576 427 OFFCURVE",
+"603 214 OFFCURVE",
+"597 0 CURVE",
+"689 -1 LINE"
+);
+}
+);
+width = 1200;
+},
+{
+layerId = "8E053A5E-67DA-4970-A6F5-068DBFE5AD21";
+paths = (
+{
+closed = 1;
+nodes = (
+"744 217 OFFCURVE",
+"718 443 OFFCURVE",
+"653 638 CURVE",
+"477 605 LINE",
+"532 413 OFFCURVE",
+"558 206 OFFCURVE",
+"555 0 CURVE",
+"731 -1 LINE"
+);
+}
+);
+width = 1200;
+},
+{
+layerId = "1F90C004-9C90-48FA-B407-176B3E9F1E65";
+paths = (
+{
+closed = 1;
+nodes = (
+"732 217 OFFCURVE",
+"706 443 OFFCURVE",
+"641 638 CURVE",
+"489 605 LINE",
+"544 413 OFFCURVE",
+"570 206 OFFCURVE",
+"567 0 CURVE",
+"719 -1 LINE"
+);
+}
+);
+width = 1200;
+}
+);
+script = arabic;
+category = Number;
+subCategory = Small;
+}

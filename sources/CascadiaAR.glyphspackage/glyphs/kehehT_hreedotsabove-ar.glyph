@@ -1,0 +1,64 @@
+{
+glyphname = "kehehThreedotsabove-ar";
+layers = (
+{
+anchors = (
+{
+name = top;
+position = "{592, 1674}";
+}
+);
+components = (
+{
+name = "keheh-ar";
+},
+{
+name = "threedotsupabove-ar.v2";
+transform = "{1.0001, 0, 0, 1, -75, 532}";
+}
+);
+layerId = master01;
+width = 1200;
+},
+{
+anchors = (
+{
+name = top;
+position = "{612, 1634}";
+}
+);
+components = (
+{
+name = "keheh-ar";
+},
+{
+name = "threedotsupabove-ar.v2";
+transform = "{0.7, 0, 0, 0.7, 105, 758}";
+}
+);
+layerId = "8E053A5E-67DA-4970-A6F5-068DBFE5AD21";
+width = 1200;
+},
+{
+anchors = (
+{
+name = top;
+position = "{611.7, 1673.8}";
+}
+);
+components = (
+{
+name = "keheh-ar";
+},
+{
+anchor = top.dot;
+name = "threedotsupabove-ar.v2";
+transform = "{0.9, 0, 0, 0.9, 114, 619}";
+}
+);
+layerId = "1F90C004-9C90-48FA-B407-176B3E9F1E65";
+width = 1200;
+}
+);
+unicode = 0763;
+}

@@ -1,0 +1,144 @@
+{
+glyphname = "kaf-hb";
+layers = (
+{
+anchors = (
+{
+name = center;
+position = "{440, 590}";
+}
+);
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"902 0 LINE",
+"902 829 LINE SMOOTH",
+"902 1065 OFFCURVE",
+"759 1200 OFFCURVE",
+"521 1200 CURVE SMOOTH",
+"290 1200 LINE SMOOTH",
+"240 1200 OFFCURVE",
+"198 1230 OFFCURVE",
+"168 1253 CURVE",
+"114 1174 LINE",
+"149 1143 OFFCURVE",
+"192 1101 OFFCURVE",
+"269 1101 CURVE SMOOTH",
+"521 1101 LINE SMOOTH",
+"698 1101 OFFCURVE",
+"803 997 OFFCURVE",
+"803 809 CURVE SMOOTH",
+"803 0 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"889 0 LINE",
+"889 97 LINE",
+"135 97 LINE",
+"135 0 LINE"
+);
+}
+);
+width = 1200;
+},
+{
+anchors = (
+{
+name = center;
+position = "{442, 607}";
+}
+);
+guideLines = (
+{
+angle = 90;
+position = "{148, 806}";
+}
+);
+layerId = "8E053A5E-67DA-4970-A6F5-068DBFE5AD21";
+paths = (
+{
+closed = 1;
+nodes = (
+"994 0 LINE",
+"994 809 LINE SMOOTH",
+"994 1067 OFFCURVE",
+"850 1200 OFFCURVE",
+"563 1200 CURVE SMOOTH",
+"423 1200 LINE SMOOTH",
+"350 1200 OFFCURVE",
+"268 1234 OFFCURVE",
+"238 1253 CURVE",
+"148 1018 LINE",
+"214 970 OFFCURVE",
+"311 930 OFFCURVE",
+"424 930 CURVE SMOOTH",
+"509 930 LINE SMOOTH",
+"692 930 OFFCURVE",
+"736 874 OFFCURVE",
+"736 639 CURVE SMOOTH",
+"736 0 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"994 0 LINE",
+"994 270 LINE",
+"150 270 LINE",
+"150 0 LINE"
+);
+}
+);
+width = 1200;
+},
+{
+anchors = (
+{
+name = center;
+position = "{441, 600}";
+}
+);
+layerId = "1F90C004-9C90-48FA-B407-176B3E9F1E65";
+paths = (
+{
+closed = 1;
+nodes = (
+"956 0 LINE",
+"956 817 LINE SMOOTH",
+"956 1066 OFFCURVE",
+"813 1200 OFFCURVE",
+"546 1200 CURVE SMOOTH",
+"368 1200 LINE SMOOTH",
+"305 1200 OFFCURVE",
+"239 1232 OFFCURVE",
+"209 1253 CURVE",
+"134 1082 LINE",
+"187 1041 OFFCURVE",
+"262 1000 OFFCURVE",
+"360 1000 CURVE SMOOTH",
+"514 1000 LINE SMOOTH",
+"694 1000 OFFCURVE",
+"763 924 OFFCURVE",
+"763 709 CURVE SMOOTH",
+"763 0 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"951 0 LINE",
+"951 199 LINE",
+"144 199 LINE",
+"144 0 LINE"
+);
+}
+);
+width = 1200;
+}
+);
+unicode = 05DB;
+}

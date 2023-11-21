@@ -1,0 +1,47 @@
+{
+glyphname = "teheh-ar.fina";
+layers = (
+{
+components = (
+{
+name = "behDotless-ar.fina";
+},
+{
+anchor = top.dot;
+name = "fourdotsabove-ar";
+transform = "{1, 0, 0, 1, -10, 93}";
+}
+);
+layerId = master01;
+width = 1200;
+},
+{
+components = (
+{
+name = "behDotless-ar.fina";
+},
+{
+anchor = top.dot;
+name = "fourdotsabove-ar";
+transform = "{1, 0, 0, 1, -10, 93}";
+}
+);
+layerId = "8E053A5E-67DA-4970-A6F5-068DBFE5AD21";
+width = 1200;
+},
+{
+components = (
+{
+name = "behDotless-ar.fina";
+},
+{
+anchor = top.dot;
+name = "fourdotsabove-ar";
+transform = "{1, 0, 0, 1, -10, 93}";
+}
+);
+layerId = "1F90C004-9C90-48FA-B407-176B3E9F1E65";
+width = 1200;
+}
+);
+}

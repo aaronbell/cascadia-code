@@ -1,0 +1,95 @@
+{
+glyphname = colonsign;
+production = colonmonetary;
+layers = (
+{
+components = (
+{
+name = C;
+}
+);
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"1029 1692 LINE",
+"933 1716 LINE",
+"547 -306 LINE",
+"633 -330 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"739 1692 LINE",
+"643 1716 LINE",
+"257 -306 LINE",
+"343 -330 LINE"
+);
+}
+);
+width = 1200;
+},
+{
+components = (
+{
+name = C;
+}
+);
+layerId = "1F90C004-9C90-48FA-B407-176B3E9F1E65";
+paths = (
+{
+closed = 1;
+nodes = (
+"1029 1692 LINE",
+"893 1716 LINE",
+"537 -306 LINE",
+"673 -330 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"749 1692 LINE",
+"613 1716 LINE",
+"257 -306 LINE",
+"393 -330 LINE"
+);
+}
+);
+width = 1200;
+},
+{
+components = (
+{
+alignment = -1;
+name = C;
+}
+);
+layerId = "8E053A5E-67DA-4970-A6F5-068DBFE5AD21";
+paths = (
+{
+closed = 1;
+nodes = (
+"1096 1692 LINE",
+"893 1716 LINE",
+"537 -306 LINE",
+"740 -330 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"799 1692 LINE",
+"596 1716 LINE",
+"240 -306 LINE",
+"443 -330 LINE"
+);
+}
+);
+width = 1200;
+}
+);
+unicode = 20A1;
+}

@@ -1,0 +1,95 @@
+{
+glyphname = "doubleverticalbarbelowSymbol-ar.comb";
+layers = (
+{
+anchors = (
+{
+name = _bottom;
+position = "{612, -62}";
+}
+);
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"792 -434 LINE",
+"783 -77 LINE",
+"690 -77 LINE",
+"700 -434 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"536 -434 LINE",
+"527 -77 LINE",
+"434 -77 LINE",
+"443 -434 LINE"
+);
+}
+);
+width = 1200;
+},
+{
+anchors = (
+{
+name = _bottom;
+position = "{612, -62}";
+}
+);
+layerId = "1F90C004-9C90-48FA-B407-176B3E9F1E65";
+paths = (
+{
+closed = 1;
+nodes = (
+"817 -434 LINE",
+"808 -77 LINE",
+"650 -77 LINE",
+"660 -434 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"576 -434 LINE",
+"567 -77 LINE",
+"409 -77 LINE",
+"418 -434 LINE"
+);
+}
+);
+width = 1200;
+},
+{
+anchors = (
+{
+name = _bottom;
+position = "{612, -62}";
+}
+);
+layerId = "8E053A5E-67DA-4970-A6F5-068DBFE5AD21";
+paths = (
+{
+closed = 1;
+nodes = (
+"827 -434 LINE",
+"818 -77 LINE",
+"640 -77 LINE",
+"650 -434 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"586 -434 LINE",
+"577 -77 LINE",
+"399 -77 LINE",
+"408 -434 LINE"
+);
+}
+);
+width = 1200;
+}
+);
+}

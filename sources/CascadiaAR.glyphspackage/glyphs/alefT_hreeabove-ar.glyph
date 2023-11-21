@@ -1,0 +1,78 @@
+{
+glyphname = "alefThreeabove-ar";
+layers = (
+{
+anchors = (
+{
+name = bottom;
+position = "{610, -141}";
+},
+{
+name = top;
+position = "{461, 1570}";
+}
+);
+components = (
+{
+name = "alef-ar.short";
+},
+{
+alignment = -1;
+name = "three-persian.small01";
+transform = "{1, 0, 0, 1, -166, -84}";
+}
+);
+layerId = master01;
+width = 1200;
+},
+{
+anchors = (
+{
+name = bottom;
+position = "{610, -141}";
+},
+{
+name = top;
+position = "{411, 1570}";
+}
+);
+components = (
+{
+name = "alef-ar.short";
+},
+{
+alignment = -1;
+name = "three-persian.small01";
+transform = "{1, 0, 0, 1, -216, -84}";
+}
+);
+layerId = "8E053A5E-67DA-4970-A6F5-068DBFE5AD21";
+width = 1200;
+},
+{
+anchors = (
+{
+name = bottom;
+position = "{610, -141}";
+},
+{
+name = top;
+position = "{441, 1570}";
+}
+);
+components = (
+{
+name = "alef-ar.short";
+},
+{
+alignment = -1;
+name = "three-persian.small01";
+transform = "{1, 0, 0, 1, -186, -84}";
+}
+);
+layerId = "1F90C004-9C90-48FA-B407-176B3E9F1E65";
+width = 1200;
+}
+);
+unicode = 0774;
+}

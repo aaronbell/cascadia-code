@@ -1,0 +1,68 @@
+{
+glyphname = "highhamzaYeh-ar.init";
+layers = (
+{
+anchors = (
+{
+name = top;
+position = "{792, 1325}";
+}
+);
+components = (
+{
+name = "behDotless-ar.init";
+},
+{
+alignment = -1;
+anchor = top.dot;
+name = "highhamza-ar";
+transform = "{1, 0, 0, 1, 532, -341}";
+}
+);
+layerId = master01;
+width = 1200;
+},
+{
+anchors = (
+{
+name = top;
+position = "{792, 1325}";
+}
+);
+components = (
+{
+name = "behDotless-ar.init";
+},
+{
+alignment = -1;
+anchor = top.dot;
+name = "highhamza-ar";
+transform = "{1, 0, 0, 1, 532, -213}";
+}
+);
+layerId = "8E053A5E-67DA-4970-A6F5-068DBFE5AD21";
+width = 1200;
+},
+{
+anchors = (
+{
+name = top;
+position = "{792, 1325}";
+}
+);
+components = (
+{
+name = "behDotless-ar.init";
+},
+{
+alignment = -1;
+anchor = top.dot;
+name = "highhamza-ar";
+transform = "{1, 0, 0, 1, 532, -223}";
+}
+);
+layerId = "1F90C004-9C90-48FA-B407-176B3E9F1E65";
+width = 1200;
+}
+);
+}

@@ -1,0 +1,66 @@
+{
+glyphname = gstroke;
+layers = (
+{
+components = (
+{
+name = g;
+}
+);
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"1156 -223 LINE",
+"1156 -135 LINE",
+"44 -135 LINE",
+"44 -223 LINE"
+);
+}
+);
+width = 1200;
+},
+{
+components = (
+{
+name = g;
+}
+);
+layerId = "1F90C004-9C90-48FA-B407-176B3E9F1E65";
+paths = (
+{
+closed = 1;
+nodes = (
+"1156 -193 LINE",
+"1156 -85 LINE",
+"44 -85 LINE",
+"44 -193 LINE"
+);
+}
+);
+width = 1200;
+},
+{
+components = (
+{
+name = g;
+}
+);
+layerId = "8E053A5E-67DA-4970-A6F5-068DBFE5AD21";
+paths = (
+{
+closed = 1;
+nodes = (
+"1156 -173 LINE",
+"1156 -65 LINE",
+"44 -65 LINE",
+"44 -173 LINE"
+);
+}
+);
+width = 1200;
+}
+);
+unicode = 01E5;
+}

@@ -1,0 +1,91 @@
+{
+glyphname = downArrow;
+production = arrowdown;
+layers = (
+{
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"553 1420 LINE",
+"553 40 LINE",
+"647 40 LINE",
+"647 1420 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"949 432 LINE",
+"609 93 LINE",
+"591 93 LINE",
+"251 432 LINE",
+"194 368 LINE",
+"589 -20 LINE",
+"611 -20 LINE",
+"1006 368 LINE"
+);
+}
+);
+width = 1200;
+},
+{
+layerId = "1F90C004-9C90-48FA-B407-176B3E9F1E65";
+paths = (
+{
+closed = 1;
+nodes = (
+"506 1420 LINE",
+"506 66 LINE",
+"694 66 LINE",
+"694 1420 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"1006 556 LINE",
+"608 174 LINE",
+"590 174 LINE",
+"194 556 LINE",
+"79 426 LINE",
+"538 -20 LINE",
+"660 -20 LINE",
+"1121 426 LINE"
+);
+}
+);
+width = 1200;
+},
+{
+layerId = "8E053A5E-67DA-4970-A6F5-068DBFE5AD21";
+paths = (
+{
+closed = 1;
+nodes = (
+"469 1420 LINE",
+"469 169 LINE",
+"731 169 LINE",
+"731 1420 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"1006 650 LINE",
+"609 264 LINE",
+"591 264 LINE",
+"194 650 LINE",
+"39 470 LINE",
+"539 -20 LINE",
+"661 -20 LINE",
+"1161 470 LINE"
+);
+}
+);
+width = 1200;
+}
+);
+unicode = 2193;
+}

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="divide" format="2">
+  <advance width="1200"/>
+  <unicode hex="00F7"/>
+  <outline>
+    <contour>
+      <point x="124" y="664" type="line"/>
+      <point x="1076" y="664" type="line"/>
+      <point x="1076" y="754" type="line"/>
+      <point x="124" y="754" type="line"/>
+    </contour>
+    <component base="period" yOffset="195"/>
+    <component base="period" yOffset="1039"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
+      <string>CCP</string>
+    </dict>
+  </lib>
+</glyph>

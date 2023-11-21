@@ -1,0 +1,99 @@
+{
+glyphname = "sad-ar.fina.alt";
+layers = (
+{
+components = (
+{
+name = "sad-ar.alt";
+}
+);
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"1250 -3 OFFCURVE",
+"1276 13 OFFCURVE",
+"1276 44 CURVE SMOOTH",
+"1276 76 OFFCURVE",
+"1263 91 OFFCURVE",
+"1200 91 CURVE SMOOTH",
+"1111 91 OFFCURVE",
+"986 91 OFFCURVE",
+"859 102 CURVE",
+"818 49 LINE",
+"881 49 LINE",
+"899 10 OFFCURVE",
+"923 -3 OFFCURVE",
+"1189 -3 CURVE SMOOTH"
+);
+}
+);
+userData = {
+com.schriftgestaltung.Glyphs.lastChange = "2020-11-20 22:35:32 +0000";
+};
+width = 1200;
+},
+{
+components = (
+{
+name = "sad-ar.alt";
+}
+);
+layerId = "8E053A5E-67DA-4970-A6F5-068DBFE5AD21";
+paths = (
+{
+closed = 1;
+nodes = (
+"1236 -10 OFFCURVE",
+"1275 41 OFFCURVE",
+"1275 155 CURVE SMOOTH",
+"1275 246 OFFCURVE",
+"1251 285 OFFCURVE",
+"1200 285 CURVE SMOOTH",
+"1056 285 OFFCURVE",
+"940 287 OFFCURVE",
+"862 295 CURVE",
+"786 76 LINE",
+"962 72 LINE",
+"995 18 OFFCURVE",
+"1041 -10 OFFCURVE",
+"1188 -10 CURVE SMOOTH"
+);
+}
+);
+width = 1200;
+},
+{
+components = (
+{
+name = "sad-ar.alt";
+transform = "{1, 0, 0, 1, -1, 0}";
+}
+);
+layerId = "1F90C004-9C90-48FA-B407-176B3E9F1E65";
+paths = (
+{
+closed = 1;
+nodes = (
+"1250 -6 OFFCURVE",
+"1280 31 OFFCURVE",
+"1280 116 CURVE SMOOTH",
+"1280 184 OFFCURVE",
+"1256 206 OFFCURVE",
+"1200 206 CURVE SMOOTH",
+"1051 206 OFFCURVE",
+"986 210 OFFCURVE",
+"919 227 CURVE",
+"854 72 LINE",
+"922 72 LINE",
+"951 12 OFFCURVE",
+"1013 -6 OFFCURVE",
+"1189 -6 CURVE SMOOTH"
+);
+}
+);
+width = 1200;
+}
+);
+}

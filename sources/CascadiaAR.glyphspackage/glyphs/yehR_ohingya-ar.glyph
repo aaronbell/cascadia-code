@@ -1,0 +1,58 @@
+{
+glyphname = "yehRohingya-ar";
+layers = (
+{
+components = (
+{
+name = "_yehRohingya-ar.fina";
+},
+{
+name = "twodotshorizontalbelow-ar";
+transform = "{1, 0, 0, 1, 249, -24}";
+}
+);
+guideLines = (
+{
+position = "{243, -194}";
+}
+);
+layerId = master01;
+width = 1200;
+},
+{
+components = (
+{
+name = "_yehRohingya-ar.fina";
+},
+{
+name = "twodotshorizontalbelow-ar";
+transform = "{1, 0, 0, 1, 249, -24}";
+}
+);
+guideLines = (
+{
+angle = 90;
+position = "{243, -198}";
+}
+);
+layerId = "8E053A5E-67DA-4970-A6F5-068DBFE5AD21";
+width = 1200;
+},
+{
+components = (
+{
+name = "_yehRohingya-ar.fina";
+},
+{
+anchor = bottom.dot;
+name = "twodotshorizontalbelow-ar";
+transform = "{1, 0, 0, 1, 249, -24}";
+}
+);
+layerId = "1F90C004-9C90-48FA-B407-176B3E9F1E65";
+width = 1200;
+}
+);
+rightMetricsKey = _part.instroke;
+unicode = 08AC;
+}

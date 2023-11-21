@@ -1,0 +1,62 @@
+{
+glyphname = "seenThreedotsbelowthreedots-ar.alt";
+layers = (
+{
+components = (
+{
+name = "seen-ar.alt";
+},
+{
+anchor = top.dot;
+name = "threedotsupabove-ar";
+transform = "{1, 0, 0, 1, -179, 153}";
+},
+{
+anchor = bottom.dot;
+name = "threedotsdownbelow-ar";
+transform = "{1, 0, 0, 1, -188, -18}";
+}
+);
+layerId = master01;
+width = 1200;
+},
+{
+components = (
+{
+name = "seen-ar.alt";
+},
+{
+anchor = top.dot;
+name = "threedotsupabove-ar";
+transform = "{1, 0, 0, 1, -199, 153}";
+},
+{
+anchor = bottom.dot;
+name = "threedotsdownbelow-ar";
+transform = "{1, 0, 0, 1, -178, -18}";
+}
+);
+layerId = "8E053A5E-67DA-4970-A6F5-068DBFE5AD21";
+width = 1200;
+},
+{
+components = (
+{
+name = "seen-ar.alt";
+},
+{
+anchor = top.dot;
+name = "threedotsupabove-ar";
+transform = "{1, 0, 0, 1, -169, 153}";
+},
+{
+anchor = bottom.dot;
+name = "threedotsdownbelow-ar";
+transform = "{1, 0, 0, 1, -168, -18}";
+}
+);
+layerId = "1F90C004-9C90-48FA-B407-176B3E9F1E65";
+width = 1200;
+}
+);
+}

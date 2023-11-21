@@ -1,0 +1,48 @@
+{
+glyphname = uni08B3;
+layers = (
+{
+components = (
+{
+name = "ain-ar";
+},
+{
+name = "threedotsdowncenter-ar";
+transform = "{1.001, 0, 0, 1, 58, -436}";
+}
+);
+layerId = master01;
+width = 1200;
+},
+{
+components = (
+{
+name = "ain-ar";
+},
+{
+name = "threedotsdowncenter-ar";
+transform = "{0.7, 0, 0, 0.7, 239, -319}";
+}
+);
+layerId = "8E053A5E-67DA-4970-A6F5-068DBFE5AD21";
+width = 1200;
+},
+{
+components = (
+{
+name = "ain-ar";
+},
+{
+name = "threedotsdowncenter-ar";
+transform = "{0.84, 0, 0, 0.84, 155, -385}";
+}
+);
+layerId = "1F90C004-9C90-48FA-B407-176B3E9F1E65";
+width = 1200;
+}
+);
+unicode = 08B3;
+script = arabic;
+category = Letter;
+subCategory = Other;
+}

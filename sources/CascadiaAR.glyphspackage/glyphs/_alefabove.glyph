@@ -1,0 +1,62 @@
+{
+glyphname = _alefabove;
+layers = (
+{
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"663 578 LINE",
+"673 698 OFFCURVE",
+"662 868 OFFCURVE",
+"628 999 CURVE",
+"534 999 LINE",
+"566 864 OFFCURVE",
+"577 721 OFFCURVE",
+"577 578 CURVE"
+);
+}
+);
+width = 1200;
+},
+{
+layerId = "1F90C004-9C90-48FA-B407-176B3E9F1E65";
+paths = (
+{
+closed = 1;
+nodes = (
+"696 578 LINE",
+"707 678 OFFCURVE",
+"697 868 OFFCURVE",
+"663 999 CURVE",
+"499 999 LINE",
+"531 864 OFFCURVE",
+"544 721 OFFCURVE",
+"544 578 CURVE"
+);
+}
+);
+width = 1200;
+},
+{
+layerId = "8E053A5E-67DA-4970-A6F5-068DBFE5AD21";
+paths = (
+{
+closed = 1;
+nodes = (
+"716 568 LINE",
+"727 668 OFFCURVE",
+"717 878 OFFCURVE",
+"683 1009 CURVE",
+"479 1009 LINE",
+"511 874 OFFCURVE",
+"524 711 OFFCURVE",
+"524 568 CURVE"
+);
+}
+);
+width = 1200;
+}
+);
+}

@@ -1,0 +1,78 @@
+{
+glyphname = colontriangularmod;
+layers = (
+{
+guideLines = (
+{
+angle = 90;
+position = "{600, 663}";
+}
+);
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"750 1060 LINE",
+"450 1060 LINE",
+"600 780 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"750 0 LINE",
+"600 280 LINE",
+"450 0 LINE"
+);
+}
+);
+width = 1200;
+},
+{
+layerId = "1F90C004-9C90-48FA-B407-176B3E9F1E65";
+paths = (
+{
+closed = 1;
+nodes = (
+"800 1060 LINE",
+"400 1060 LINE",
+"600 700 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"800 0 LINE",
+"600 360 LINE",
+"400 0 LINE"
+);
+}
+);
+width = 1200;
+},
+{
+layerId = "8E053A5E-67DA-4970-A6F5-068DBFE5AD21";
+paths = (
+{
+closed = 1;
+nodes = (
+"860 1060 LINE",
+"340 1060 LINE",
+"600 620 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"860 0 LINE",
+"600 440 LINE",
+"340 0 LINE"
+);
+}
+);
+width = 1200;
+}
+);
+unicode = 02D0;
+}

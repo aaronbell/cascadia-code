@@ -1,0 +1,66 @@
+{
+glyphname = "kashida-ar";
+layers = (
+{
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"1188 -3 LINE SMOOTH",
+"1236 -3 OFFCURVE",
+"1265 11 OFFCURVE",
+"1265 45 CURVE SMOOTH",
+"1265 76 OFFCURVE",
+"1251 91 OFFCURVE",
+"1200 91 CURVE SMOOTH",
+"0 91 LINE",
+"-12 -3 LINE"
+);
+}
+);
+width = 1200;
+},
+{
+layerId = "1F90C004-9C90-48FA-B407-176B3E9F1E65";
+paths = (
+{
+closed = 1;
+nodes = (
+"1188 -6 LINE SMOOTH",
+"1236 -6 OFFCURVE",
+"1275 21 OFFCURVE",
+"1275 115 CURVE SMOOTH",
+"1275 166 OFFCURVE",
+"1251 206 OFFCURVE",
+"1200 206 CURVE SMOOTH",
+"0 206 LINE",
+"-12 -6 LINE"
+);
+}
+);
+width = 1200;
+},
+{
+layerId = "8E053A5E-67DA-4970-A6F5-068DBFE5AD21";
+paths = (
+{
+closed = 1;
+nodes = (
+"1188 -10 LINE SMOOTH",
+"1236 -10 OFFCURVE",
+"1275 41 OFFCURVE",
+"1275 145 CURVE SMOOTH",
+"1275 216 OFFCURVE",
+"1251 285 OFFCURVE",
+"1200 285 CURVE SMOOTH",
+"0 285 LINE",
+"-12 -10 LINE"
+);
+}
+);
+width = 1200;
+}
+);
+unicode = 0640;
+}

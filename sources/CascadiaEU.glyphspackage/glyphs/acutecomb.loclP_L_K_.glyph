@@ -1,0 +1,80 @@
+{
+glyphname = acutecomb.loclPLK;
+layers = (
+{
+anchors = (
+{
+name = _top;
+position = "{550, 1060}";
+},
+{
+name = top;
+position = "{550, 1580}";
+}
+);
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"602 1248 LINE",
+"698 1648 LINE",
+"598 1648 LINE",
+"508 1248 LINE"
+);
+}
+);
+width = 1200;
+},
+{
+anchors = (
+{
+name = _top;
+position = "{570, 1060}";
+},
+{
+name = top;
+position = "{570, 1580}";
+}
+);
+layerId = "1F90C004-9C90-48FA-B407-176B3E9F1E65";
+paths = (
+{
+closed = 1;
+nodes = (
+"671 1248 LINE",
+"781 1648 LINE",
+"569 1648 LINE",
+"479 1248 LINE"
+);
+}
+);
+width = 1200;
+},
+{
+anchors = (
+{
+name = _top;
+position = "{570, 1060}";
+},
+{
+name = top;
+position = "{570, 1580}";
+}
+);
+layerId = "8E053A5E-67DA-4970-A6F5-068DBFE5AD21";
+paths = (
+{
+closed = 1;
+nodes = (
+"704 1248 LINE",
+"814 1648 LINE",
+"536 1648 LINE",
+"446 1248 LINE"
+);
+}
+);
+width = 1200;
+}
+);
+}

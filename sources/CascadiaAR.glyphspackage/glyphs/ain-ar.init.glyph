@@ -1,0 +1,191 @@
+{
+glyphname = "ain-ar.init";
+layers = (
+{
+anchors = (
+{
+name = bottom;
+position = "{649, -141}";
+},
+{
+name = bottom.dot;
+position = "{649, -26}";
+},
+{
+name = top;
+position = "{640, 1085}";
+},
+{
+name = top.dot;
+position = "{641, 815}";
+}
+);
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"327 -3 OFFCURVE",
+"707 -8 OFFCURVE",
+"1044 90 CURVE",
+"1034 176 LINE",
+"888 141 OFFCURVE",
+"771 119 OFFCURVE",
+"676 119 CURVE SMOOTH",
+"455 119 OFFCURVE",
+"389 225 OFFCURVE",
+"389 369 CURVE SMOOTH",
+"389 535 OFFCURVE",
+"490 621 OFFCURVE",
+"692 621 CURVE SMOOTH",
+"774 621 OFFCURVE",
+"857 603 OFFCURVE",
+"936 581 CURVE",
+"944 663 LINE",
+"873 692 OFFCURVE",
+"767 715 OFFCURVE",
+"674 715 CURVE SMOOTH",
+"462 715 OFFCURVE",
+"297 602 OFFCURVE",
+"297 371 CURVE SMOOTH",
+"297 200 OFFCURVE",
+"382 132 OFFCURVE",
+"443 103 CURVE",
+"443 59 LINE",
+"519 28 LINE",
+"518 96 LINE",
+"378 89 OFFCURVE",
+"228 91 OFFCURVE",
+"0 91 CURVE",
+"-17 -3 LINE"
+);
+}
+);
+width = 1200;
+},
+{
+anchors = (
+{
+name = bottom;
+position = "{671, -141}";
+},
+{
+name = bottom.dot;
+position = "{671, -26}";
+},
+{
+name = top;
+position = "{670, 1115}";
+},
+{
+name = top.dot;
+position = "{671, 845}";
+}
+);
+layerId = "1F90C004-9C90-48FA-B407-176B3E9F1E65";
+paths = (
+{
+closed = 1;
+nodes = (
+"327 -6 OFFCURVE",
+"729 -3 OFFCURVE",
+"1066 95 CURVE",
+"1047 283 LINE",
+"903 258 OFFCURVE",
+"776 242 OFFCURVE",
+"703 242 CURVE SMOOTH",
+"542 242 OFFCURVE",
+"484 261 OFFCURVE",
+"484 412 CURVE SMOOTH",
+"484 543 OFFCURVE",
+"561 591 OFFCURVE",
+"713 591 CURVE SMOOTH",
+"801 591 OFFCURVE",
+"873 577 OFFCURVE",
+"946 561 CURVE",
+"963 733 LINE",
+"877 770 OFFCURVE",
+"768 795 OFFCURVE",
+"673 795 CURVE SMOOTH",
+"431 795 OFFCURVE",
+"277 677 OFFCURVE",
+"277 448 CURVE SMOOTH",
+"277 327 OFFCURVE",
+"322 260 OFFCURVE",
+"383 231 CURVE",
+"383 187 LINE",
+"459 146 LINE",
+"458 214 LINE",
+"318 207 OFFCURVE",
+"228 206 OFFCURVE",
+"0 206 CURVE",
+"-17 -6 LINE"
+);
+}
+);
+width = 1200;
+},
+{
+anchors = (
+{
+name = bottom;
+position = "{663, -131}";
+},
+{
+name = bottom.dot;
+position = "{663, -16}";
+},
+{
+name = top;
+position = "{660, 1185}";
+},
+{
+name = top.dot;
+position = "{661, 915}";
+}
+);
+layerId = "8E053A5E-67DA-4970-A6F5-068DBFE5AD21";
+paths = (
+{
+closed = 1;
+nodes = (
+"560 -10 OFFCURVE",
+"807 40 OFFCURVE",
+"1073 97 CURVE",
+"1054 377 LINE",
+"919 360 OFFCURVE",
+"824 347 OFFCURVE",
+"741 347 CURVE SMOOTH",
+"570 347 OFFCURVE",
+"540 379 OFFCURVE",
+"540 489 CURVE SMOOTH",
+"540 580 OFFCURVE",
+"607 618 OFFCURVE",
+"734 618 CURVE SMOOTH",
+"802 618 OFFCURVE",
+"891 606 OFFCURVE",
+"972 588 CURVE",
+"989 831 LINE",
+"897 867 OFFCURVE",
+"793 892 OFFCURVE",
+"690 892 CURVE SMOOTH",
+"447 892 OFFCURVE",
+"283 745 OFFCURVE",
+"283 526 CURVE SMOOTH",
+"283 390 OFFCURVE",
+"324 351 OFFCURVE",
+"384 313 CURVE",
+"384 260 LINE",
+"512 258 LINE",
+"504 308 LINE",
+"432 291 OFFCURVE",
+"331 285 OFFCURVE",
+"0 285 CURVE",
+"-17 -10 LINE"
+);
+}
+);
+width = 1200;
+}
+);
+}

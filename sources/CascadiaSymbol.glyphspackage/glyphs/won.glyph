@@ -1,0 +1,68 @@
+{
+glyphname = won;
+production = uni20A9;
+layers = (
+{
+components = (
+{
+name = W;
+}
+);
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"1176 605 LINE",
+"1176 695 LINE",
+"24 695 LINE",
+"24 605 LINE"
+);
+}
+);
+width = 1200;
+},
+{
+components = (
+{
+name = W;
+}
+);
+layerId = "1F90C004-9C90-48FA-B407-176B3E9F1E65";
+paths = (
+{
+closed = 1;
+nodes = (
+"1200 501 LINE",
+"1200 639 LINE",
+"0 639 LINE",
+"0 501 LINE"
+);
+}
+);
+width = 1200;
+},
+{
+components = (
+{
+alignment = -1;
+name = W;
+}
+);
+layerId = "8E053A5E-67DA-4970-A6F5-068DBFE5AD21";
+paths = (
+{
+closed = 1;
+nodes = (
+"1200 388 LINE",
+"1200 609 LINE",
+"0 609 LINE",
+"0 388 LINE"
+);
+}
+);
+width = 1200;
+}
+);
+unicode = 20A9;
+}

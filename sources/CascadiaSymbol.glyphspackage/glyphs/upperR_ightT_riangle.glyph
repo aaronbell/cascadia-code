@@ -1,0 +1,83 @@
+{
+glyphname = upperRightTriangle;
+production = uni25F9;
+layers = (
+{
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"1125 1235 LINE",
+"75 1235 LINE",
+"1125 185 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"226 1216 LINE",
+"226 1145 LINE",
+"1106 1145 LINE",
+"1031 1216 LINE",
+"1031 326 LINE",
+"1114 328 LINE"
+);
+}
+);
+width = 1200;
+},
+{
+layerId = "1F90C004-9C90-48FA-B407-176B3E9F1E65";
+paths = (
+{
+closed = 1;
+nodes = (
+"1125 1235 LINE",
+"75 1235 LINE",
+"1125 185 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"380 1142 LINE",
+"356 1085 LINE",
+"1056 1085 LINE",
+"975 1166 LINE",
+"975 466 LINE",
+"1032 490 LINE"
+);
+}
+);
+width = 1200;
+},
+{
+layerId = "8E053A5E-67DA-4970-A6F5-068DBFE5AD21";
+paths = (
+{
+closed = 1;
+nodes = (
+"1125 1235 LINE",
+"75 1235 LINE",
+"1125 185 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"447 1159 LINE",
+"356 1018 LINE",
+"1056 1018 LINE",
+"908 1166 LINE",
+"908 466 LINE",
+"1099 507 LINE"
+);
+}
+);
+width = 1200;
+}
+);
+note = uni25F9;
+unicode = 25F9;
+}

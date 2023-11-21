@@ -1,0 +1,58 @@
+{
+glyphname = ocircumflexhookabove;
+production = uni1ED5;
+layers = (
+{
+components = (
+{
+name = o;
+},
+{
+name = circumflexcomb;
+},
+{
+anchor = top_viet;
+name = hookabovecomb;
+transform = "{1, 0, 0, 1, 377, 340}";
+}
+);
+layerId = master01;
+width = 1200;
+},
+{
+components = (
+{
+name = o;
+},
+{
+name = circumflexcomb;
+},
+{
+anchor = top_viet;
+name = hookabovecomb;
+transform = "{1, 0, 0, 1, 377, 340}";
+}
+);
+layerId = "1F90C004-9C90-48FA-B407-176B3E9F1E65";
+width = 1200;
+},
+{
+components = (
+{
+name = o;
+},
+{
+name = circumflexcomb;
+},
+{
+anchor = top_viet;
+name = hookabovecomb;
+transform = "{1, 0, 0, 1, 378, 340}";
+}
+);
+layerId = "8E053A5E-67DA-4970-A6F5-068DBFE5AD21";
+width = 1200;
+}
+);
+unicode = 1ED5;
+}

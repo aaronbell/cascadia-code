@@ -1,0 +1,69 @@
+{
+glyphname = dataLinkEscapeControl.ss20;
+layers = (
+{
+components = (
+{
+name = whiteSquare;
+transform = "{1, 0, 0, -1, 0, 1420}";
+}
+);
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"1091 665 LINE",
+"1091 755 LINE",
+"109 755 LINE",
+"109 665 LINE"
+);
+}
+);
+width = 1200;
+},
+{
+components = (
+{
+name = whiteSquare;
+transform = "{1, 0, 0, -1, 0, 1420}";
+}
+);
+layerId = "1F90C004-9C90-48FA-B407-176B3E9F1E65";
+paths = (
+{
+closed = 1;
+nodes = (
+"1091 635 LINE",
+"1091 785 LINE",
+"109 785 LINE",
+"109 635 LINE"
+);
+}
+);
+width = 1200;
+},
+{
+components = (
+{
+name = whiteSquare;
+transform = "{1, 0, 0, -1, 0, 1420}";
+}
+);
+layerId = "8E053A5E-67DA-4970-A6F5-068DBFE5AD21";
+paths = (
+{
+closed = 1;
+nodes = (
+"1091 635 LINE",
+"1091 785 LINE",
+"109 785 LINE",
+"109 635 LINE"
+);
+}
+);
+width = 1200;
+}
+);
+widthMetricsKey = space;
+}

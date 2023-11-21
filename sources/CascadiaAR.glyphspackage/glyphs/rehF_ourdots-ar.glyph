@@ -1,0 +1,46 @@
+{
+glyphname = "rehFourdots-ar";
+layers = (
+{
+components = (
+{
+name = "reh-ar";
+},
+{
+name = "fourdotsabove-ar";
+transform = "{1, 0, 0, 1, 170, 153}";
+}
+);
+layerId = master01;
+width = 1200;
+},
+{
+components = (
+{
+name = "reh-ar";
+},
+{
+name = "fourdotsabove-ar";
+transform = "{1, 0, 0, 1, 130, 183}";
+}
+);
+layerId = "8E053A5E-67DA-4970-A6F5-068DBFE5AD21";
+width = 1200;
+},
+{
+components = (
+{
+name = "reh-ar";
+},
+{
+anchor = top.dot;
+name = "fourdotsabove-ar";
+transform = "{1, 0, 0, 1, 130, 123}";
+}
+);
+layerId = "1F90C004-9C90-48FA-B407-176B3E9F1E65";
+width = 1200;
+}
+);
+unicode = 0699;
+}

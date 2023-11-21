@@ -1,0 +1,107 @@
+{
+glyphname = greater_greater_equal_end.seq;
+layers = (
+{
+components = (
+{
+name = greater.alt;
+transform = "{1, 0, 0, 1, 586, 0}";
+},
+{
+name = greater.alt;
+transform = "{1, 0, 0, 1, 1216, 0}";
+}
+);
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"1231 414 LINE",
+"1331 504 LINE",
+"-20 504 LINE",
+"-20 414 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"1331 914 LINE",
+"1231 1004 LINE",
+"-20 1004 LINE",
+"-20 914 LINE"
+);
+}
+);
+width = 1200;
+},
+{
+components = (
+{
+name = greater.alt;
+transform = "{1, 0, 0, 1, 568, 0}";
+},
+{
+name = greater.alt;
+transform = "{1, 0, 0, 1, 1199, 0}";
+}
+);
+layerId = "1F90C004-9C90-48FA-B407-176B3E9F1E65";
+paths = (
+{
+closed = 1;
+nodes = (
+"1114 366 LINE",
+"1274 552 LINE",
+"-20 552 LINE",
+"-20 366 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"1274 866 LINE",
+"1114 1052 LINE",
+"-20 1052 LINE",
+"-20 866 LINE"
+);
+}
+);
+width = 1200;
+},
+{
+components = (
+{
+name = greater.alt;
+transform = "{1, 0, 0, 1, 539, 0}";
+},
+{
+name = greater.alt;
+transform = "{1, 0, 0, 1, 1179, 0}";
+}
+);
+layerId = "8E053A5E-67DA-4970-A6F5-068DBFE5AD21";
+paths = (
+{
+closed = 1;
+nodes = (
+"996 333 LINE",
+"1256 583 LINE",
+"-20 583 LINE",
+"-20 333 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"1233 835 LINE",
+"1016 1085 LINE",
+"-20 1085 LINE",
+"-20 835 LINE"
+);
+}
+);
+width = 1200;
+}
+);
+}

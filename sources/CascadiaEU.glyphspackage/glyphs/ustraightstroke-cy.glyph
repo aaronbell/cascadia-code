@@ -1,0 +1,68 @@
+{
+glyphname = "ustraightstroke-cy";
+production = uni04B1;
+layers = (
+{
+components = (
+{
+name = "ustraight-cy";
+}
+);
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"986 -90 LINE",
+"986 0 LINE",
+"215 0 LINE",
+"215 -90 LINE"
+);
+}
+);
+width = 1200;
+},
+{
+components = (
+{
+name = "ustraight-cy";
+}
+);
+layerId = "1F90C004-9C90-48FA-B407-176B3E9F1E65";
+paths = (
+{
+closed = 1;
+nodes = (
+"986 -174 LINE",
+"986 0 LINE",
+"215 0 LINE",
+"215 -174 LINE"
+);
+}
+);
+width = 1200;
+},
+{
+components = (
+{
+alignment = -1;
+name = "ustraight-cy";
+}
+);
+layerId = "8E053A5E-67DA-4970-A6F5-068DBFE5AD21";
+paths = (
+{
+closed = 1;
+nodes = (
+"1003 -249 LINE",
+"1003 0 LINE",
+"198 0 LINE",
+"198 -249 LINE"
+);
+}
+);
+width = 1200;
+}
+);
+unicode = 04B1;
+}

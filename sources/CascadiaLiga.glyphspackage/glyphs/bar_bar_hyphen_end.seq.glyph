@@ -1,0 +1,80 @@
+{
+glyphname = bar_bar_hyphen_end.seq;
+layers = (
+{
+components = (
+{
+name = bar;
+transform = "{1, 0, 0, 1, 1020, 0}";
+},
+{
+name = bar;
+transform = "{1, 0, 0, 1, 180, 0}";
+}
+);
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"791 664 LINE",
+"791 754 LINE",
+"-20 754 LINE",
+"-20 664 LINE"
+);
+}
+);
+width = 1200;
+},
+{
+components = (
+{
+name = bar;
+transform = "{1, 0, 0, 1, 1020, 0}";
+},
+{
+name = bar;
+transform = "{1, 0, 0, 1, 180, 0}";
+}
+);
+layerId = "1F90C004-9C90-48FA-B407-176B3E9F1E65";
+paths = (
+{
+closed = 1;
+nodes = (
+"802 616 LINE",
+"802 802 LINE",
+"-20 802 LINE",
+"-20 616 LINE"
+);
+}
+);
+width = 1200;
+},
+{
+components = (
+{
+name = bar;
+transform = "{1, 0, 0, 1, 1020, 0}";
+},
+{
+name = bar;
+transform = "{1, 0, 0, 1, 180, 0}";
+}
+);
+layerId = "8E053A5E-67DA-4970-A6F5-068DBFE5AD21";
+paths = (
+{
+closed = 1;
+nodes = (
+"821 584 LINE",
+"821 834 LINE",
+"-20 834 LINE",
+"-20 584 LINE"
+);
+}
+);
+width = 1200;
+}
+);
+}

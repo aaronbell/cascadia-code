@@ -1,0 +1,64 @@
+{
+glyphname = "lam_alefHamzabelow-ar";
+layers = (
+{
+anchors = (
+{
+name = bottom_2;
+position = "{343, -481}";
+}
+);
+components = (
+{
+name = "lam_alef-ar";
+},
+{
+name = "hamzabelow-ar";
+transform = "{1, 0, 0, 1, -262, -26}";
+}
+);
+layerId = master01;
+width = 1200;
+},
+{
+anchors = (
+{
+name = bottom_2;
+position = "{343, -481}";
+}
+);
+components = (
+{
+name = "lam_alef-ar";
+},
+{
+name = "hamzabelow-ar";
+transform = "{1, 0, 0, 1, -262, -26}";
+}
+);
+layerId = "1F90C004-9C90-48FA-B407-176B3E9F1E65";
+width = 1200;
+},
+{
+anchors = (
+{
+name = bottom_2;
+position = "{343, -481}";
+}
+);
+components = (
+{
+name = "lam_alef-ar";
+},
+{
+name = "hamzabelow-ar";
+transform = "{1, 0, 0, 1, -262, -26}";
+}
+);
+layerId = "8E053A5E-67DA-4970-A6F5-068DBFE5AD21";
+width = 1200;
+}
+);
+leftMetricsKey = "lam_alef-ar";
+rightMetricsKey = "lam_alef-ar";
+}

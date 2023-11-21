@@ -1,0 +1,50 @@
+{
+glyphname = rightBlackTriangle;
+production = uni25B6;
+layers = (
+{
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"1140 710 LINE",
+"120 1310 LINE",
+"120 110 LINE"
+);
+}
+);
+width = 1200;
+},
+{
+layerId = "1F90C004-9C90-48FA-B407-176B3E9F1E65";
+paths = (
+{
+closed = 1;
+nodes = (
+"1140 710 LINE",
+"120 1310 LINE",
+"120 110 LINE"
+);
+}
+);
+width = 1200;
+},
+{
+layerId = "8E053A5E-67DA-4970-A6F5-068DBFE5AD21";
+paths = (
+{
+closed = 1;
+nodes = (
+"1140 710 LINE",
+"120 1310 LINE",
+"120 110 LINE"
+);
+}
+);
+width = 1200;
+}
+);
+note = uni25B6;
+unicode = 25B6;
+}

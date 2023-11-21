@@ -1,0 +1,70 @@
+{
+glyphname = "shcha-cy.loclBGR";
+production = uni0449.loclBGR;
+layers = (
+{
+components = (
+{
+name = "sha-cy.loclBGR";
+transform = "{1, 0, 0, 1, -30, 0}";
+}
+);
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"1130 -270 LINE",
+"1130 90 LINE",
+"1034 90 LINE",
+"1034 -270 LINE"
+);
+}
+);
+width = 1200;
+},
+{
+components = (
+{
+name = "sha-cy.loclBGR";
+transform = "{1, 0, 0, 1, -30, 0}";
+}
+);
+layerId = "1F90C004-9C90-48FA-B407-176B3E9F1E65";
+paths = (
+{
+closed = 1;
+nodes = (
+"1190 -270 LINE",
+"1190 190 LINE",
+"990 190 LINE",
+"990 -270 LINE"
+);
+}
+);
+width = 1200;
+},
+{
+components = (
+{
+alignment = -1;
+name = "sha-cy.loclBGR";
+transform = "{1, 0, 0, 1, -30, 0}";
+}
+);
+layerId = "8E053A5E-67DA-4970-A6F5-068DBFE5AD21";
+paths = (
+{
+closed = 1;
+nodes = (
+"1190 -270 LINE",
+"1190 252 LINE",
+"922 252 LINE",
+"922 -270 LINE"
+);
+}
+);
+width = 1200;
+}
+);
+}

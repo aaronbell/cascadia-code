@@ -1,0 +1,174 @@
+{
+glyphname = "De-cy.loclBGR";
+production = uni0414.loclBGR;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+position = "{600, 0}";
+},
+{
+name = top;
+position = "{600, 1420}";
+}
+);
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"249 0 LINE",
+"595 1348 LINE",
+"605 1348 LINE",
+"951 0 LINE",
+"1051 0 LINE",
+"678 1420 LINE",
+"522 1420 LINE",
+"149 0 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"148 -290 LINE",
+"148 60 LINE",
+"54 60 LINE",
+"54 -290 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"1146 0 LINE",
+"1146 90 LINE",
+"54 90 LINE",
+"54 0 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"1146 -290 LINE",
+"1146 60 LINE",
+"1052 60 LINE",
+"1052 -290 LINE"
+);
+}
+);
+width = 1200;
+},
+{
+anchors = (
+{
+name = bottom;
+position = "{600, 0}";
+},
+{
+name = top;
+position = "{600, 1420}";
+}
+);
+layerId = "1F90C004-9C90-48FA-B407-176B3E9F1E65";
+paths = (
+{
+closed = 1;
+nodes = (
+"312 0 LINE",
+"588 1248 LINE",
+"606 1248 LINE",
+"882 0 LINE",
+"1092 0 LINE",
+"742 1420 LINE",
+"452 1420 LINE",
+"102 0 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"238 -290 LINE",
+"238 130 LINE",
+"30 130 LINE",
+"30 -290 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"1170 0 LINE",
+"1170 190 LINE",
+"30 190 LINE",
+"30 0 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"1170 -290 LINE",
+"1170 130 LINE",
+"962 130 LINE",
+"962 -290 LINE"
+);
+}
+);
+width = 1200;
+},
+{
+anchors = (
+{
+name = bottom;
+position = "{600, 0}";
+},
+{
+name = top;
+position = "{600, 1420}";
+}
+);
+layerId = "8E053A5E-67DA-4970-A6F5-068DBFE5AD21";
+paths = (
+{
+closed = 1;
+nodes = (
+"323 0 LINE",
+"591 1073 LINE",
+"609 1073 LINE",
+"876 0 LINE",
+"1161 0 LINE",
+"761 1420 LINE",
+"438 1420 LINE",
+"38 0 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"277 -290 LINE",
+"277 183 LINE",
+"13 183 LINE",
+"13 -290 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"1187 0 LINE",
+"1187 243 LINE",
+"13 243 LINE",
+"13 0 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"1187 -290 LINE",
+"1187 183 LINE",
+"923 183 LINE",
+"923 -290 LINE"
+);
+}
+);
+width = 1200;
+}
+);
+}

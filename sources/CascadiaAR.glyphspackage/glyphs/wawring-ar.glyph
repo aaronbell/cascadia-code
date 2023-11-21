@@ -1,0 +1,67 @@
+{
+glyphname = "wawring-ar";
+layers = (
+{
+anchors = (
+{
+name = bottom;
+position = "{487, -565}";
+}
+);
+components = (
+{
+name = "waw-ar";
+},
+{
+alignment = -1;
+name = ringArabic;
+transform = "{0.92, 0, 0, 0.92, -162, -265}";
+}
+);
+layerId = master01;
+width = 1200;
+},
+{
+anchors = (
+{
+name = bottom;
+position = "{487, -565}";
+}
+);
+components = (
+{
+name = "waw-ar";
+},
+{
+alignment = -1;
+name = ringArabic;
+transform = "{0.92, 0, 0, 0.92, -162, -177}";
+}
+);
+layerId = "8E053A5E-67DA-4970-A6F5-068DBFE5AD21";
+width = 1200;
+},
+{
+anchors = (
+{
+name = bottom;
+position = "{487, -565}";
+}
+);
+components = (
+{
+name = "waw-ar";
+},
+{
+alignment = -1;
+name = ringArabic;
+transform = "{0.92, 0, 0, 0.92, -162, -213}";
+}
+);
+layerId = "1F90C004-9C90-48FA-B407-176B3E9F1E65";
+width = 1200;
+}
+);
+rightMetricsKey = "waw-ar";
+unicode = 06C4;
+}

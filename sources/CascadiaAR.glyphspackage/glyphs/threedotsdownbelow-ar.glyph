@@ -1,0 +1,80 @@
+{
+glyphname = "threedotsdownbelow-ar";
+layers = (
+{
+anchors = (
+{
+name = _bottom;
+position = "{602, -117}";
+},
+{
+name = _bottom.dot;
+position = "{600, -8}";
+},
+{
+name = bottom;
+position = "{609, -598}";
+}
+);
+components = (
+{
+alignment = -1;
+name = "_threedots-ar";
+transform = "{1, 0, 0, -1, 0, 333}";
+}
+);
+layerId = master01;
+width = 1200;
+},
+{
+anchors = (
+{
+name = _bottom;
+position = "{602, -117}";
+},
+{
+name = _bottom.dot;
+position = "{600, -8}";
+},
+{
+name = bottom;
+position = "{602, -608}";
+}
+);
+components = (
+{
+alignment = -1;
+name = "_threedots-ar";
+transform = "{1, 0, 0, -1, 0, 333}";
+}
+);
+layerId = "1F90C004-9C90-48FA-B407-176B3E9F1E65";
+width = 1200;
+},
+{
+anchors = (
+{
+name = _bottom;
+position = "{602, -137}";
+},
+{
+name = _bottom.dot;
+position = "{600, -8}";
+},
+{
+name = bottom;
+position = "{602, -628}";
+}
+);
+components = (
+{
+alignment = -1;
+name = "_threedots-ar";
+transform = "{1, 0, 0, -1, 0, 313}";
+}
+);
+layerId = "8E053A5E-67DA-4970-A6F5-068DBFE5AD21";
+width = 1200;
+}
+);
+}

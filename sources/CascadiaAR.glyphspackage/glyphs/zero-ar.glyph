@@ -1,0 +1,51 @@
+{
+glyphname = "zero-ar";
+layers = (
+{
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"749 489 LINE",
+"591 644 LINE",
+"452 496 LINE",
+"607 344 LINE"
+);
+}
+);
+width = 1200;
+},
+{
+layerId = "1F90C004-9C90-48FA-B407-176B3E9F1E65";
+paths = (
+{
+closed = 1;
+nodes = (
+"816 486 LINE",
+"586 711 LINE",
+"385 496 LINE",
+"610 277 LINE"
+);
+}
+);
+width = 1200;
+},
+{
+layerId = "8E053A5E-67DA-4970-A6F5-068DBFE5AD21";
+paths = (
+{
+closed = 1;
+nodes = (
+"865 485 LINE",
+"583 760 LINE",
+"336 496 LINE",
+"613 228 LINE"
+);
+}
+);
+width = 1200;
+}
+);
+unicode = 0660;
+}

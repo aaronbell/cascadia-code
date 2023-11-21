@@ -1,0 +1,38 @@
+{
+glyphname = "hehDoachashmee-ar.medi";
+layers = (
+{
+components = (
+{
+name = "heh-ar.medi";
+}
+);
+layerId = master01;
+width = 1200;
+},
+{
+components = (
+{
+name = "heh-ar.medi";
+}
+);
+guideLines = (
+{
+locked = 1;
+position = "{886, -20}";
+}
+);
+layerId = "1F90C004-9C90-48FA-B407-176B3E9F1E65";
+width = 1200;
+},
+{
+components = (
+{
+name = "heh-ar.medi";
+}
+);
+layerId = "8E053A5E-67DA-4970-A6F5-068DBFE5AD21";
+width = 1200;
+}
+);
+}

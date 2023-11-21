@@ -1,0 +1,74 @@
+{
+glyphname = "lamThreedotsabove-ar";
+layers = (
+{
+anchors = (
+{
+name = top;
+position = "{941, 2033}";
+}
+);
+components = (
+{
+name = "lam-ar";
+},
+{
+anchor = top.dot;
+name = "threedotsupabove-ar";
+transform = "{0.9, 0, 0, 0.9, 397, 979}";
+}
+);
+layerId = master01;
+width = 1200;
+},
+{
+anchors = (
+{
+name = top;
+position = "{908, 2033}";
+}
+);
+components = (
+{
+name = "lam-ar";
+},
+{
+anchor = top.dot;
+name = "threedotsupabove-ar";
+transform = "{0.9, 0, 0, 0.9, 367, 979}";
+}
+);
+guideLines = (
+{
+position = "{166, 592}";
+},
+{
+position = "{166, 551}";
+}
+);
+layerId = "8E053A5E-67DA-4970-A6F5-068DBFE5AD21";
+width = 1200;
+},
+{
+anchors = (
+{
+name = top;
+position = "{958, 2033}";
+}
+);
+components = (
+{
+name = "lam-ar";
+},
+{
+anchor = top.dot;
+name = "threedotsupabove-ar";
+transform = "{0.9, 0, 0, 0.9, 417, 979}";
+}
+);
+layerId = "1F90C004-9C90-48FA-B407-176B3E9F1E65";
+width = 1200;
+}
+);
+unicode = 06B7;
+}

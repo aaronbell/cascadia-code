@@ -1,0 +1,70 @@
+{
+glyphname = peseta;
+layers = (
+{
+components = (
+{
+name = P;
+transform = "{1, 0, 0, 1, -20, 0}";
+}
+);
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"1176 875 LINE",
+"1176 965 LINE",
+"24 965 LINE",
+"24 875 LINE"
+);
+}
+);
+width = 1200;
+},
+{
+components = (
+{
+name = P;
+transform = "{1, 0, 0, 1, -20, 0}";
+}
+);
+layerId = "1F90C004-9C90-48FA-B407-176B3E9F1E65";
+paths = (
+{
+closed = 1;
+nodes = (
+"1200 851 LINE",
+"1200 989 LINE",
+"0 989 LINE",
+"0 851 LINE"
+);
+}
+);
+width = 1200;
+},
+{
+components = (
+{
+alignment = -1;
+name = P;
+transform = "{1, 0, 0, 1, -20, 0}";
+}
+);
+layerId = "8E053A5E-67DA-4970-A6F5-068DBFE5AD21";
+paths = (
+{
+closed = 1;
+nodes = (
+"1200 809 LINE",
+"1200 1031 LINE",
+"0 1031 LINE",
+"0 809 LINE"
+);
+}
+);
+width = 1200;
+}
+);
+unicode = 20A7;
+}

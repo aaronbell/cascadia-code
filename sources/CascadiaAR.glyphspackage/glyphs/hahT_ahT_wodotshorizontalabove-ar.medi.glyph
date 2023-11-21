@@ -1,0 +1,51 @@
+{
+glyphname = "hahTahTwodotshorizontalabove-ar.medi";
+layers = (
+{
+components = (
+{
+name = "hah-ar.medi";
+transform = "{1, 0, 0, 1, 0, -76}";
+},
+{
+anchor = bottom.dot;
+name = "twodotstahbelow-ar";
+transform = "{1, 0, 0, 1, 80, 0}";
+}
+);
+layerId = master01;
+width = 1200;
+},
+{
+components = (
+{
+name = "hah-ar.medi";
+transform = "{1, 0, 0, 1, 0, -76}";
+},
+{
+anchor = bottom.dot;
+name = "twodotstahbelow-ar";
+transform = "{1, 0, 0, 1, 80, 0}";
+}
+);
+layerId = "8E053A5E-67DA-4970-A6F5-068DBFE5AD21";
+width = 1200;
+},
+{
+components = (
+{
+name = "hah-ar.medi";
+transform = "{1, 0, 0, 1, 0, -76}";
+},
+{
+anchor = bottom.dot;
+name = "twodotstahbelow-ar";
+transform = "{1, 0, 0, 1, 80, 0}";
+}
+);
+layerId = "1F90C004-9C90-48FA-B407-176B3E9F1E65";
+width = 1200;
+}
+);
+rightMetricsKey = _part.instroke;
+}

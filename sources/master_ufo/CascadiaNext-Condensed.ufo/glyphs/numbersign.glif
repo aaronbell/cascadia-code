@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="numbersign" format="2">
+  <advance width="600"/>
+  <unicode hex="0023"/>
+  <outline>
+    <contour>
+      <point x="319" y="0" type="line"/>
+      <point x="453" y="0" type="line"/>
+      <point x="512" y="1420" type="line"/>
+      <point x="378" y="1420" type="line"/>
+      <point x="361" y="1012" type="line"/>
+      <point x="359" y="962" type="line"/>
+      <point x="339" y="480" type="line"/>
+      <point x="337" y="433" type="line"/>
+    </contour>
+    <contour>
+      <point x="20" y="360" type="line"/>
+      <point x="580" y="360" type="line"/>
+      <point x="580" y="520" type="line"/>
+      <point x="20" y="520" type="line"/>
+    </contour>
+    <contour>
+      <point x="88" y="0" type="line"/>
+      <point x="222" y="0" type="line"/>
+      <point x="240" y="432" type="line"/>
+      <point x="242" y="486" type="line"/>
+      <point x="262" y="973" type="line"/>
+      <point x="264" y="1013" type="line"/>
+      <point x="281" y="1420" type="line"/>
+      <point x="147" y="1420" type="line"/>
+    </contour>
+    <contour>
+      <point x="20" y="900" type="line"/>
+      <point x="580" y="900" type="line"/>
+      <point x="580" y="1060" type="line"/>
+      <point x="20" y="1060" type="line"/>
+    </contour>
+  </outline>
+</glyph>

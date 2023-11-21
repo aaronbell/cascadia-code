@@ -1,0 +1,185 @@
+{
+glyphname = v;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+position = "{600, 0}";
+},
+{
+name = top;
+position = "{600, 1060}";
+}
+);
+layerId = m007;
+paths = (
+{
+closed = 1;
+nodes = (
+"666 0 LINE",
+"1096 1060 LINE",
+"995 1060 LINE",
+"606 80 LINE",
+"598 80 LINE",
+"205 1060 LINE",
+"104 1060 LINE",
+"534 0 LINE"
+);
+}
+);
+width = 1200;
+},
+{
+anchors = (
+{
+name = bottom;
+position = "{600, 0}";
+},
+{
+name = top;
+position = "{600, 1060}";
+}
+);
+guideLines = (
+{
+position = "{317, 70}";
+}
+);
+layerId = m008;
+paths = (
+{
+closed = 1;
+nodes = (
+"741 0 LINE",
+"1120 1060 LINE",
+"894 1060 LINE",
+"609 180 LINE",
+"591 180 LINE",
+"306 1060 LINE",
+"80 1060 LINE",
+"459 0 LINE"
+);
+}
+);
+width = 1200;
+},
+{
+anchors = (
+{
+name = bottom;
+position = "{600, 0}";
+},
+{
+name = top;
+position = "{605, 1060}";
+}
+);
+layerId = m009;
+paths = (
+{
+closed = 1;
+nodes = (
+"774 0 LINE",
+"1137 1060 LINE",
+"861 1060 LINE",
+"609 238 LINE",
+"591 238 LINE",
+"339 1060 LINE",
+"63 1060 LINE",
+"426 0 LINE"
+);
+}
+);
+width = 1200;
+},
+{
+anchors = (
+{
+name = bottom;
+position = "{450, 0}";
+},
+{
+name = top;
+position = "{452, 1060}";
+}
+);
+layerId = "8A5928CE-31B2-4F56-BC21-FB6F481DC46A";
+paths = (
+{
+closed = 1;
+nodes = (
+"575 0 LINE",
+"840 1060 LINE",
+"650 1060 LINE",
+"457 170 LINE",
+"443 170 LINE",
+"251 1060 LINE",
+"60 1060 LINE",
+"325 0 LINE"
+);
+}
+);
+width = 900;
+},
+{
+anchors = (
+{
+name = bottom;
+position = "{450, 0}";
+},
+{
+name = top;
+position = "{455, 1060}";
+}
+);
+layerId = "A3FCBCC7-55DF-4604-8A77-DC78C4EF6076";
+paths = (
+{
+closed = 1;
+nodes = (
+"610 0 LINE",
+"864 1060 LINE",
+"621 1060 LINE",
+"458 229 LINE",
+"442 229 LINE",
+"280 1060 LINE",
+"37 1060 LINE",
+"291 0 LINE"
+);
+}
+);
+width = 900;
+},
+{
+anchors = (
+{
+name = bottom;
+position = "{450, 0}";
+},
+{
+name = top;
+position = "{450, 1060}";
+}
+);
+layerId = "4AED55CC-054D-4448-879E-1FE49A52CF83";
+paths = (
+{
+closed = 1;
+nodes = (
+"520 0 LINE",
+"821 1060 LINE",
+"723 1060 LINE",
+"455 80 LINE",
+"448 80 LINE",
+"177 1060 LINE",
+"79 1060 LINE",
+"381 0 LINE"
+);
+}
+);
+width = 900;
+}
+);
+unicode = 0076;
+}

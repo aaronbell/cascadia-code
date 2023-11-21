@@ -1,0 +1,45 @@
+{
+glyphname = "theh-ar.init";
+layers = (
+{
+components = (
+{
+name = "behDotless-ar.init";
+},
+{
+name = "threedotsupabove-ar";
+transform = "{1, 0, 0, 1, 272, 315}";
+}
+);
+layerId = master01;
+width = 1200;
+},
+{
+components = (
+{
+name = "behDotless-ar.init";
+},
+{
+anchor = top.dot;
+name = "threedotsupabove-ar";
+transform = "{1, 0, 0, 1, 235, 335}";
+}
+);
+layerId = "1F90C004-9C90-48FA-B407-176B3E9F1E65";
+width = 1200;
+},
+{
+components = (
+{
+name = "behDotless-ar.init";
+},
+{
+name = "threedotsupabove-ar";
+transform = "{1, 0, 0, 1, 232, 365}";
+}
+);
+layerId = "8E053A5E-67DA-4970-A6F5-068DBFE5AD21";
+width = 1200;
+}
+);
+}

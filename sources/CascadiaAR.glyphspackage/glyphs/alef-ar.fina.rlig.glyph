@@ -1,0 +1,119 @@
+{
+glyphname = "alef-ar.fina.rlig";
+layers = (
+{
+anchors = (
+{
+name = _overlap;
+position = "{0, 0}";
+},
+{
+name = bottom;
+position = "{293, -141}";
+},
+{
+name = bottom.dot;
+position = "{293, -26}";
+},
+{
+name = top;
+position = "{274, 1310}";
+}
+);
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"870 242 LINE",
+"660 581 OFFCURVE",
+"407 936 OFFCURVE",
+"173 1245 CURVE",
+"95 1177 LINE",
+"334 862 OFFCURVE",
+"578 520 OFFCURVE",
+"795 182 CURVE"
+);
+}
+);
+userData = {
+com.schriftgestaltung.Glyphs.lastChange = "2020-11-20 22:14:03 +0000";
+};
+width = 1200;
+},
+{
+anchors = (
+{
+name = _overlap;
+position = "{0, 0}";
+},
+{
+name = bottom;
+position = "{293, -141}";
+},
+{
+name = bottom.dot;
+position = "{293, -26}";
+},
+{
+name = top;
+position = "{274, 1310}";
+}
+);
+layerId = "8E053A5E-67DA-4970-A6F5-068DBFE5AD21";
+paths = (
+{
+closed = 1;
+nodes = (
+"920 379 LINE",
+"722 700 OFFCURVE",
+"479 1025 OFFCURVE",
+"243 1298 CURVE",
+"36 1122 LINE",
+"259 858 OFFCURVE",
+"530 536 OFFCURVE",
+"735 219 CURVE"
+);
+}
+);
+width = 0;
+},
+{
+anchors = (
+{
+name = _overlap;
+position = "{0, 0}";
+},
+{
+name = bottom;
+position = "{293, -141}";
+},
+{
+name = bottom.dot;
+position = "{293, -26}";
+},
+{
+name = top;
+position = "{274, 1310}";
+}
+);
+layerId = "1F90C004-9C90-48FA-B407-176B3E9F1E65";
+paths = (
+{
+closed = 1;
+nodes = (
+"900 366 LINE",
+"690 695 OFFCURVE",
+"434 1006 OFFCURVE",
+"203 1275 CURVE",
+"56 1142 LINE",
+"287 865 OFFCURVE",
+"540 556 OFFCURVE",
+"755 239 CURVE"
+);
+}
+);
+width = 0;
+}
+);
+}

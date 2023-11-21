@@ -1,0 +1,80 @@
+{
+glyphname = whiteSmallLozenge;
+production = uni2B2B;
+layers = (
+{
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"785 710 LINE",
+"600 1019 LINE",
+"415 710 LINE",
+"600 402 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"507 710 LINE",
+"600 879 LINE",
+"694 710 LINE",
+"600 541 LINE"
+);
+}
+);
+width = 1200;
+},
+{
+layerId = "1F90C004-9C90-48FA-B407-176B3E9F1E65";
+paths = (
+{
+closed = 1;
+nodes = (
+"785 710 LINE",
+"600 1019 LINE",
+"415 710 LINE",
+"600 402 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"532 710 LINE",
+"600 824 LINE",
+"669 710 LINE",
+"600 596 LINE"
+);
+}
+);
+width = 1200;
+},
+{
+layerId = "8E053A5E-67DA-4970-A6F5-068DBFE5AD21";
+paths = (
+{
+closed = 1;
+nodes = (
+"785 710 LINE",
+"600 1019 LINE",
+"415 710 LINE",
+"600 402 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"557 710 LINE",
+"600 799 LINE",
+"644 710 LINE",
+"600 621 LINE"
+);
+}
+);
+width = 1200;
+}
+);
+note = uni2B2B;
+unicode = 2B2B;
+}

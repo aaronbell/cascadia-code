@@ -1,0 +1,64 @@
+{
+glyphname = mediumleftpointinganglebracketornament;
+production = uni276C;
+layers = (
+{
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"965 0 LINE",
+"366 701 LINE",
+"366 719 LINE",
+"965 1420 LINE",
+"844 1420 LINE",
+"245 719 LINE",
+"245 701 LINE",
+"844 0 LINE"
+);
+}
+);
+width = 1200;
+},
+{
+layerId = "1F90C004-9C90-48FA-B407-176B3E9F1E65";
+paths = (
+{
+closed = 1;
+nodes = (
+"1000 0 LINE",
+"467 701 LINE",
+"467 719 LINE",
+"1000 1420 LINE",
+"765 1420 LINE",
+"232 719 LINE",
+"232 701 LINE",
+"765 0 LINE"
+);
+}
+);
+width = 1200;
+},
+{
+layerId = "8E053A5E-67DA-4970-A6F5-068DBFE5AD21";
+paths = (
+{
+closed = 1;
+nodes = (
+"1002 0 LINE",
+"519 701 LINE",
+"519 719 LINE",
+"1002 1420 LINE",
+"684 1420 LINE",
+"201 719 LINE",
+"201 701 LINE",
+"684 0 LINE"
+);
+}
+);
+width = 1200;
+}
+);
+unicode = 276C;
+}

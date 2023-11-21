@@ -1,0 +1,71 @@
+{
+glyphname = "yehThreeabove-farsi.fina.alt";
+layers = (
+{
+anchors = (
+{
+name = _overlap;
+position = "{0, 0}";
+}
+);
+components = (
+{
+name = "alefMaksura-ar.fina.alt";
+transform = "{1, 0, 0, 1, 0, 834}";
+},
+{
+alignment = 1;
+anchor = top.dot;
+name = "three-persian.small01";
+transform = "{1, 0, 0, 1, -426, 0}";
+}
+);
+layerId = master01;
+width = 0;
+},
+{
+anchors = (
+{
+name = _overlap;
+position = "{0, 0}";
+}
+);
+components = (
+{
+name = "alefMaksura-ar.fina.alt";
+transform = "{1, 0, 0, 1, 0, 774}";
+},
+{
+alignment = 1;
+anchor = top.dot;
+name = "three-persian.small01";
+transform = "{1, 0, 0, 1, -406, 0}";
+}
+);
+layerId = "8E053A5E-67DA-4970-A6F5-068DBFE5AD21";
+width = 0;
+},
+{
+anchors = (
+{
+name = _overlap;
+position = "{0, 0}";
+}
+);
+components = (
+{
+alignment = -1;
+name = "alefMaksura-ar.fina.alt";
+},
+{
+alignment = 1;
+anchor = top.dot;
+name = "three-persian.small01";
+transform = "{1, 0, 0, 1, -406, 0}";
+}
+);
+layerId = "1F90C004-9C90-48FA-B407-176B3E9F1E65";
+width = 1200;
+}
+);
+}

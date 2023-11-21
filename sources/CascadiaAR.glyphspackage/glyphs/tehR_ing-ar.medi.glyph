@@ -1,0 +1,62 @@
+{
+glyphname = "tehRing-ar.medi";
+layers = (
+{
+components = (
+{
+name = "behDotless-ar.medi";
+},
+{
+anchor = top.dot;
+name = "twodotshorizontalabove-ar";
+transform = "{1, 0, 0, 1, 10, 123}";
+},
+{
+alignment = -1;
+name = ringArabic;
+transform = "{1, 0, 0, 1, -246, -77}";
+}
+);
+layerId = master01;
+width = 1200;
+},
+{
+components = (
+{
+name = "behDotless-ar.medi";
+},
+{
+anchor = top.dot;
+name = "twodotshorizontalabove-ar";
+transform = "{1, 0, 0, 1, 30, 223}";
+},
+{
+alignment = -1;
+name = ringArabic;
+transform = "{1, 0, 0, 1, -246, -57}";
+}
+);
+layerId = "8E053A5E-67DA-4970-A6F5-068DBFE5AD21";
+width = 1200;
+},
+{
+components = (
+{
+name = "behDotless-ar.medi";
+},
+{
+anchor = top.dot;
+name = "twodotshorizontalabove-ar";
+transform = "{1, 0, 0, 1, 30, 223}";
+},
+{
+alignment = -1;
+name = ringArabic;
+transform = "{1, 0, 0, 1, -246, -57}";
+}
+);
+layerId = "1F90C004-9C90-48FA-B407-176B3E9F1E65";
+width = 1200;
+}
+);
+}

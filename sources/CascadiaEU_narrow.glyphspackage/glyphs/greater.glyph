@@ -1,0 +1,177 @@
+{
+glyphname = greater;
+layers = (
+{
+layerId = m004;
+paths = (
+{
+closed = 1;
+nodes = (
+"547 653 LINE",
+"547 765 LINE",
+"77 1204 LINE",
+"77 1084 LINE",
+"473 713 LINE",
+"473 705 LINE",
+"77 334 LINE",
+"77 214 LINE"
+);
+}
+);
+width = 600;
+},
+{
+layerId = m005;
+paths = (
+{
+closed = 1;
+nodes = (
+"550 618 LINE",
+"550 800 LINE",
+"72 1204 LINE",
+"72 994 LINE",
+"407 718 LINE",
+"407 700 LINE",
+"72 424 LINE",
+"72 214 LINE"
+);
+}
+);
+width = 600;
+},
+{
+layerId = m006;
+paths = (
+{
+closed = 1;
+nodes = (
+"584 580 LINE",
+"584 838 LINE",
+"40 1216 LINE",
+"40 951 LINE",
+"386 718 LINE",
+"386 700 LINE",
+"40 467 LINE",
+"40 202 LINE"
+);
+}
+);
+width = 600;
+},
+{
+layerId = m007;
+paths = (
+{
+closed = 1;
+nodes = (
+"1080 653 LINE",
+"1080 765 LINE",
+"170 1204 LINE",
+"170 1104 LINE",
+"1002 713 LINE",
+"1002 705 LINE",
+"170 314 LINE",
+"170 214 LINE"
+);
+}
+);
+width = 1200;
+},
+{
+layerId = m008;
+paths = (
+{
+closed = 1;
+nodes = (
+"1104 608 LINE",
+"1104 810 LINE",
+"146 1204 LINE",
+"146 984 LINE",
+"846 718 LINE",
+"846 700 LINE",
+"146 434 LINE",
+"146 214 LINE"
+);
+}
+);
+width = 1200;
+},
+{
+layerId = m009;
+paths = (
+{
+closed = 1;
+nodes = (
+"1137 575 LINE",
+"1137 843 LINE",
+"113 1221 LINE",
+"113 951 LINE",
+"863 718 LINE",
+"863 700 LINE",
+"113 467 LINE",
+"113 197 LINE"
+);
+}
+);
+width = 1200;
+},
+{
+layerId = "8A5928CE-31B2-4F56-BC21-FB6F481DC46A";
+paths = (
+{
+closed = 1;
+nodes = (
+"827 613 LINE",
+"827 805 LINE",
+"109 1204 LINE",
+"109 989 LINE",
+"627 718 LINE",
+"627 700 LINE",
+"109 429 LINE",
+"109 214 LINE"
+);
+}
+);
+width = 900;
+},
+{
+layerId = "A3FCBCC7-55DF-4604-8A77-DC78C4EF6076";
+paths = (
+{
+closed = 1;
+nodes = (
+"861 578 LINE",
+"861 841 LINE",
+"77 1219 LINE",
+"77 951 LINE",
+"625 718 LINE",
+"625 700 LINE",
+"77 467 LINE",
+"77 200 LINE"
+);
+}
+);
+width = 900;
+},
+{
+layerId = "4AED55CC-054D-4448-879E-1FE49A52CF83";
+paths = (
+{
+closed = 1;
+nodes = (
+"814 653 LINE",
+"814 765 LINE",
+"124 1204 LINE",
+"124 1094 LINE",
+"738 713 LINE",
+"738 705 LINE",
+"124 324 LINE",
+"124 214 LINE"
+);
+}
+);
+width = 900;
+}
+);
+unicode = 003E;
+}

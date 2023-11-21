@@ -1,0 +1,144 @@
+{
+glyphname = "finaltsadi-hb";
+layers = (
+{
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"642 -460 LINE",
+"642 464 LINE",
+"652 446 LINE",
+"217 1200 LINE",
+"101 1200 LINE",
+"543 432 LINE",
+"543 -460 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"736 423 OFFCURVE",
+"930 498 OFFCURVE",
+"949 817 CURVE SMOOTH",
+"954 901 OFFCURVE",
+"960 1094 OFFCURVE",
+"960 1200 CURVE",
+"858 1200 LINE",
+"858 1094 OFFCURVE",
+"851 888 OFFCURVE",
+"844 782 CURVE SMOOTH",
+"832 600 OFFCURVE",
+"731 495 OFFCURVE",
+"577 495 CURVE",
+"607 423 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"951 1101 LINE",
+"951 1200 LINE",
+"684 1200 LINE",
+"684 1101 LINE"
+);
+}
+);
+width = 1200;
+},
+{
+layerId = "8E053A5E-67DA-4970-A6F5-068DBFE5AD21";
+paths = (
+{
+closed = 1;
+nodes = (
+"745 -460 LINE",
+"745 565 LINE",
+"781 402 LINE",
+"414 1200 LINE",
+"83 1200 LINE",
+"477 381 LINE",
+"477 -460 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"813 376 OFFCURVE",
+"1007 418 OFFCURVE",
+"1026 737 CURVE SMOOTH",
+"1031 821 OFFCURVE",
+"1037 1094 OFFCURVE",
+"1037 1200 CURVE",
+"792 1200 LINE",
+"792 1094 OFFCURVE",
+"792 905 OFFCURVE",
+"785 799 CURVE SMOOTH",
+"773 617 OFFCURVE",
+"741 548 OFFCURVE",
+"605 548 CURVE",
+"574 376 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"958 929 LINE",
+"1028 1200 LINE",
+"691 1200 LINE",
+"691 929 LINE"
+);
+}
+);
+width = 1200;
+},
+{
+layerId = "1F90C004-9C90-48FA-B407-176B3E9F1E65";
+paths = (
+{
+closed = 1;
+nodes = (
+"703 -460 LINE",
+"703 524 LINE",
+"728 420 LINE",
+"333 1200 LINE",
+"90 1200 LINE",
+"504 402 LINE",
+"504 -460 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"781 395 OFFCURVE",
+"975 451 OFFCURVE",
+"994 770 CURVE SMOOTH",
+"999 854 OFFCURVE",
+"1005 1094 OFFCURVE",
+"1005 1200 CURVE",
+"819 1200 LINE",
+"819 1094 OFFCURVE",
+"816 898 OFFCURVE",
+"809 792 CURVE SMOOTH",
+"797 610 OFFCURVE",
+"737 526 OFFCURVE",
+"594 526 CURVE",
+"588 395 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"955 999 LINE",
+"996 1200 LINE",
+"688 1200 LINE",
+"688 999 LINE"
+);
+}
+);
+width = 1200;
+}
+);
+unicode = 05E5;
+}

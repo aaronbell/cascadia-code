@@ -1,0 +1,92 @@
+{
+glyphname = "hah-ar.medi";
+layers = (
+{
+components = (
+{
+name = "hah-ar.init";
+}
+);
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"1236 -3 OFFCURVE",
+"1265 8 OFFCURVE",
+"1265 44 CURVE SMOOTH",
+"1265 79 OFFCURVE",
+"1250 91 OFFCURVE",
+"1200 91 CURVE SMOOTH",
+"964 91 OFFCURVE",
+"926 116 OFFCURVE",
+"901 449 CURVE",
+"823 424 LINE",
+"843 84 OFFCURVE",
+"892 -3 OFFCURVE",
+"1188 -3 CURVE SMOOTH"
+);
+}
+);
+width = 1200;
+},
+{
+components = (
+{
+name = "hah-ar.init";
+}
+);
+layerId = "1F90C004-9C90-48FA-B407-176B3E9F1E65";
+paths = (
+{
+closed = 1;
+nodes = (
+"1236 -6 OFFCURVE",
+"1275 21 OFFCURVE",
+"1275 135 CURVE SMOOTH",
+"1275 196 OFFCURVE",
+"1251 206 OFFCURVE",
+"1200 206 CURVE SMOOTH",
+"1024 206 OFFCURVE",
+"996 256 OFFCURVE",
+"981 429 CURVE",
+"813 364 LINE",
+"833 124 OFFCURVE",
+"892 -6 OFFCURVE",
+"1188 -6 CURVE SMOOTH"
+);
+}
+);
+width = 1200;
+},
+{
+components = (
+{
+name = "hah-ar.init";
+}
+);
+layerId = "8E053A5E-67DA-4970-A6F5-068DBFE5AD21";
+paths = (
+{
+closed = 1;
+nodes = (
+"1236 -10 OFFCURVE",
+"1275 21 OFFCURVE",
+"1275 135 CURVE SMOOTH",
+"1275 196 OFFCURVE",
+"1251 285 OFFCURVE",
+"1200 285 CURVE SMOOTH",
+"1054 285 OFFCURVE",
+"1039 296 OFFCURVE",
+"1031 429 CURVE",
+"824 364 LINE",
+"844 124 OFFCURVE",
+"882 -10 OFFCURVE",
+"1188 -10 CURVE SMOOTH"
+);
+}
+);
+width = 1200;
+}
+);
+}

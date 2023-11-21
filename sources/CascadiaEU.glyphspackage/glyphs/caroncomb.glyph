@@ -1,0 +1,94 @@
+{
+glyphname = caroncomb;
+production = uni030C;
+layers = (
+{
+anchors = (
+{
+name = _top;
+position = "{600, 1060}";
+},
+{
+name = top;
+position = "{600, 1540}";
+}
+);
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"631 1210 LINE",
+"926 1590 LINE",
+"804 1590 LINE",
+"590 1299 LINE",
+"610 1299 LINE",
+"396 1590 LINE",
+"274 1590 LINE",
+"569 1210 LINE"
+);
+}
+);
+width = 1200;
+},
+{
+anchors = (
+{
+name = _top;
+position = "{600, 1060}";
+},
+{
+name = top;
+position = "{600, 1540}";
+}
+);
+layerId = "1F90C004-9C90-48FA-B407-176B3E9F1E65";
+paths = (
+{
+closed = 1;
+nodes = (
+"686 1210 LINE",
+"926 1590 LINE",
+"714 1590 LINE",
+"590 1344 LINE",
+"610 1344 LINE",
+"486 1590 LINE",
+"274 1590 LINE",
+"514 1210 LINE"
+);
+}
+);
+width = 1200;
+},
+{
+anchors = (
+{
+name = _top;
+position = "{600, 1060}";
+},
+{
+name = top;
+position = "{600, 1540}";
+}
+);
+layerId = "8E053A5E-67DA-4970-A6F5-068DBFE5AD21";
+paths = (
+{
+closed = 1;
+nodes = (
+"744 1210 LINE",
+"984 1590 LINE",
+"689 1590 LINE",
+"590 1344 LINE",
+"610 1344 LINE",
+"511 1590 LINE",
+"216 1590 LINE",
+"456 1210 LINE"
+);
+}
+);
+width = 1200;
+}
+);
+unicode = 030C;
+}

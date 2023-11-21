@@ -1,0 +1,90 @@
+{
+glyphname = horizontalTabulationControl.ss20;
+layers = (
+{
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"1128 698 LINE",
+"1128 720 LINE",
+"73 1235 LINE",
+"73 1123 LINE",
+"850 773 LINE",
+"850 645 LINE",
+"73 295 LINE",
+"73 183 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"900 754 LINE",
+"73 754 LINE",
+"73 664 LINE",
+"900 664 LINE"
+);
+}
+);
+width = 1200;
+},
+{
+layerId = "1F90C004-9C90-48FA-B407-176B3E9F1E65";
+paths = (
+{
+closed = 1;
+nodes = (
+"1130 698 LINE",
+"1130 720 LINE",
+"75 1234 LINE",
+"75 1002 LINE",
+"621 822 LINE",
+"621 594 LINE",
+"75 414 LINE",
+"75 182 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"882 801 LINE",
+"75 801 LINE",
+"75 615 LINE",
+"882 615 LINE"
+);
+}
+);
+width = 1200;
+},
+{
+layerId = "8E053A5E-67DA-4970-A6F5-068DBFE5AD21";
+paths = (
+{
+closed = 1;
+nodes = (
+"1130 698 LINE",
+"1130 720 LINE",
+"75 1235 LINE",
+"75 985 LINE",
+"623 859 LINE",
+"623 559 LINE",
+"75 432 LINE",
+"75 183 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"882 830 LINE",
+"75 830 LINE",
+"75 587 LINE",
+"882 587 LINE"
+);
+}
+);
+width = 1200;
+}
+);
+widthMetricsKey = space;
+}

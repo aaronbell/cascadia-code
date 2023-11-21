@@ -1,0 +1,62 @@
+{
+glyphname = "gaf-ar.fina";
+layers = (
+{
+anchors = (
+{
+name = top;
+position = "{807, 1486}";
+}
+);
+components = (
+{
+name = "keheh-ar.fina";
+},
+{
+name = "gafsarkashabove-ar";
+transform = "{1, 0, 0, 0.9999, 36, 204}";
+}
+);
+layerId = master01;
+width = 1200;
+},
+{
+anchors = (
+{
+name = top;
+position = "{807, 1486}";
+}
+);
+components = (
+{
+name = "keheh-ar.fina";
+},
+{
+name = "gafsarkashabove-ar";
+transform = "{1, 0, 0, 0.9999, 36, 204}";
+}
+);
+layerId = "1F90C004-9C90-48FA-B407-176B3E9F1E65";
+width = 1200;
+},
+{
+anchors = (
+{
+name = top;
+position = "{807, 1486}";
+}
+);
+components = (
+{
+name = "keheh-ar.fina";
+},
+{
+name = "gafsarkashabove-ar";
+transform = "{1, 0, 0, 0.9999, 36, 204}";
+}
+);
+layerId = "8E053A5E-67DA-4970-A6F5-068DBFE5AD21";
+width = 1200;
+}
+);
+}

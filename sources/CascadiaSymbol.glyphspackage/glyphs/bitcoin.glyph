@@ -1,0 +1,147 @@
+{
+glyphname = bitcoin;
+layers = (
+{
+components = (
+{
+name = B;
+}
+);
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"396 -320 LINE",
+"490 -320 LINE",
+"490 54 LINE",
+"396 54 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"676 -320 LINE",
+"770 -320 LINE",
+"770 54 LINE",
+"676 54 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"490 1740 LINE",
+"396 1740 LINE",
+"396 1367 LINE",
+"490 1367 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"770 1740 LINE",
+"676 1740 LINE",
+"676 1367 LINE",
+"770 1367 LINE"
+);
+}
+);
+width = 1200;
+},
+{
+components = (
+{
+name = B;
+}
+);
+layerId = "1F90C004-9C90-48FA-B407-176B3E9F1E65";
+paths = (
+{
+closed = 1;
+nodes = (
+"374 -320 LINE",
+"512 -320 LINE",
+"512 94 LINE",
+"374 94 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"654 -320 LINE",
+"792 -320 LINE",
+"792 94 LINE",
+"654 94 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"512 1740 LINE",
+"374 1740 LINE",
+"374 1327 LINE",
+"512 1327 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"792 1740 LINE",
+"654 1740 LINE",
+"654 1327 LINE",
+"792 1327 LINE"
+);
+}
+);
+width = 1200;
+},
+{
+components = (
+{
+name = B;
+}
+);
+layerId = "8E053A5E-67DA-4970-A6F5-068DBFE5AD21";
+paths = (
+{
+closed = 1;
+nodes = (
+"284 -320 LINE",
+"532 -320 LINE",
+"532 94 LINE",
+"284 94 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"634 -320 LINE",
+"882 -320 LINE",
+"882 94 LINE",
+"634 94 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"532 1740 LINE",
+"284 1740 LINE",
+"284 1327 LINE",
+"532 1327 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"882 1740 LINE",
+"634 1740 LINE",
+"634 1327 LINE",
+"882 1327 LINE"
+);
+}
+);
+width = 1200;
+}
+);
+unicode = 20BF;
+}

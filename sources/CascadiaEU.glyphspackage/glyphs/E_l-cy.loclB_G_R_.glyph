@@ -1,0 +1,93 @@
+{
+glyphname = "El-cy.loclBGR";
+production = uni041B.loclBGR;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+position = "{600, 0}";
+},
+{
+name = top;
+position = "{600, 1420}";
+}
+);
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"169 0 LINE",
+"595 1333 LINE",
+"605 1333 LINE",
+"1031 0 LINE",
+"1131 0 LINE",
+"669 1420 LINE",
+"531 1420 LINE",
+"69 0 LINE"
+);
+}
+);
+width = 1200;
+},
+{
+anchors = (
+{
+name = bottom;
+position = "{600, 0}";
+},
+{
+name = top;
+position = "{600, 1420}";
+}
+);
+layerId = "1F90C004-9C90-48FA-B407-176B3E9F1E65";
+paths = (
+{
+closed = 1;
+nodes = (
+"265 0 LINE",
+"591 1248 LINE",
+"609 1248 LINE",
+"935 0 LINE",
+"1155 0 LINE",
+"745 1420 LINE",
+"455 1420 LINE",
+"45 0 LINE"
+);
+}
+);
+width = 1200;
+},
+{
+anchors = (
+{
+name = bottom;
+position = "{600, 0}";
+},
+{
+name = top;
+position = "{600, 1420}";
+}
+);
+layerId = "8E053A5E-67DA-4970-A6F5-068DBFE5AD21";
+paths = (
+{
+closed = 1;
+nodes = (
+"315 0 LINE",
+"591 1073 LINE",
+"609 1073 LINE",
+"885 0 LINE",
+"1172 0 LINE",
+"762 1420 LINE",
+"438 1420 LINE",
+"28 0 LINE"
+);
+}
+);
+width = 1200;
+}
+);
+}

@@ -1,0 +1,56 @@
+{
+glyphname = boxLightDiagonalUpperRightToLowerLeft.stypo;
+layers = (
+{
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"54 -355 LINE",
+"1200 1673 LINE",
+"1200 1769 LINE",
+"1146 1769 LINE",
+"0 -259 LINE",
+"0 -355 LINE"
+);
+}
+);
+width = 1200;
+},
+{
+layerId = "1F90C004-9C90-48FA-B407-176B3E9F1E65";
+paths = (
+{
+closed = 1;
+nodes = (
+"119 -355 LINE",
+"1200 1558 LINE",
+"1200 1769 LINE",
+"1081 1769 LINE",
+"0 -144 LINE",
+"0 -355 LINE"
+);
+}
+);
+width = 1200;
+},
+{
+layerId = "8E053A5E-67DA-4970-A6F5-068DBFE5AD21";
+paths = (
+{
+closed = 1;
+nodes = (
+"152 -355 LINE",
+"1200 1501 LINE",
+"1200 1769 LINE",
+"1048 1769 LINE",
+"0 -87 LINE",
+"0 -355 LINE"
+);
+}
+);
+width = 1200;
+}
+);
+}

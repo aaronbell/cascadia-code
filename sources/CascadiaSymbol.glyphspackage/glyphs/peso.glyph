@@ -1,0 +1,98 @@
+{
+glyphname = peso;
+production = uni20B1;
+layers = (
+{
+components = (
+{
+name = P;
+transform = "{1, 0, 0, 1, -20, 0}";
+}
+);
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"1176 1006 LINE",
+"1176 1096 LINE",
+"24 1096 LINE",
+"24 1006 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"1176 759 LINE",
+"1176 849 LINE",
+"24 849 LINE",
+"24 759 LINE"
+);
+}
+);
+width = 1200;
+},
+{
+components = (
+{
+name = P;
+transform = "{1, 0, 0, 1, -20, 0}";
+}
+);
+layerId = "1F90C004-9C90-48FA-B407-176B3E9F1E65";
+paths = (
+{
+closed = 1;
+nodes = (
+"1200 981 LINE",
+"1200 1119 LINE",
+"0 1119 LINE",
+"0 981 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"1200 736 LINE",
+"1200 874 LINE",
+"0 874 LINE",
+"0 736 LINE"
+);
+}
+);
+width = 1200;
+},
+{
+components = (
+{
+alignment = -1;
+name = P;
+transform = "{1, 0, 0, 1, -20, 0}";
+}
+);
+layerId = "8E053A5E-67DA-4970-A6F5-068DBFE5AD21";
+paths = (
+{
+closed = 1;
+nodes = (
+"1200 956 LINE",
+"1200 1119 LINE",
+"0 1119 LINE",
+"0 956 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"1200 719 LINE",
+"1200 882 LINE",
+"0 882 LINE",
+"0 719 LINE"
+);
+}
+);
+width = 1200;
+}
+);
+unicode = 20B1;
+}

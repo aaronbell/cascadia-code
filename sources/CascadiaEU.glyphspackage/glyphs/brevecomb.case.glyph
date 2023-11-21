@@ -1,0 +1,111 @@
+{
+glyphname = brevecomb.case;
+production = uni0306.case;
+layers = (
+{
+anchors = (
+{
+name = _top;
+position = "{600, 1420}";
+},
+{
+name = top;
+position = "{600, 1820}";
+}
+);
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"824 1570 OFFCURVE",
+"954 1676 OFFCURVE",
+"954 1860 CURVE",
+"864 1860 LINE",
+"864 1730 OFFCURVE",
+"767 1655 OFFCURVE",
+"600 1655 CURVE SMOOTH",
+"433 1655 OFFCURVE",
+"336 1730 OFFCURVE",
+"336 1860 CURVE",
+"246 1860 LINE",
+"246 1676 OFFCURVE",
+"376 1570 OFFCURVE",
+"600 1570 CURVE SMOOTH"
+);
+}
+);
+width = 1200;
+},
+{
+anchors = (
+{
+name = _top;
+position = "{600, 1420}";
+},
+{
+name = top;
+position = "{600, 1820}";
+}
+);
+layerId = "1F90C004-9C90-48FA-B407-176B3E9F1E65";
+paths = (
+{
+closed = 1;
+nodes = (
+"837 1570 OFFCURVE",
+"974 1676 OFFCURVE",
+"974 1860 CURVE",
+"799 1860 LINE",
+"799 1762 OFFCURVE",
+"726 1706 OFFCURVE",
+"600 1706 CURVE SMOOTH",
+"474 1706 OFFCURVE",
+"401 1762 OFFCURVE",
+"401 1860 CURVE",
+"226 1860 LINE",
+"226 1676 OFFCURVE",
+"363 1570 OFFCURVE",
+"600 1570 CURVE SMOOTH"
+);
+}
+);
+width = 1200;
+},
+{
+anchors = (
+{
+name = _top;
+position = "{600, 1420}";
+},
+{
+name = top;
+position = "{600, 1820}";
+}
+);
+layerId = "8E053A5E-67DA-4970-A6F5-068DBFE5AD21";
+paths = (
+{
+closed = 1;
+nodes = (
+"848 1553 OFFCURVE",
+"991 1665 OFFCURVE",
+"991 1860 CURVE",
+"724 1860 LINE",
+"724 1765 OFFCURVE",
+"679 1731 OFFCURVE",
+"600 1731 CURVE SMOOTH",
+"522 1731 OFFCURVE",
+"476 1765 OFFCURVE",
+"476 1860 CURVE",
+"209 1860 LINE",
+"209 1665 OFFCURVE",
+"352 1553 OFFCURVE",
+"600 1553 CURVE SMOOTH"
+);
+}
+);
+width = 1200;
+}
+);
+}

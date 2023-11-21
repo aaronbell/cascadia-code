@@ -1,0 +1,63 @@
+{
+glyphname = "thousandseparator-ar";
+layers = (
+{
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"671 -156 OFFCURVE",
+"754 17 OFFCURVE",
+"754 277 CURVE",
+"653 277 LINE",
+"652 34 OFFCURVE",
+"576 -96 OFFCURVE",
+"457 -225 CURVE",
+"525 -277 LINE"
+);
+}
+);
+width = 1200;
+},
+{
+layerId = "1F90C004-9C90-48FA-B407-176B3E9F1E65";
+paths = (
+{
+closed = 1;
+nodes = (
+"684 -182 OFFCURVE",
+"788 27 OFFCURVE",
+"788 277 CURVE",
+"583 277 LINE",
+"577 64 OFFCURVE",
+"534 -93 OFFCURVE",
+"429 -215 CURVE",
+"535 -304 LINE"
+);
+}
+);
+width = 1200;
+},
+{
+layerId = "8E053A5E-67DA-4970-A6F5-068DBFE5AD21";
+paths = (
+{
+closed = 1;
+nodes = (
+"711 -196 OFFCURVE",
+"814 -13 OFFCURVE",
+"814 287 CURVE",
+"543 287 LINE",
+"547 74 OFFCURVE",
+"516 -73 OFFCURVE",
+"411 -215 CURVE",
+"542 -318 LINE"
+);
+}
+);
+width = 1200;
+}
+);
+unicode = 066C;
+}

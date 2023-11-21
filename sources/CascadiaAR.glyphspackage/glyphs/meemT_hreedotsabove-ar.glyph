@@ -1,0 +1,58 @@
+{
+glyphname = "meemThreedotsabove-ar";
+layers = (
+{
+components = (
+{
+name = "meem-ar";
+},
+{
+anchor = top.dot;
+name = "threedotsupabove-ar";
+transform = "{1, 0, 0, 1, 13, 262}";
+}
+);
+guideLines = (
+{
+position = "{97, 498}";
+}
+);
+layerId = master01;
+width = 1200;
+},
+{
+components = (
+{
+name = "meem-ar";
+},
+{
+anchor = top.dot;
+name = "threedotsupabove-ar";
+transform = "{1, 0, 0, 1, 43, 262}";
+}
+);
+guideLines = (
+{
+position = "{468, 567}";
+}
+);
+layerId = "8E053A5E-67DA-4970-A6F5-068DBFE5AD21";
+width = 1200;
+},
+{
+components = (
+{
+name = "meem-ar";
+},
+{
+anchor = top.dot;
+name = "threedotsupabove-ar";
+transform = "{1, 0, 0, 1, 23, 262}";
+}
+);
+layerId = "1F90C004-9C90-48FA-B407-176B3E9F1E65";
+width = 1200;
+}
+);
+unicode = 08A7;
+}

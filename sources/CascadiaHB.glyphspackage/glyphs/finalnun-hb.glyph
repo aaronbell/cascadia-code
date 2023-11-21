@@ -1,0 +1,78 @@
+{
+glyphname = "finalnun-hb";
+layers = (
+{
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"788 1200 LINE",
+"689 1200 LINE",
+"689 -460 LINE",
+"788 -460 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"221 1200 LINE",
+"221 1101 LINE",
+"787 1101 LINE",
+"787 1200 LINE"
+);
+}
+);
+width = 1200;
+},
+{
+layerId = "8E053A5E-67DA-4970-A6F5-068DBFE5AD21";
+paths = (
+{
+closed = 1;
+nodes = (
+"845 1200 LINE",
+"582 1200 LINE",
+"582 -460 LINE",
+"845 -460 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"184 1200 LINE",
+"184 930 LINE",
+"844 930 LINE",
+"844 1200 LINE"
+);
+}
+);
+width = 1200;
+},
+{
+layerId = "1F90C004-9C90-48FA-B407-176B3E9F1E65";
+paths = (
+{
+closed = 1;
+nodes = (
+"822 1200 LINE",
+"626 1200 LINE",
+"626 -460 LINE",
+"822 -460 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"199 1200 LINE",
+"199 1000 LINE",
+"821 1000 LINE",
+"821 1200 LINE"
+);
+}
+);
+width = 1200;
+}
+);
+unicode = 05DF;
+}

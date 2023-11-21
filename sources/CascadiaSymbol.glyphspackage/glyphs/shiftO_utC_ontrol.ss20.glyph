@@ -1,0 +1,93 @@
+{
+glyphname = shiftOutControl.ss20;
+layers = (
+{
+components = (
+{
+name = whiteCircle;
+}
+);
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"997 365 LINE",
+"246 1086 LINE",
+"183 1028 LINE",
+"934 309 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"1009 1021 LINE",
+"946 1079 LINE",
+"203 365 LINE",
+"266 309 LINE"
+);
+}
+);
+width = 1200;
+},
+{
+components = (
+{
+name = whiteCircle;
+}
+);
+layerId = "1F90C004-9C90-48FA-B407-176B3E9F1E65";
+paths = (
+{
+closed = 1;
+nodes = (
+"997 365 LINE",
+"246 1086 LINE",
+"183 1028 LINE",
+"934 309 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"1009 1021 LINE",
+"946 1079 LINE",
+"203 365 LINE",
+"266 309 LINE"
+);
+}
+);
+width = 1200;
+},
+{
+components = (
+{
+name = whiteCircle;
+}
+);
+layerId = "8E053A5E-67DA-4970-A6F5-068DBFE5AD21";
+paths = (
+{
+closed = 1;
+nodes = (
+"997 365 LINE",
+"246 1086 LINE",
+"183 1028 LINE",
+"934 309 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"1009 1021 LINE",
+"946 1079 LINE",
+"203 365 LINE",
+"266 309 LINE"
+);
+}
+);
+width = 1200;
+}
+);
+widthMetricsKey = space;
+}

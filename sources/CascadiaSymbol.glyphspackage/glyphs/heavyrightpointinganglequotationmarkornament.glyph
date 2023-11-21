@@ -1,0 +1,64 @@
+{
+glyphname = heavyrightpointinganglequotationmarkornament;
+production = uni276F;
+layers = (
+{
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"440 0 LINE",
+"1004 701 LINE",
+"1004 719 LINE",
+"440 1420 LINE",
+"184 1420 LINE",
+"748 719 LINE",
+"748 701 LINE",
+"184 0 LINE"
+);
+}
+);
+width = 1200;
+},
+{
+layerId = "1F90C004-9C90-48FA-B407-176B3E9F1E65";
+paths = (
+{
+closed = 1;
+nodes = (
+"513 0 LINE",
+"1016 701 LINE",
+"1016 719 LINE",
+"513 1420 LINE",
+"148 1420 LINE",
+"651 719 LINE",
+"651 701 LINE",
+"148 0 LINE"
+);
+}
+);
+width = 1200;
+},
+{
+layerId = "8E053A5E-67DA-4970-A6F5-068DBFE5AD21";
+paths = (
+{
+closed = 1;
+nodes = (
+"620 0 LINE",
+"1060 701 LINE",
+"1060 719 LINE",
+"620 1420 LINE",
+"122 1420 LINE",
+"578 719 LINE",
+"578 701 LINE",
+"122 0 LINE"
+);
+}
+);
+width = 1200;
+}
+);
+unicode = 276F;
+}

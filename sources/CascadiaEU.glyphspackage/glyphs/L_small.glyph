@@ -1,0 +1,132 @@
+{
+glyphname = Lsmall;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+position = "{620, 0}";
+},
+{
+name = center;
+position = "{600, 540}";
+},
+{
+name = top;
+position = "{260, 1079}";
+},
+{
+name = topright;
+position = "{1180, 1079}";
+}
+);
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"277 0 LINE",
+"277 1079 LINE",
+"183 1079 LINE",
+"183 0 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"1078 0 LINE",
+"1078 90 LINE",
+"183 90 LINE",
+"183 0 LINE"
+);
+}
+);
+width = 1200;
+},
+{
+anchors = (
+{
+name = bottom;
+position = "{620, 0}";
+},
+{
+name = center;
+position = "{600, 540}";
+},
+{
+name = top;
+position = "{260, 1079}";
+},
+{
+name = topright;
+position = "{1180, 1079}";
+}
+);
+layerId = "1F90C004-9C90-48FA-B407-176B3E9F1E65";
+paths = (
+{
+closed = 1;
+nodes = (
+"371 0 LINE",
+"371 1079 LINE",
+"159 1079 LINE",
+"159 0 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"1102 0 LINE",
+"1102 174 LINE",
+"159 174 LINE",
+"159 0 LINE"
+);
+}
+);
+width = 1200;
+},
+{
+anchors = (
+{
+name = bottom;
+position = "{620, 0}";
+},
+{
+name = center;
+position = "{600, 540}";
+},
+{
+name = top;
+position = "{260, 1079}";
+},
+{
+name = topright;
+position = "{1180, 1079}";
+}
+);
+layerId = "8E053A5E-67DA-4970-A6F5-068DBFE5AD21";
+paths = (
+{
+closed = 1;
+nodes = (
+"412 0 LINE",
+"412 1079 LINE",
+"142 1079 LINE",
+"142 0 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"1119 0 LINE",
+"1119 250 LINE",
+"142 250 LINE",
+"142 0 LINE"
+);
+}
+);
+width = 1200;
+}
+);
+unicode = 029F;
+}

@@ -1,0 +1,140 @@
+{
+glyphname = "alef-ar.fina.short.alt";
+layers = (
+{
+anchors = (
+{
+name = _overlap;
+position = "{0, 0}";
+},
+{
+name = bottom;
+position = "{319, -141}";
+},
+{
+name = bottom.dot;
+position = "{319, -26}";
+},
+{
+name = top.dot;
+position = "{273, 1204}";
+}
+);
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"649 -3 OFFCURVE",
+"665 14 OFFCURVE",
+"665 51 CURVE SMOOTH",
+"665 79 OFFCURVE",
+"656 91 OFFCURVE",
+"630 91 CURVE SMOOTH",
+"367 91 OFFCURVE",
+"325 103 OFFCURVE",
+"323 341 CURVE SMOOTH",
+"317 1190 LINE",
+"225 1190 LINE",
+"231 306 LINE SMOOTH",
+"233 49 OFFCURVE",
+"314 -3 OFFCURVE",
+"618 -3 CURVE SMOOTH"
+);
+}
+);
+userData = {
+com.schriftgestaltung.Glyphs.lastChange = "2020-11-20 22:14:03 +0000";
+};
+width = 1200;
+},
+{
+anchors = (
+{
+name = _overlap;
+position = "{0, 0}";
+},
+{
+name = bottom;
+position = "{319, -141}";
+},
+{
+name = bottom.dot;
+position = "{319, -26}";
+},
+{
+name = top.dot;
+position = "{273, 1204}";
+}
+);
+layerId = "8E053A5E-67DA-4970-A6F5-068DBFE5AD21";
+paths = (
+{
+closed = 1;
+nodes = (
+"646 -10 OFFCURVE",
+"670 52 OFFCURVE",
+"670 120 CURVE SMOOTH",
+"670 209 OFFCURVE",
+"646 285 OFFCURVE",
+"600 285 CURVE SMOOTH",
+"444 285 OFFCURVE",
+"422 299 OFFCURVE",
+"420 441 CURVE SMOOTH",
+"412 1198 LINE",
+"138 1198 LINE",
+"146 406 LINE SMOOTH",
+"149 90 OFFCURVE",
+"255 -10 OFFCURVE",
+"588 -10 CURVE SMOOTH"
+);
+}
+);
+width = 0;
+},
+{
+anchors = (
+{
+name = _overlap;
+position = "{0, 0}";
+},
+{
+name = bottom;
+position = "{319, -141}";
+},
+{
+name = bottom.dot;
+position = "{319, -26}";
+},
+{
+name = top.dot;
+position = "{273, 1204}";
+}
+);
+layerId = "1F90C004-9C90-48FA-B407-176B3E9F1E65";
+paths = (
+{
+closed = 1;
+nodes = (
+"654 -6 OFFCURVE",
+"681 30 OFFCURVE",
+"681 121 CURVE SMOOTH",
+"681 173 OFFCURVE",
+"665 206 OFFCURVE",
+"626 206 CURVE SMOOTH",
+"399 206 OFFCURVE",
+"382 220 OFFCURVE",
+"380 451 CURVE SMOOTH",
+"372 1198 LINE",
+"166 1198 LINE",
+"174 386 LINE SMOOTH",
+"177 50 OFFCURVE",
+"319 -6 OFFCURVE",
+"614 -6 CURVE SMOOTH"
+);
+}
+);
+width = 0;
+}
+);
+}

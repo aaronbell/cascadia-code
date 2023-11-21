@@ -1,0 +1,65 @@
+{
+glyphname = "ngoeh-ar";
+layers = (
+{
+anchors = (
+{
+name = top;
+position = "{683, 1709}";
+}
+);
+components = (
+{
+name = "gaf-ar";
+},
+{
+anchor = top.dot;
+name = "twodotshorizontalabove-ar.v2";
+transform = "{0.9, 0, 0, 0.9, -22, 1083}";
+}
+);
+layerId = master01;
+width = 1200;
+},
+{
+anchors = (
+{
+name = top;
+position = "{653, 1729}";
+}
+);
+components = (
+{
+name = "gaf-ar";
+},
+{
+name = "twodotshorizontalabove-ar.v2";
+transform = "{0.7, 0, 0, 0.7, 387, 960}";
+}
+);
+layerId = "8E053A5E-67DA-4970-A6F5-068DBFE5AD21";
+width = 1200;
+},
+{
+anchors = (
+{
+name = top;
+position = "{708.9, 1728.8}";
+}
+);
+components = (
+{
+name = "gaf-ar";
+},
+{
+anchor = top.dot;
+name = "twodotshorizontalabove-ar.v2";
+transform = "{0.9, 0, 0, 0.9, -40, 1140}";
+}
+);
+layerId = "1F90C004-9C90-48FA-B407-176B3E9F1E65";
+width = 1200;
+}
+);
+unicode = 06B1;
+}

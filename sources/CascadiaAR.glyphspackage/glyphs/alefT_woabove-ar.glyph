@@ -1,0 +1,84 @@
+{
+glyphname = "alefTwoabove-ar";
+layers = (
+{
+anchors = (
+{
+name = bottom;
+position = "{610, -141}";
+},
+{
+name = top;
+position = "{391, 1570}";
+}
+);
+components = (
+{
+alignment = -1;
+name = "two-persian.small01";
+transform = "{1, 0, 0, 1, -239, -83}";
+},
+{
+name = "alef-ar.short";
+}
+);
+guideLines = (
+{
+position = "{248, 578}";
+}
+);
+layerId = master01;
+width = 1200;
+},
+{
+anchors = (
+{
+name = bottom;
+position = "{610, -141}";
+},
+{
+name = top;
+position = "{361, 1570}";
+}
+);
+components = (
+{
+alignment = -1;
+name = "two-persian.small01";
+transform = "{1, 0, 0, 1, -269, -83}";
+},
+{
+name = "alef-ar.short";
+}
+);
+layerId = "8E053A5E-67DA-4970-A6F5-068DBFE5AD21";
+width = 1200;
+},
+{
+anchors = (
+{
+name = bottom;
+position = "{610, -141}";
+},
+{
+name = top;
+position = "{391, 1570}";
+}
+);
+components = (
+{
+alignment = -1;
+name = "two-persian.small01";
+transform = "{1, 0, 0, 1, -239, -83}";
+},
+{
+name = "alef-ar.short";
+}
+);
+layerId = "1F90C004-9C90-48FA-B407-176B3E9F1E65";
+width = 1200;
+}
+);
+rightMetricsKey = "=alef-ar";
+unicode = 0773;
+}

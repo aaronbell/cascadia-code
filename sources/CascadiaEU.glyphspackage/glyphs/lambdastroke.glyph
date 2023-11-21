@@ -1,0 +1,66 @@
+{
+glyphname = lambdastroke;
+layers = (
+{
+components = (
+{
+name = lambda;
+}
+);
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"964 1237 LINE",
+"944 1322 LINE",
+"128 1072 LINE",
+"150 987 LINE"
+);
+}
+);
+width = 1200;
+},
+{
+components = (
+{
+name = lambda;
+}
+);
+layerId = "1F90C004-9C90-48FA-B407-176B3E9F1E65";
+paths = (
+{
+closed = 1;
+nodes = (
+"1004 1177 LINE",
+"964 1352 LINE",
+"98 1072 LINE",
+"138 897 LINE"
+);
+}
+);
+width = 1200;
+},
+{
+components = (
+{
+name = lambda;
+}
+);
+layerId = "8E053A5E-67DA-4970-A6F5-068DBFE5AD21";
+paths = (
+{
+closed = 1;
+nodes = (
+"1082 1124 LINE",
+"1030 1349 LINE",
+"44 1047 LINE",
+"96 822 LINE"
+);
+}
+);
+width = 1200;
+}
+);
+unicode = 019B;
+}

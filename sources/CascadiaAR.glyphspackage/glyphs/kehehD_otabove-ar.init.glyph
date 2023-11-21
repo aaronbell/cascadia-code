@@ -1,0 +1,46 @@
+{
+glyphname = "kehehDotabove-ar.init";
+layers = (
+{
+components = (
+{
+name = "keheh-ar.init";
+},
+{
+anchor = top.dot;
+name = "dotabove-ar";
+transform = "{1, 0, 0, 1, -187, 601}";
+}
+);
+layerId = master01;
+width = 1200;
+},
+{
+components = (
+{
+name = "keheh-ar.init";
+},
+{
+name = "dotabove-ar";
+transform = "{1, 0, 0, 1, -105, 502}";
+}
+);
+layerId = "8E053A5E-67DA-4970-A6F5-068DBFE5AD21";
+width = 1200;
+},
+{
+components = (
+{
+name = "keheh-ar.init";
+},
+{
+anchor = top.dot;
+name = "dotabove-ar";
+transform = "{1, 0, 0, 1, -187, 601}";
+}
+);
+layerId = "1F90C004-9C90-48FA-B407-176B3E9F1E65";
+width = 1200;
+}
+);
+}

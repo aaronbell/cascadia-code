@@ -1,0 +1,140 @@
+{
+glyphname = "alef-ar.fina.alt";
+layers = (
+{
+anchors = (
+{
+name = _overlap;
+position = "{0, 0}";
+},
+{
+name = bottom;
+position = "{318, -141}";
+},
+{
+name = bottom.dot;
+position = "{318, -26}";
+},
+{
+name = top;
+position = "{270, 1545}";
+}
+);
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"631 -3 OFFCURVE",
+"641 19 OFFCURVE",
+"641 48 CURVE SMOOTH",
+"641 79 OFFCURVE",
+"631 91 OFFCURVE",
+"616 91 CURVE SMOOTH",
+"353 91 OFFCURVE",
+"325 103 OFFCURVE",
+"323 341 CURVE SMOOTH",
+"315 1420 LINE",
+"223 1420 LINE",
+"231 306 LINE SMOOTH",
+"233 49 OFFCURVE",
+"300 -3 OFFCURVE",
+"604 -3 CURVE SMOOTH"
+);
+}
+);
+userData = {
+com.schriftgestaltung.Glyphs.lastChange = "2020-11-20 22:14:03 +0000";
+};
+width = 1200;
+},
+{
+anchors = (
+{
+name = _overlap;
+position = "{0, 0}";
+},
+{
+name = bottom;
+position = "{318, -141}";
+},
+{
+name = bottom.dot;
+position = "{318, -26}";
+},
+{
+name = top;
+position = "{270, 1545}";
+}
+);
+layerId = "8E053A5E-67DA-4970-A6F5-068DBFE5AD21";
+paths = (
+{
+closed = 1;
+nodes = (
+"646 -10 OFFCURVE",
+"670 52 OFFCURVE",
+"670 120 CURVE SMOOTH",
+"670 209 OFFCURVE",
+"646 285 OFFCURVE",
+"600 285 CURVE SMOOTH",
+"434 285 OFFCURVE",
+"411 309 OFFCURVE",
+"410 451 CURVE SMOOTH",
+"406 1420 LINE",
+"132 1420 LINE",
+"136 406 LINE SMOOTH",
+"137 90 OFFCURVE",
+"245 -10 OFFCURVE",
+"588 -10 CURVE SMOOTH"
+);
+}
+);
+width = 0;
+},
+{
+anchors = (
+{
+name = _overlap;
+position = "{0, 0}";
+},
+{
+name = bottom;
+position = "{318, -141}";
+},
+{
+name = bottom.dot;
+position = "{318, -26}";
+},
+{
+name = top;
+position = "{270, 1545}";
+}
+);
+layerId = "1F90C004-9C90-48FA-B407-176B3E9F1E65";
+paths = (
+{
+closed = 1;
+nodes = (
+"649 -6 OFFCURVE",
+"671 23 OFFCURVE",
+"671 121 CURVE SMOOTH",
+"671 170 OFFCURVE",
+"656 206 OFFCURVE",
+"626 206 CURVE SMOOTH",
+"399 206 OFFCURVE",
+"382 220 OFFCURVE",
+"380 451 CURVE SMOOTH",
+"372 1420 LINE",
+"166 1420 LINE",
+"174 386 LINE SMOOTH",
+"177 50 OFFCURVE",
+"319 -6 OFFCURVE",
+"614 -6 CURVE SMOOTH"
+);
+}
+);
+width = 0;
+}
+);
+}

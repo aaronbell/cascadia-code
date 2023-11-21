@@ -1,0 +1,132 @@
+{
+glyphname = Asmall;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+position = "{600, 0}";
+},
+{
+name = ogonek;
+position = "{1080, 8}";
+},
+{
+name = top;
+position = "{600, 1079}";
+}
+);
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"168 0 LINE",
+"595 1004 LINE",
+"605 1004 LINE",
+"1032 0 LINE",
+"1133 0 LINE",
+"671 1079 LINE",
+"529 1079 LINE",
+"67 0 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"955 293 LINE",
+"955 378 LINE",
+"235 378 LINE",
+"235 293 LINE"
+);
+}
+);
+width = 1200;
+},
+{
+anchors = (
+{
+name = bottom;
+position = "{600, 0}";
+},
+{
+name = ogonek;
+position = "{1080, 8}";
+},
+{
+name = top;
+position = "{600, 1079}";
+}
+);
+layerId = "1F90C004-9C90-48FA-B407-176B3E9F1E65";
+paths = (
+{
+closed = 1;
+nodes = (
+"258 0 LINE",
+"591 885 LINE",
+"608 885 LINE",
+"941 0 LINE",
+"1153 0 LINE",
+"730 1079 LINE",
+"469 1079 LINE",
+"46 0 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"955 229 LINE",
+"955 393 LINE",
+"235 393 LINE",
+"235 229 LINE"
+);
+}
+);
+width = 1200;
+},
+{
+anchors = (
+{
+name = bottom;
+position = "{600, 0}";
+},
+{
+name = ogonek;
+position = "{1080, 8}";
+},
+{
+name = top;
+position = "{600, 1079}";
+}
+);
+layerId = "8E053A5E-67DA-4970-A6F5-068DBFE5AD21";
+paths = (
+{
+closed = 1;
+nodes = (
+"295 0 LINE",
+"591 831 LINE",
+"609 831 LINE",
+"905 0 LINE",
+"1165 0 LINE",
+"755 1079 LINE",
+"445 1079 LINE",
+"35 0 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"955 197 LINE",
+"955 407 LINE",
+"235 407 LINE",
+"235 197 LINE"
+);
+}
+);
+width = 1200;
+}
+);
+unicode = 1D00;
+}

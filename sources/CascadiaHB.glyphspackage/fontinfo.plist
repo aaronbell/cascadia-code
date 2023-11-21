@@ -1,0 +1,569 @@
+{
+.appVersion = "3226";
+copyright = "© 2021 Microsoft Corporation. All Rights Reserved.";
+customParameters = (
+{
+name = panose;
+value = (
+2,
+11,
+6,
+9,
+2,
+0,
+0,
+2,
+0,
+4
+);
+},
+{
+name = fsType;
+value = (
+);
+},
+{
+name = isFixedPitch;
+value = 1;
+},
+{
+name = "Disable Last Change";
+value = 1;
+},
+{
+name = "Use Typo Metrics";
+value = 1;
+},
+{
+name = license;
+value = "Microsoft supplied font. You may use this font to create, display, and print content as permitted by the license terms or terms of use, of the Microsoft product, service, or content in which this font was included. You may only (i) embed this font in content as permitted by the embedding restrictions included in this font; and (ii) temporarily download this font to a printer or other output device to help print content. Any other use is prohibited.\012 \012The following license, based on the SIL Open Font license (https://scripts.sil.org/OFL), applies to this font. Additional license terms may be found on the GitHub repository for this font (https://github.com/microsoft/cascadia-code/blob/main/LICENSE).\012 \012Permission is hereby granted, free of charge, to any person obtaining a copy of the Font Software, to use, study, copy, merge, embed, modify, redistribute, and sell modified and unmodified copies of the Font Software, subject to the following conditions:\012 \0121) Neither the Font Software nor any of its individual components, in Original or Modified Versions, may be sold by itself.\012 \0122) Original or Modified Versions of the Font Software may be bundled, redistributed and/or sold with any software, provided that each copy contains the above copyright notice and this license. These can be included either as stand-alone text files, human-readable headers or in the appropriate machine-readable metadata fields within text or binary files as long as those fields can be easily viewed by the user.\012 \0123) No Modified Version of the Font Software may use the Reserved Font Name(s) unless explicit written permission is granted by the corresponding Copyright Holder. This restriction only applies to the primary font name as presented to the users.\012 \0124) The name(s) of the Copyright Holder(s) or the Author(s) of the Font Software shall not be used to promote, endorse or advertise any Modified Version, except to acknowledge the contribution(s) of the Copyright Holder(s) and the Author(s) or with their explicit written permission.\012 \0125) The Font Software, modified or unmodified, in part or in whole, must be distributed entirely under this license, and must not be distributed under any other license. The requirement for fonts to remain under this license does not apply to any document created using the Font Software.\012 \012THE FONT SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT OF COPYRIGHT, PATENT, TRADEMARK, OR OTHER RIGHT. IN NO EVENT SHALL THE COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, INCLUDING ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL DAMAGES, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM OTHER DEALINGS IN THE FONT SOFTWARE.";
+},
+{
+name = licenseURL;
+value = "https://scripts.sil.org/OFL";
+},
+{
+name = trademark;
+value = "Cascadia Code is a trademark of the Microsoft group of companies.";
+},
+{
+name = vendorID;
+value = SAJA;
+},
+{
+name = Axes;
+value = (
+{
+Name = Weight;
+Tag = wght;
+}
+);
+},
+{
+name = note;
+value = "#Macro to convert the ligatures from editable to production mode\012\012def ligatureProcess(production):\012	for glyph in Glyphs.font.glyphs:\012		if glyph.color == 3: #2 width\012			if production == True:\012				glyph.layers[0].LSB = glyph.layers[0].LSB - 1200\012			if production == False:\012				glyph.layers[0].LSB = glyph.layers[0].LSB + 1200\012\012		elif glyph.color == 4: #3 width\012			if production == True:\012				glyph.layers[0].LSB = glyph.layers[0].LSB - 2400\012			if production == False:\012				glyph.layers[0].LSB = glyph.layers[0].LSB + 2400\012\012		elif glyph.color == 9: #4 width\012			if production == True:\012				glyph.layers[0].LSB = glyph.layers[0].LSB - 3600\012			if production == False:\012				glyph.layers[0].LSB = glyph.layers[0].LSB + 3600		\012		\012\012ligatureProcess(True) #True for production mode, False for editable\012\012\012\012Settings for scaler for halves and thirds\012\012Third\012\01230		30		30\01240		40		40\01280		-160	-340\012\012Half\01270		70		70\01245		45		45\01260		-220	-360";
+}
+);
+date = "2019-04-07 17:18:29 +0000";
+designer = "Aaron Bell";
+designerURL = "http://sajatypeworks.com";
+familyName = "Cascadia Code";
+featurePrefixes = (
+{
+automatic = 1;
+code = "languagesystem DFLT dflt;\012\012languagesystem hebr dflt;\012languagesystem hebr IWR;\012";
+name = Languagesystems;
+}
+);
+fontMaster = (
+{
+alignmentZones = (
+"{1500, 20}",
+"{1420, 20}",
+"{1060, 20}",
+"{0, -20}",
+"{-460, -20}"
+);
+ascender = 1568;
+capHeight = 1420;
+custom = Extra;
+customParameters = (
+{
+name = underlineThickness;
+value = 100;
+},
+{
+name = underlinePosition;
+value = -100;
+}
+);
+descender = -480;
+guideLines = (
+{
+name = " [locked]";
+position = "{1050, 330}";
+},
+{
+name = " [locked]";
+position = "{1276, 1440}";
+},
+{
+name = " [locked]";
+position = "{440, -460}";
+},
+{
+angle = 90;
+name = " [locked]";
+position = "{280, 416}";
+},
+{
+name = " [locked]";
+position = "{2160, 332}";
+},
+{
+name = " [locked]";
+position = "{2120, 342}";
+},
+{
+angle = 90;
+name = " [locked]";
+position = "{240, 390}";
+},
+{
+angle = 90;
+name = " [locked]";
+position = "{148, 190}";
+},
+{
+angle = 90;
+name = " [locked]";
+position = "{2004, 52}";
+},
+{
+angle = 90;
+name = " [locked]";
+position = "{3360, 466}";
+},
+{
+angle = 90;
+name = " [locked]";
+position = "{3320, 306}";
+},
+{
+angle = 90;
+name = " [locked]";
+position = "{3208, 146}";
+},
+{
+position = "{958, 2226}";
+},
+{
+name = " [locked]";
+position = "{1105, 1040}";
+},
+{
+name = " [locked]";
+position = "{1076, 914}";
+},
+{
+position = "{1555, 1901}";
+},
+{
+position = "{1376, -480}";
+}
+);
+horizontalStems = (
+200,
+210,
+212,
+220
+);
+iconName = Light;
+id = master01;
+name = ExtraLight;
+verticalStems = (
+190,
+180
+);
+weight = Light;
+weightValue = 140;
+xHeight = 1060;
+},
+{
+alignmentZones = (
+"{1500, 20}",
+"{1420, 20}",
+"{1060, 20}",
+"{0, -20}",
+"{-460, -20}"
+);
+ascender = 1568;
+capHeight = 1420;
+customParameters = (
+{
+name = underlineThickness;
+value = 100;
+},
+{
+name = underlinePosition;
+value = -100;
+}
+);
+descender = -480;
+guideLines = (
+{
+name = " [locked]";
+position = "{1013, 1133}";
+},
+{
+name = " [locked]";
+position = "{849, 1440}";
+},
+{
+name = " [locked]";
+position = "{1107, 1234}";
+},
+{
+name = " [locked]";
+position = "{440, -460}";
+},
+{
+angle = 90;
+name = " [locked]";
+position = "{280, 416}";
+},
+{
+angle = 90;
+name = " [locked]";
+position = "{2160, 332}";
+},
+{
+angle = 90;
+name = " [locked]";
+position = "{2090, 250}";
+},
+{
+angle = 90;
+name = " [locked]";
+position = "{240, 390}";
+},
+{
+angle = 90;
+name = " [locked]";
+position = "{392, 408}";
+},
+{
+angle = 90;
+name = " [locked]";
+position = "{2004, 52}";
+},
+{
+name = " [locked]";
+position = "{3360, 466}";
+},
+{
+angle = 90;
+name = " [locked]";
+position = "{3320, 306}";
+},
+{
+angle = 90;
+name = " [locked]";
+position = "{3208, 146}";
+},
+{
+position = "{786, 2226}";
+},
+{
+position = "{810, -20}";
+},
+{
+position = "{1100, 1052}";
+},
+{
+position = "{1100, 866}";
+},
+{
+position = "{1100, 552}";
+},
+{
+name = " [locked]";
+position = "{1013, 1133}";
+},
+{
+name = " [locked]";
+position = "{1013, 1133}";
+},
+{
+name = " [locked]";
+position = "{1013, 1133}";
+}
+);
+horizontalStems = (
+200,
+210,
+212,
+220
+);
+id = "1F90C004-9C90-48FA-B407-176B3E9F1E65";
+verticalStems = (
+190,
+180
+);
+weightValue = 500;
+xHeight = 1060;
+},
+{
+alignmentZones = (
+"{1500, 20}",
+"{1420, 20}",
+"{1060, 20}",
+"{0, -20}",
+"{-460, -20}"
+);
+ascender = 1568;
+capHeight = 1420;
+customParameters = (
+{
+name = underlineThickness;
+value = 100;
+},
+{
+name = underlinePosition;
+value = -100;
+}
+);
+descender = -480;
+guideLines = (
+{
+angle = 180;
+name = " [locked]";
+position = "{1107, 333}";
+},
+{
+name = " [locked]";
+position = "{886, -1040}";
+},
+{
+name = " [locked]";
+position = "{1052, -543}";
+},
+{
+name = " [locked]";
+position = "{1492, -819}";
+},
+{
+name = " [locked]";
+position = "{440, -460}";
+},
+{
+angle = 270;
+name = " [locked]";
+position = "{280, 416}";
+},
+{
+angle = 90;
+name = " [locked]";
+position = "{2194, 332}";
+},
+{
+angle = 90;
+name = " [locked]";
+position = "{2154, 342}";
+},
+{
+angle = 270;
+name = " [locked]";
+position = "{240, 390}";
+},
+{
+angle = 90;
+name = " [locked]";
+position = "{392, 408}";
+},
+{
+angle = 90;
+name = " [locked]";
+position = "{2004, 52}";
+},
+{
+angle = 90;
+name = " [locked]";
+position = "{3360, 466}";
+},
+{
+angle = 90;
+name = " [locked]";
+position = "{3320, 306}";
+},
+{
+angle = 90;
+name = " [locked]";
+position = "{3208, 146}";
+},
+{
+position = "{-327, 2226}";
+},
+{
+name = " [locked]";
+position = "{1117, 1085}";
+},
+{
+angle = 90;
+name = " [locked]";
+position = "{1047, 843}";
+},
+{
+angle = 180;
+name = " [locked]";
+position = "{1117, 575}";
+}
+);
+horizontalStems = (
+200,
+210,
+212,
+220
+);
+id = "8E053A5E-67DA-4970-A6F5-068DBFE5AD21";
+verticalStems = (
+190,
+180
+);
+weight = Bold;
+weightValue = 750;
+xHeight = 1060;
+}
+);
+instances = (
+{
+interpolationWeight = 140;
+instanceInterpolations = {
+master01 = 1;
+};
+name = ExtraLight;
+weightClass = ExtraLight;
+},
+{
+interpolationWeight = 260;
+instanceInterpolations = {
+"1F90C004-9C90-48FA-B407-176B3E9F1E65" = 0.33333;
+master01 = 0.66667;
+};
+name = Light;
+weightClass = Light;
+},
+{
+customParameters = (
+{
+name = weightClass;
+value = 350;
+}
+);
+interpolationWeight = 380;
+instanceInterpolations = {
+"1F90C004-9C90-48FA-B407-176B3E9F1E65" = 0.66667;
+master01 = 0.33333;
+};
+name = SemiLight;
+},
+{
+interpolationWeight = 500;
+instanceInterpolations = {
+"1F90C004-9C90-48FA-B407-176B3E9F1E65" = 1;
+};
+name = Regular;
+},
+{
+interpolationWeight = 650;
+instanceInterpolations = {
+"1F90C004-9C90-48FA-B407-176B3E9F1E65" = 0.4;
+"8E053A5E-67DA-4970-A6F5-068DBFE5AD21" = 0.6;
+};
+name = SemiBold;
+weightClass = SemiBold;
+},
+{
+interpolationWeight = 750;
+instanceInterpolations = {
+"8E053A5E-67DA-4970-A6F5-068DBFE5AD21" = 1;
+};
+isBold = 1;
+linkStyle = Regular;
+name = Bold;
+weightClass = Bold;
+}
+);
+manufacturer = "Saja Typeworks";
+manufacturerURL = "http://sajatypeworks.com";
+unitsPerEm = 2048;
+userData = {
+GSDimensionPlugin.Dimensions = {
+"1F90C004-9C90-48FA-B407-176B3E9F1E65" = {
+HH = "186";
+HV = "212";
+OH = "190";
+OV = "220";
+};
+"32D0959D-6118-411E-BC46-DBE7BC1E7C0B" = {
+HH = "190";
+HV = "200";
+OH = "184";
+OV = "210";
+cydeH = "186";
+nV = "212";
+oH = "190";
+oV = "220";
+tH = "186";
+};
+"47A123F8-062D-4F48-9577-BC700BC51F36" = {
+HH = "88";
+HV = "90";
+OH = "90";
+OV = "92";
+cydeH = "90";
+nV = "94";
+oH = "92";
+oV = "96";
+tH = "90";
+};
+"7062B15D-7097-4448-A185-D08BD1167FB1" = {
+HV = "205";
+OH = "184";
+OV = "210";
+nV = "212";
+nd = "204";
+oH = "190";
+oV = "214";
+tH = "195";
+};
+"A38DF493-7C5F-490B-8624-7E8A09AEE4F3" = {
+nV = "270";
+oH = "257";
+oV = "287";
+tH = "250";
+};
+"CF6B61C3-38FB-41CB-B8C0-98C1B61AF433" = {
+HH = "254";
+HV = "276";
+OH = "265";
+OV = "290";
+cydeH = "264";
+nV = "282";
+oH = "270";
+oV = "300";
+tH = "264";
+};
+master01 = {
+HH = "90";
+HV = "94";
+OH = "90";
+OV = "96";
+};
+};
+com.schriftgestaltung.Glyphs.groupsNotInFeature = (
+);
+};
+versionMajor = 4;
+versionMinor = 300;
+}

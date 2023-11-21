@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dollar.BRACKET.varAlt01" format="2">
+  <advance width="600"/>
+  <outline>
+    <contour>
+      <point x="225" y="1340" type="line"/>
+      <point x="363" y="1340" type="line"/>
+      <point x="363" y="1740" type="line"/>
+      <point x="225" y="1740" type="line"/>
+    </contour>
+    <contour>
+      <point x="225" y="-320" type="line"/>
+      <point x="363" y="-320" type="line"/>
+      <point x="363" y="80" type="line"/>
+      <point x="225" y="80" type="line"/>
+    </contour>
+    <component base="S"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs._originalLayerName</key>
+      <string>[600]</string>
+      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
+      <string>CPP</string>
+    </dict>
+  </lib>
+</glyph>

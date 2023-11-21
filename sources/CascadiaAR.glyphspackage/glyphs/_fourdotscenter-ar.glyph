@@ -1,0 +1,80 @@
+{
+glyphname = "_fourdotscenter-ar";
+layers = (
+{
+components = (
+{
+name = "dotbelow-ar";
+transform = "{0.94, 0, 0, 0.94, -80, 681}";
+},
+{
+alignment = -1;
+name = "dotbelow-ar";
+transform = "{0.94, 0, 0, 0.94, -83, 434}";
+},
+{
+alignment = -1;
+name = "dotbelow-ar";
+transform = "{0.94, 0, 0, 0.94, 163, 682}";
+},
+{
+alignment = -1;
+name = "dotbelow-ar";
+transform = "{0.94, 0, 0, 0.94, 160, 435}";
+}
+);
+layerId = master01;
+width = 1200;
+},
+{
+components = (
+{
+name = "dotbelow-ar";
+transform = "{0.9, 0, 0, 0.9, -60, 681}";
+},
+{
+alignment = -1;
+name = "dotbelow-ar";
+transform = "{0.9, 0, 0, 0.9, -63, 434}";
+},
+{
+alignment = -1;
+name = "dotbelow-ar";
+transform = "{0.9, 0, 0, 0.9, 183, 682}";
+},
+{
+alignment = -1;
+name = "dotbelow-ar";
+transform = "{0.9, 0, 0, 0.9, 180, 435}";
+}
+);
+layerId = "1F90C004-9C90-48FA-B407-176B3E9F1E65";
+width = 1200;
+},
+{
+components = (
+{
+name = "dotbelow-ar";
+transform = "{0.9, 0, 0, 0.9, -60, 681}";
+},
+{
+alignment = -1;
+name = "dotbelow-ar";
+transform = "{0.9, 0, 0, 0.9, -63, 434}";
+},
+{
+alignment = -1;
+name = "dotbelow-ar";
+transform = "{0.9, 0, 0, 0.9, 183, 682}";
+},
+{
+alignment = -1;
+name = "dotbelow-ar";
+transform = "{0.9, 0, 0, 0.9, 180, 435}";
+}
+);
+layerId = "8E053A5E-67DA-4970-A6F5-068DBFE5AD21";
+width = 1200;
+}
+);
+}

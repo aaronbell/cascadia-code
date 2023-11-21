@@ -1,0 +1,110 @@
+{
+glyphname = Nhookleft;
+production = uni019D;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+position = "{600, -388}";
+}
+);
+components = (
+{
+name = N;
+}
+);
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"-28 -463 LINE SMOOTH",
+"190 -434 OFFCURVE",
+"266 -320 OFFCURVE",
+"266 -56 CURVE SMOOTH",
+"266 184 LINE",
+"172 184 LINE",
+"172 -48 LINE SMOOTH",
+"172 -257 OFFCURVE",
+"117 -350 OFFCURVE",
+"-38 -371 CURVE SMOOTH",
+"-75 -376 LINE",
+"-65 -468 LINE"
+);
+}
+);
+width = 1200;
+},
+{
+anchors = (
+{
+name = bottom;
+position = "{600, -388}";
+}
+);
+components = (
+{
+name = N;
+}
+);
+layerId = "1F90C004-9C90-48FA-B407-176B3E9F1E65";
+paths = (
+{
+closed = 1;
+nodes = (
+"12 -468 LINE SMOOTH",
+"230 -446 OFFCURVE",
+"356 -318 OFFCURVE",
+"356 -96 CURVE SMOOTH",
+"356 184 LINE",
+"148 184 LINE",
+"148 -79 LINE SMOOTH",
+"148 -193 OFFCURVE",
+"95 -249 OFFCURVE",
+"-8 -265 CURVE SMOOTH",
+"-78 -276 LINE",
+"-68 -476 LINE"
+);
+}
+);
+width = 1200;
+},
+{
+anchors = (
+{
+name = bottom;
+position = "{600, -388}";
+}
+);
+components = (
+{
+alignment = -1;
+name = N;
+}
+);
+layerId = "8E053A5E-67DA-4970-A6F5-068DBFE5AD21";
+paths = (
+{
+closed = 1;
+nodes = (
+"15 -477 LINE SMOOTH",
+"271 -473 OFFCURVE",
+"385 -355 OFFCURVE",
+"385 -96 CURVE SMOOTH",
+"385 184 LINE",
+"131 184 LINE",
+"131 -88 LINE SMOOTH",
+"131 -187 OFFCURVE",
+"88 -235 OFFCURVE",
+"-13 -237 CURVE SMOOTH",
+"-76 -240 LINE",
+"-74 -480 LINE"
+);
+}
+);
+width = 1200;
+}
+);
+unicode = 019D;
+}

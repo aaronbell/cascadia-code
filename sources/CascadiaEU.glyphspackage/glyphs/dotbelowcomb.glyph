@@ -1,0 +1,105 @@
+{
+glyphname = dotbelowcomb;
+layers = (
+{
+anchors = (
+{
+name = _bottom;
+position = "{600, 0}";
+},
+{
+name = bottom;
+position = "{600, -338}";
+}
+);
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"655 -386 OFFCURVE",
+"700 -342 OFFCURVE",
+"700 -287 CURVE SMOOTH",
+"700 -232 OFFCURVE",
+"655 -187 OFFCURVE",
+"600 -187 CURVE SMOOTH",
+"545 -187 OFFCURVE",
+"500 -232 OFFCURVE",
+"500 -287 CURVE SMOOTH",
+"500 -342 OFFCURVE",
+"545 -386 OFFCURVE",
+"600 -386 CURVE SMOOTH"
+);
+}
+);
+width = 1200;
+},
+{
+anchors = (
+{
+name = _bottom;
+position = "{600, 0}";
+},
+{
+name = bottom;
+position = "{600, -378}";
+}
+);
+layerId = "1F90C004-9C90-48FA-B407-176B3E9F1E65";
+paths = (
+{
+closed = 1;
+nodes = (
+"674 -420 OFFCURVE",
+"734 -360 OFFCURVE",
+"734 -286 CURVE SMOOTH",
+"734 -211 OFFCURVE",
+"674 -152 OFFCURVE",
+"600 -152 CURVE SMOOTH",
+"526 -152 OFFCURVE",
+"466 -211 OFFCURVE",
+"466 -286 CURVE SMOOTH",
+"466 -360 OFFCURVE",
+"526 -420 OFFCURVE",
+"600 -420 CURVE SMOOTH"
+);
+}
+);
+width = 1200;
+},
+{
+anchors = (
+{
+name = _bottom;
+position = "{600, 0}";
+},
+{
+name = bottom;
+position = "{600, -418}";
+}
+);
+layerId = "8E053A5E-67DA-4970-A6F5-068DBFE5AD21";
+paths = (
+{
+closed = 1;
+nodes = (
+"694 -448 OFFCURVE",
+"771 -372 OFFCURVE",
+"771 -278 CURVE SMOOTH",
+"771 -182 OFFCURVE",
+"694 -107 OFFCURVE",
+"600 -107 CURVE SMOOTH",
+"506 -107 OFFCURVE",
+"429 -182 OFFCURVE",
+"429 -278 CURVE SMOOTH",
+"429 -372 OFFCURVE",
+"506 -448 OFFCURVE",
+"600 -448 CURVE SMOOTH"
+);
+}
+);
+width = 1200;
+}
+);
+unicode = 0323;
+}

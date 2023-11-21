@@ -1,0 +1,86 @@
+{
+glyphname = whitePentagon;
+production = uni2B20;
+layers = (
+{
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"970 168 LINE",
+"1200 874 LINE",
+"600 1310 LINE",
+"0 874 LINE",
+"230 168 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"104 840 LINE",
+"600 1200 LINE",
+"1096 840 LINE",
+"906 258 LINE",
+"294 258 LINE"
+);
+}
+);
+width = 1200;
+},
+{
+layerId = "1F90C004-9C90-48FA-B407-176B3E9F1E65";
+paths = (
+{
+closed = 1;
+nodes = (
+"970 168 LINE",
+"1200 874 LINE",
+"600 1310 LINE",
+"0 874 LINE",
+"230 168 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"176 817 LINE",
+"600 1125 LINE",
+"1024 817 LINE",
+"861 318 LINE",
+"339 318 LINE"
+);
+}
+);
+width = 1200;
+},
+{
+layerId = "8E053A5E-67DA-4970-A6F5-068DBFE5AD21";
+paths = (
+{
+closed = 1;
+nodes = (
+"970 168 LINE",
+"1200 874 LINE",
+"600 1310 LINE",
+"0 874 LINE",
+"230 168 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"226 800 LINE",
+"600 1075 LINE",
+"974 800 LINE",
+"836 368 LINE",
+"364 368 LINE"
+);
+}
+);
+width = 1200;
+}
+);
+note = uni2B20;
+unicode = 2B20;
+}

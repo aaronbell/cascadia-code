@@ -1,0 +1,62 @@
+{
+glyphname = less.alt;
+layers = (
+{
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"965 97 LINE",
+"358 700 LINE",
+"358 718 LINE",
+"955 1321 LINE",
+"896 1388 LINE",
+"240 720 LINE",
+"240 698 LINE",
+"896 30 LINE"
+);
+}
+);
+width = 1200;
+},
+{
+layerId = "1F90C004-9C90-48FA-B407-176B3E9F1E65";
+paths = (
+{
+closed = 1;
+nodes = (
+"972 127 LINE",
+"417 700 LINE",
+"417 718 LINE",
+"972 1291 LINE",
+"847 1416 LINE",
+"223 770 LINE",
+"223 648 LINE",
+"847 2 LINE"
+);
+}
+);
+width = 1200;
+},
+{
+layerId = "8E053A5E-67DA-4970-A6F5-068DBFE5AD21";
+paths = (
+{
+closed = 1;
+nodes = (
+"992 167 LINE",
+"477 700 LINE",
+"477 718 LINE",
+"992 1251 LINE",
+"817 1416 LINE",
+"203 770 LINE",
+"203 648 LINE",
+"817 2 LINE"
+);
+}
+);
+width = 1200;
+}
+);
+}

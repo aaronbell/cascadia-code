@@ -1,0 +1,139 @@
+{
+glyphname = Iogonek;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+position = "{600, -388}";
+}
+);
+components = (
+{
+name = I;
+}
+);
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"659 -424 OFFCURVE",
+"694 -423 OFFCURVE",
+"726 -415 CURVE",
+"733 -332 LINE",
+"706 -335 OFFCURVE",
+"679 -337 OFFCURVE",
+"658 -337 CURVE SMOOTH",
+"555 -337 OFFCURVE",
+"496 -291 OFFCURVE",
+"496 -208 CURVE SMOOTH",
+"496 -87 OFFCURVE",
+"596 0 OFFCURVE",
+"770 0 CURVE",
+"770 50 LINE",
+"525 50 LINE",
+"525 -10 LINE",
+"447 -58 OFFCURVE",
+"402 -134 OFFCURVE",
+"402 -218 CURVE SMOOTH",
+"402 -349 OFFCURVE",
+"486 -424 OFFCURVE",
+"632 -424 CURVE SMOOTH"
+);
+}
+);
+width = 1200;
+},
+{
+anchors = (
+{
+name = bottom;
+position = "{600, -388}";
+}
+);
+components = (
+{
+name = I;
+}
+);
+layerId = "1F90C004-9C90-48FA-B407-176B3E9F1E65";
+paths = (
+{
+closed = 1;
+nodes = (
+"662 -424 OFFCURVE",
+"695 -421 OFFCURVE",
+"726 -415 CURVE",
+"744 -245 LINE",
+"714 -252 OFFCURVE",
+"685 -256 OFFCURVE",
+"662 -256 CURVE SMOOTH",
+"588 -256 OFFCURVE",
+"546 -224 OFFCURVE",
+"546 -168 CURVE SMOOTH",
+"546 -61 OFFCURVE",
+"628 0 OFFCURVE",
+"770 0 CURVE",
+"770 32 LINE",
+"510 30 LINE",
+"510 -20 LINE",
+"437 -44 OFFCURVE",
+"396 -114 OFFCURVE",
+"396 -212 CURVE SMOOTH",
+"396 -347 OFFCURVE",
+"483 -424 OFFCURVE",
+"636 -424 CURVE SMOOTH"
+);
+}
+);
+width = 1200;
+},
+{
+anchors = (
+{
+name = bottom;
+position = "{600, -388}";
+}
+);
+components = (
+{
+alignment = -1;
+name = I;
+}
+);
+layerId = "8E053A5E-67DA-4970-A6F5-068DBFE5AD21";
+paths = (
+{
+closed = 1;
+nodes = (
+"684 -424 OFFCURVE",
+"723 -421 OFFCURVE",
+"759 -415 CURVE",
+"777 -195 LINE",
+"747 -202 OFFCURVE",
+"718 -206 OFFCURVE",
+"695 -206 CURVE SMOOTH",
+"637 -206 OFFCURVE",
+"604 -177 OFFCURVE",
+"604 -126 CURVE SMOOTH",
+"604 -46 OFFCURVE",
+"671 0 OFFCURVE",
+"787 0 CURVE",
+"787 32 LINE",
+"527 30 LINE",
+"527 -28 LINE",
+"449 -52 OFFCURVE",
+"404 -118 OFFCURVE",
+"404 -212 CURVE SMOOTH",
+"404 -347 OFFCURVE",
+"495 -424 OFFCURVE",
+"653 -424 CURVE SMOOTH"
+);
+}
+);
+width = 1200;
+}
+);
+unicode = 012E;
+}

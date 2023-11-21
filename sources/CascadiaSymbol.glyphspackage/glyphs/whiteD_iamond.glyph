@@ -1,0 +1,80 @@
+{
+glyphname = whiteDiamond;
+production = uni25C7;
+layers = (
+{
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"1200 710 LINE",
+"600 1310 LINE",
+"0 710 LINE",
+"600 110 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"122 710 LINE",
+"600 1188 LINE",
+"1078 710 LINE",
+"600 232 LINE"
+);
+}
+);
+width = 1200;
+},
+{
+layerId = "1F90C004-9C90-48FA-B407-176B3E9F1E65";
+paths = (
+{
+closed = 1;
+nodes = (
+"1200 710 LINE",
+"600 1310 LINE",
+"0 710 LINE",
+"600 110 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"212 710 LINE",
+"600 1098 LINE",
+"988 710 LINE",
+"600 322 LINE"
+);
+}
+);
+width = 1200;
+},
+{
+layerId = "8E053A5E-67DA-4970-A6F5-068DBFE5AD21";
+paths = (
+{
+closed = 1;
+nodes = (
+"1200 710 LINE",
+"600 1310 LINE",
+"0 710 LINE",
+"600 110 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"287 710 LINE",
+"600 1023 LINE",
+"913 710 LINE",
+"600 397 LINE"
+);
+}
+);
+width = 1200;
+}
+);
+note = uni25C7;
+unicode = 25C7;
+}

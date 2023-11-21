@@ -1,0 +1,139 @@
+{
+glyphname = Eogonek;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+position = "{600, -388}";
+}
+);
+components = (
+{
+name = E;
+}
+);
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"984 -424 OFFCURVE",
+"1019 -423 OFFCURVE",
+"1051 -415 CURVE",
+"1058 -332 LINE",
+"1031 -335 OFFCURVE",
+"1004 -337 OFFCURVE",
+"983 -337 CURVE SMOOTH",
+"877 -337 OFFCURVE",
+"821 -293 OFFCURVE",
+"821 -208 CURVE SMOOTH",
+"821 -83 OFFCURVE",
+"923 0 OFFCURVE",
+"1075 0 CURVE",
+"950 32 LINE",
+"850 50 LINE",
+"850 -10 LINE",
+"766 -70 OFFCURVE",
+"727 -135 OFFCURVE",
+"727 -218 CURVE SMOOTH",
+"727 -353 OFFCURVE",
+"806 -424 OFFCURVE",
+"957 -424 CURVE SMOOTH"
+);
+}
+);
+width = 1200;
+},
+{
+anchors = (
+{
+name = bottom;
+position = "{600, -388}";
+}
+);
+components = (
+{
+name = E;
+}
+);
+layerId = "1F90C004-9C90-48FA-B407-176B3E9F1E65";
+paths = (
+{
+closed = 1;
+nodes = (
+"992 -424 OFFCURVE",
+"1025 -421 OFFCURVE",
+"1056 -415 CURVE",
+"1074 -245 LINE",
+"1044 -252 OFFCURVE",
+"1015 -256 OFFCURVE",
+"992 -256 CURVE SMOOTH",
+"918 -256 OFFCURVE",
+"876 -224 OFFCURVE",
+"876 -168 CURVE SMOOTH",
+"876 -61 OFFCURVE",
+"958 0 OFFCURVE",
+"1100 0 CURVE",
+"1080 32 LINE",
+"840 30 LINE",
+"840 -20 LINE",
+"767 -44 OFFCURVE",
+"726 -114 OFFCURVE",
+"726 -212 CURVE SMOOTH",
+"726 -347 OFFCURVE",
+"813 -424 OFFCURVE",
+"966 -424 CURVE SMOOTH"
+);
+}
+);
+width = 1200;
+},
+{
+anchors = (
+{
+name = bottom;
+position = "{600, -388}";
+}
+);
+components = (
+{
+alignment = -1;
+name = E;
+}
+);
+layerId = "8E053A5E-67DA-4970-A6F5-068DBFE5AD21";
+paths = (
+{
+closed = 1;
+nodes = (
+"997 -424 OFFCURVE",
+"1036 -421 OFFCURVE",
+"1073 -415 CURVE",
+"1091 -195 LINE",
+"1061 -202 OFFCURVE",
+"1032 -206 OFFCURVE",
+"1009 -206 CURVE SMOOTH",
+"951 -206 OFFCURVE",
+"918 -177 OFFCURVE",
+"918 -126 CURVE SMOOTH",
+"918 -46 OFFCURVE",
+"985 0 OFFCURVE",
+"1100 0 CURVE",
+"1080 32 LINE",
+"840 30 LINE",
+"840 -28 LINE",
+"762 -52 OFFCURVE",
+"718 -118 OFFCURVE",
+"718 -212 CURVE SMOOTH",
+"718 -347 OFFCURVE",
+"808 -424 OFFCURVE",
+"966 -424 CURVE SMOOTH"
+);
+}
+);
+width = 1200;
+}
+);
+unicode = 0118;
+}

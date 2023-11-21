@@ -1,0 +1,123 @@
+{
+glyphname = bar_bracketright.liga;
+layers = (
+{
+components = (
+{
+name = bar;
+transform = "{1, 0, 0, 1, 46, 0}";
+}
+);
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"1830 -214 LINE",
+"1830 1634 LINE",
+"1732 1634 LINE",
+"1732 -214 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"1752 -214 LINE",
+"1752 -122 LINE",
+"1146 -122 LINE",
+"1146 -214 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"1752 1542 LINE",
+"1752 1634 LINE",
+"1146 1634 LINE",
+"1146 1542 LINE"
+);
+}
+);
+width = 1200;
+},
+{
+components = (
+{
+name = bar;
+transform = "{1, 0, 0, 1, 46, 0}";
+}
+);
+layerId = "1F90C004-9C90-48FA-B407-176B3E9F1E65";
+paths = (
+{
+closed = 1;
+nodes = (
+"1854 -214 LINE",
+"1854 1634 LINE",
+"1646 1634 LINE",
+"1646 -214 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"1666 -214 LINE",
+"1666 -24 LINE",
+"1086 -24 LINE",
+"1086 -214 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"1666 1444 LINE",
+"1666 1634 LINE",
+"1086 1634 LINE",
+"1086 1444 LINE"
+);
+}
+);
+width = 1200;
+},
+{
+components = (
+{
+alignment = -1;
+name = bar;
+transform = "{1, 0, 0, 1, 46, 0}";
+}
+);
+layerId = "8E053A5E-67DA-4970-A6F5-068DBFE5AD21";
+paths = (
+{
+closed = 1;
+nodes = (
+"1884 -214 LINE",
+"1884 1634 LINE",
+"1620 1634 LINE",
+"1620 -214 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"1640 -214 LINE",
+"1640 27 LINE",
+"1016 27 LINE",
+"1016 -214 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"1640 1393 LINE",
+"1640 1634 LINE",
+"1016 1634 LINE",
+"1016 1393 LINE"
+);
+}
+);
+width = 1200;
+}
+);
+}

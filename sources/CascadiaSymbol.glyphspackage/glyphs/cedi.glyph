@@ -1,0 +1,68 @@
+{
+glyphname = cedi;
+production = uni20B5;
+layers = (
+{
+components = (
+{
+name = C;
+}
+);
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"750 -320 LINE",
+"750 1740 LINE",
+"656 1740 LINE",
+"656 -320 LINE"
+);
+}
+);
+width = 1200;
+},
+{
+components = (
+{
+name = C;
+}
+);
+layerId = "1F90C004-9C90-48FA-B407-176B3E9F1E65";
+paths = (
+{
+closed = 1;
+nodes = (
+"772 -320 LINE",
+"772 1740 LINE",
+"634 1740 LINE",
+"634 -320 LINE"
+);
+}
+);
+width = 1200;
+},
+{
+components = (
+{
+alignment = -1;
+name = C;
+}
+);
+layerId = "8E053A5E-67DA-4970-A6F5-068DBFE5AD21";
+paths = (
+{
+closed = 1;
+nodes = (
+"830 -320 LINE",
+"830 1740 LINE",
+"576 1740 LINE",
+"576 -320 LINE"
+);
+}
+);
+width = 1200;
+}
+);
+unicode = 20B5;
+}

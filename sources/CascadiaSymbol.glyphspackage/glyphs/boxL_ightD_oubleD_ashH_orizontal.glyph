@@ -1,0 +1,78 @@
+{
+glyphname = boxLightDoubleDashHorizontal;
+layers = (
+{
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"1050 660 LINE",
+"1050 754 LINE",
+"750 754 LINE",
+"750 660 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"450 660 LINE",
+"450 754 LINE",
+"150 754 LINE",
+"150 660 LINE"
+);
+}
+);
+width = 1200;
+},
+{
+layerId = "1F90C004-9C90-48FA-B407-176B3E9F1E65";
+paths = (
+{
+closed = 1;
+nodes = (
+"1050 603 LINE",
+"1050 811 LINE",
+"750 811 LINE",
+"750 603 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"450 603 LINE",
+"450 811 LINE",
+"150 811 LINE",
+"150 603 LINE"
+);
+}
+);
+width = 1200;
+},
+{
+layerId = "8E053A5E-67DA-4970-A6F5-068DBFE5AD21";
+paths = (
+{
+closed = 1;
+nodes = (
+"1050 575 LINE",
+"1050 839 LINE",
+"750 839 LINE",
+"750 575 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"450 575 LINE",
+"450 839 LINE",
+"150 839 LINE",
+"150 575 LINE"
+);
+}
+);
+width = 1200;
+}
+);
+unicode = 254C;
+}

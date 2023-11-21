@@ -1,0 +1,46 @@
+{
+glyphname = bullseye;
+production = uni25CE;
+layers = (
+{
+components = (
+{
+name = largeCircle;
+},
+{
+name = whiteBullet;
+}
+);
+layerId = master01;
+width = 1200;
+},
+{
+components = (
+{
+name = largeCircle;
+},
+{
+name = whiteBullet;
+}
+);
+layerId = "1F90C004-9C90-48FA-B407-176B3E9F1E65";
+width = 1200;
+},
+{
+components = (
+{
+alignment = -1;
+name = largeCircle;
+},
+{
+alignment = -1;
+name = whiteBullet;
+}
+);
+layerId = "8E053A5E-67DA-4970-A6F5-068DBFE5AD21";
+width = 1200;
+}
+);
+note = uni25CE;
+unicode = 25CE;
+}
