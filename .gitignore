@@ -331,7 +331,6 @@ ASALocalRun/
 .mfractor/
 
 # other files
-build/
 testground/
 newVTT.xml
 converter.py

@@ -1,5 +1,5 @@
 # Cascadia Code
-CascadiaCode.ttf:
+CascadiaCode[wght].ttf:
 - name: Weight
   tag: wght
   values:
@@ -7,8 +7,6 @@ CascadiaCode.ttf:
     value: 200
   - name: Light
     value: 300
-  - name: SemiLight
-    value: 350
   - name: Regular
     value: 400
     linkedValue: 700
@@ -24,7 +22,7 @@ CascadiaCode.ttf:
     value: 0
     linkedValue: 1
     flags: 2
-CascadiaCodeItalic.ttf:
+CascadiaCode-Italic[wght].ttf:
 - name: Weight
   tag: wght
   values:
@@ -32,8 +30,6 @@ CascadiaCodeItalic.ttf:
     value: 200
   - name: Light
     value: 300
-  - name: SemiLight
-    value: 350
   - name: Regular
     value: 400
     linkedValue: 700
@@ -47,7 +43,7 @@ CascadiaCodeItalic.ttf:
   values:
   - name: Italic
     value: 1
-CascadiaCodePL.ttf:
+CascadiaCodePL[wght].ttf:
 - name: Weight
   tag: wght
   values:
@@ -55,8 +51,6 @@ CascadiaCodePL.ttf:
     value: 200
   - name: Light
     value: 300
-  - name: SemiLight
-    value: 350
   - name: Regular
     value: 400
     linkedValue: 700
@@ -72,7 +66,7 @@ CascadiaCodePL.ttf:
     value: 0
     linkedValue: 1
     flags: 2
-CascadiaCodePLItalic.ttf:
+CascadiaCodePL-Italic[wght].ttf:
 - name: Weight
   tag: wght
   values:
@@ -80,8 +74,6 @@ CascadiaCodePLItalic.ttf:
     value: 200
   - name: Light
     value: 300
-  - name: SemiLight
-    value: 350
   - name: Regular
     value: 400
     linkedValue: 700
@@ -95,7 +87,7 @@ CascadiaCodePLItalic.ttf:
   values:
   - name: Italic
     value: 1
-CascadiaCodeNF.ttf:
+CascadiaCodeNF[wght].ttf:
 - name: Weight
   tag: wght
   values:
@@ -103,8 +95,6 @@ CascadiaCodeNF.ttf:
     value: 200
   - name: Light
     value: 300
-  - name: SemiLight
-    value: 350
   - name: Regular
     value: 400
     linkedValue: 700
@@ -120,7 +110,7 @@ CascadiaCodeNF.ttf:
     value: 0
     linkedValue: 1
     flags: 2
-CascadiaCodeNFItalic.ttf:
+CascadiaCodeNF-Italic[wght].ttf:
 - name: Weight
   tag: wght
   values:
@@ -128,8 +118,6 @@ CascadiaCodeNFItalic.ttf:
     value: 200
   - name: Light
     value: 300
-  - name: SemiLight
-    value: 350
   - name: Regular
     value: 400
     linkedValue: 700
@@ -145,7 +133,7 @@ CascadiaCodeNFItalic.ttf:
     value: 1
 
 # Cascadia Mono
-CascadiaMono.ttf:
+CascadiaMono[wght].ttf:
 - name: Weight
   tag: wght
   values:
@@ -153,8 +141,6 @@ CascadiaMono.ttf:
     value: 200
   - name: Light
     value: 300
-  - name: SemiLight
-    value: 350
   - name: Regular
     value: 400
     linkedValue: 700
@@ -170,7 +156,7 @@ CascadiaMono.ttf:
     value: 0
     linkedValue: 1
     flags: 2
-CascadiaMonoItalic.ttf:
+CascadiaMono-Italic[wght].ttf:
 - name: Weight
   tag: wght
   values:
@@ -178,8 +164,6 @@ CascadiaMonoItalic.ttf:
     value: 200
   - name: Light
     value: 300
-  - name: SemiLight
-    value: 350
   - name: Regular
     value: 400
     linkedValue: 700
@@ -193,7 +177,7 @@ CascadiaMonoItalic.ttf:
   values:
   - name: Italic
     value: 1
-CascadiaMonoPL.ttf:
+CascadiaMonoPL[wght].ttf:
 - name: Weight
   tag: wght
   values:
@@ -201,8 +185,6 @@ CascadiaMonoPL.ttf:
     value: 200
   - name: Light
     value: 300
-  - name: SemiLight
-    value: 350
   - name: Regular
     value: 400
     linkedValue: 700
@@ -218,7 +200,7 @@ CascadiaMonoPL.ttf:
     value: 0
     linkedValue: 1
     flags: 2
-CascadiaMonoPLItalic.ttf:
+CascadiaMonoPL-Italic[wght].ttf:
 - name: Weight
   tag: wght
   values:
@@ -226,8 +208,6 @@ CascadiaMonoPLItalic.ttf:
     value: 200
   - name: Light
     value: 300
-  - name: SemiLight
-    value: 350
   - name: Regular
     value: 400
     linkedValue: 700
@@ -241,7 +221,7 @@ CascadiaMonoPLItalic.ttf:
   values:
   - name: Italic
     value: 1
-CascadiaMonoNF.ttf:
+CascadiaMonoNF[wght].ttf:
 - name: Weight
   tag: wght
   values:
@@ -249,8 +229,6 @@ CascadiaMonoNF.ttf:
     value: 200
   - name: Light
     value: 300
-  - name: SemiLight
-    value: 350
   - name: Regular
     value: 400
     linkedValue: 700
@@ -266,7 +244,7 @@ CascadiaMonoNF.ttf:
     value: 0
     linkedValue: 1
     flags: 2
-CascadiaMonoNFItalic.ttf:
+CascadiaMonoNF-Italic[wght].ttf:
 - name: Weight
   tag: wght
   values:
@@ -274,8 +252,6 @@ CascadiaMonoNFItalic.ttf:
     value: 200
   - name: Light
     value: 300
-  - name: SemiLight
-    value: 350
   - name: Regular
     value: 400
     linkedValue: 700

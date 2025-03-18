@@ -236,7 +236,10 @@ def compile_variable_and_save(
     styleName = designspace.default.font.info.styleName
     file_stem = familyName.replace(" ", "")
     if "Italic" in styleName and "Italic" not in file_stem:
-        file_stem = file_stem+"Italic"
+        file_stem = file_stem+"-Italic"
+    elif "Italic" in file_stem:
+        file_stem = file_stem.replace("Italic","-Italic")
+    file_stem = file_stem+"[wght]"
     file_path: Path = (OUTPUT_TTF_DIR / file_stem).with_suffix(".ttf")
 
     print(f"[{familyName} {styleName}] Compiling")

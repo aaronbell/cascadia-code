@@ -4,7 +4,6 @@
     <axis tag="wght" name="Weight" minimum="200" maximum="700" default="400">
       <map input="200" output="140"/>
       <map input="300" output="260"/>
-      <map input="350" output="380"/>
       <map input="400" output="500"/>
       <map input="600" output="650"/>
       <map input="700" output="750"/>
@@ -98,32 +97,6 @@
             <real>0.33333</real>
             <key>A4690C19-62E3-4552-AAB4-AF5F97C4421F</key>
             <real>0.66667</real>
-          </dict>
-          <key>com.schriftgestaltung.manualInterpolation</key>
-          <false/>
-          <key>com.schriftgestaltung.weight</key>
-          <string>Light</string>
-          <key>com.schriftgestaltung.width</key>
-          <string>Medium (normal)</string>
-        </dict>
-      </lib>
-    </instance>
-    <instance name="Cascadia Code SemiLight Italic" familyname="Cascadia Code" stylename="SemiLight Italic" filename="instance_ufos/CascadiaCode-SemiLightItalic.ufo" stylemapfamilyname="Cascadia Code SemiLight" stylemapstylename="italic">
-      <location>
-        <dimension name="Weight" xvalue="380"/>
-      </location>
-      <kerning/>
-      <info/>
-      <lib>
-        <dict>
-          <key>com.schriftgestaltung.export</key>
-          <true/>
-          <key>com.schriftgestaltung.intanceInterpolations</key>
-          <dict>
-            <key>7062B15D-7097-4448-A185-D08BD1167FB1</key>
-            <real>0.66667</real>
-            <key>A4690C19-62E3-4552-AAB4-AF5F97C4421F</key>
-            <real>0.33333</real>
           </dict>
           <key>com.schriftgestaltung.manualInterpolation</key>
           <false/>
